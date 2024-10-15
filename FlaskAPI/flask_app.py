@@ -1,5 +1,6 @@
 from flask import Flask, jsonify
 
+import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
@@ -7,7 +8,7 @@ from sqlalchemy import create_engine
 
 # Database Setup
 #####################################################
-engine = create_engine("sqlite:///data/reduced_data.sqlite", echo=False)
+engine = create_engine("sqlite:///Data/fuel_stations.sqlite", echo=False)
 
 #reflect database to new model and table
 Base= automap_base()
@@ -15,10 +16,10 @@ Base= automap_base()
 Base.prepare(autoload_with=engine)
 
 #save references to table
-reduced_data= Base.classes.reduced_data
+fuel_stations = Base.classes.fuel_stations
 
 #Create session link from python to the DB
-session= Session(engine)
+session = Session(engine)
 
 #Flask Setup
 #####################################################
@@ -41,14 +42,14 @@ def home():
 
 @app.route("/api/v1.0/chargers_by_city/<town>")
 def chargers_by_city(town):
-    results = session.query(reduced_data.Title,
-                              reduced_data.AddressLine1,
-                              reduced_data.Town,
-                              reduced_data.StateOrProvince,
-                              reduced_data.Postcode,
-                              reduced_data.Latitude,
-                              reduced_data.Longitude,
-                              reduced_data.ConnectionTypeIDs).filter(reduced_data.Town == town).all()
+    results = session.query(fuel_stations.Title,
+                              fuel_stations.AddressLine1,
+                              fuel_stations.Town,
+                              fuel_stations.StateOrProvince,
+                              fuel_stations.Postcode,
+                              fuel_stations.Latitude,
+                              fuel_stations.Longitude,
+                              fuel_stations.ConnectionTypeIDs).filter(fuel_stations.Town == town).all()
     session.close()
 
     if not results:
@@ -75,14 +76,14 @@ def chargers_by_city(town):
 
 @app.route("/api/v1.0/chargers_by_state/<state>")
 def chargers_by_state(state):
-    results = session.query(reduced_data.Title,
-                              reduced_data.AddressLine1,
-                              reduced_data.Town,
-                              reduced_data.StateOrProvince,
-                              reduced_data.Postcode,
-                              reduced_data.Latitude,
-                              reduced_data.Longitude,
-                              reduced_data.ConnectionTypeIDs).filter(reduced_data.StateOrProvince == state).all()
+    results = session.query(fuel_stations.Title,
+                              fuel_stations.AddressLine1,
+                              fuel_stations.Town,
+                              fuel_stations.StateOrProvince,
+                              fuel_stations.Postcode,
+                              fuel_stations.Latitude,
+                              fuel_stations.Longitude,
+                              fuel_stations.ConnectionTypeIDs).filter(fuel_stations.StateOrProvince == state).all()
     session.close()
 
     if not results:

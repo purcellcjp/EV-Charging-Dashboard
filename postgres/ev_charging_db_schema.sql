@@ -26,10 +26,9 @@ CREATE DATABASE "EV_Charging_db"
 --------------------------------------------------
 --  Drop Tables if they Exists
 --------------------------------------------------
-DROP TABLE IF EXISTS alt_fuel_stations;
-DROP TABLE IF EXISTS subcategory;
-DROP TABLE IF EXISTS campaign;
-DROP TABLE IF EXISTS contacts;
+DROP TABLE IF EXISTS fuel_stations;
+DROP TABLE IF EXISTS access_code;
+DROP TABLE IF EXISTS ev_connector_types;
 
 
 --------------------------------------------------
@@ -52,8 +51,8 @@ private 	Private
 --------------------------------------------------
 CREATE TABLE ev_connector_types 
 (
- code		        VARCHAR(50)		PRIMARY KEY,
- code_descp	        VARCHAR(50)		NOT NULL
+ connector_type_code    VARCHAR(50)		PRIMARY KEY,
+ code_descp	        	VARCHAR(50)		NOT NULL
 );
 
 /*
@@ -74,7 +73,7 @@ CREATE TABLE fuel_stations
 (
  id				    SERIAL 			PRIMARY KEY,
  station_name	    VARCHAR(50)		NOT NULL,
- access_code        VARCHAR(50)		NOT NULL,
+ access_code        VARCHAR(50)	NOT NULL,
  owner      		VARCHAR(75)		NOT NULL,
  last_used			DATE            NOT NULL,
  open_date			DATA            NOT NULL,
@@ -83,12 +82,12 @@ CREATE TABLE fuel_stations
  level2_charging	CHAR(1)			NULL,
  street_address		VARCHAR(50)		NOT NULL,
  city		        VARCHAR(50)	    NOT NULL,
- state              CHAR(2)         NOT NULL,
+ state              CHAR(2)        NOT NULL,
  zipcode			CHAR(5)		    NOT NULL,
  latitude		    DECIMAL(18,4)	NOT NULL,
  longitude		    DECIMAL(18,4)	NOT NULL,
- pricing            VARCHAR(50)     NOT NULL,
- connector_type     VARCHAR(MAX)    NOT NULL
+ pricing            VARCHAR(50)    NOT NULL,
+ connector_type     VARCHAR    	NOT NULL
 );
 
 
@@ -99,40 +98,37 @@ CREATE TABLE fuel_stations
 -- Table Imports
 --------------------------------------------------
 --------------------------------------------------
-COPY category
+COPY access_code
 FROM 'C:\Users\purce\Documents\GitHub\Crowdfunding_ETL\Resources\category.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY subcategory
+COPY ev_connector_types
 FROM 'C:\Users\purce\Documents\GitHub\Crowdfunding_ETL\Resources\subcategory.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY contacts
+COPY fuel_stations
 FROM 'C:\Users\purce\Documents\GitHub\Crowdfunding_ETL\Resources\contacts.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY campaign
-FROM 'C:\Users\purce\Documents\GitHub\Crowdfunding_ETL\Resources\campaign.csv'
-DELIMITER ','
-CSV HEADER;
+
 
 
 --------------------------------------------------
 --------------------------------------------------
--- Add Table Foreign Keys to table campaign
+-- Add Table Foreign Keys to table fuel_stations
 --------------------------------------------------
 --------------------------------------------------
-ALTER TABLE campaign
+ALTER TABLE fuel_stations
 ADD CONSTRAINT fk_contacts_contact_id
 FOREIGN KEY(contact_id)
 REFERENCES contacts(contact_id)
 ON DELETE CASCADE;
 
 		
-ALTER TABLE campaign
+ALTER TABLE fuel_stations
 ADD CONSTRAINT fk_category_id
 FOREIGN KEY(category_id)
 REFERENCES category(category_id)

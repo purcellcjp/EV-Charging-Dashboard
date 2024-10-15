@@ -1,5 +1,6 @@
-import pandas as pd
-from sqlalchemy import Column, Integer, Float, String
+
+import sqlalchemy
+from sqlalchemy import Column, Integer, Float, String, Date
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
