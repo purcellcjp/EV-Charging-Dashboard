@@ -29,5 +29,4 @@ fetch('NREL_GeoJSON.geojson')
         }
       }
     }).addTo(myMap);
-  })
-  .catch(err => console.error(err));
+  });
