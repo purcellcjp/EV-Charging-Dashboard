@@ -1,0 +1,1141 @@
+Fuel Type Code,Station Name,Street Address,Date Last Confirmed,Groups With Access Code,State,City,Open Date,ZIP,EV Connector Types,EV Pricing,Latitude,Longitude,Access Code,ID
+ELEC,One Parking,555 12th St NW,2023-08-10,Public,DC,Washington,2012-03-01,20004,J1772,Free,38.896703,-77.027621,public,1
+ELEC,Maritime Plaza,1201 M St SE,2023-08-10,Private,DC,Washington,2012-12-01,20003,J1772,$0.20 per kWh,38.87593,-76.989468,private,3
+ELEC,Chevy Chase Pavilion,5355 Wisconsin Ave NW,2023-08-10,Public,DC,Washington,2013-04-30,20015,J1772,Free,38.960472,-77.084739,public,7
+ELEC,JBG - Fort Totten Square,300 Riggs Rd NE,2024-10-08,Public,DC,Washington,2016-01-16,20011,J1772,Free,38.958255,-77.002273,public,18
+ELEC,Washington Plaza Hotel - Tesla Destination,10 Thomas Cir NW,2022-10-06,Public,DC,Washington,2017-12-07,20005,J1772 TESLA,Free,38.906456,-77.031163,public,28
+ELEC,Morrison-Clark Historic Inn & Restaurant - Tesla Destination,1011 L St NW,2022-10-06,Public,DC,Washington,2018-08-31,20001,J1772 TESLA,Free,38.9043681,-77.0267268,public,29
+ELEC,"The Donovan, a Kimpton Hotel - Tesla Destination",1155 14th St NW,2022-10-06,Public,DC,Washington,2015-11-19,20005,J1772 TESLA,Free,38.904958,-77.031772,public,30
+ELEC,Park Hyatt Washington - Tesla Destination,1201 24th St NW,2022-10-06,Public,DC,Washington,2018-05-14,20037,J1772 TESLA,Free,38.9058204,-77.0512085,public,31
+ELEC,Kimpton Rouge Hotel - Tesla Destination,1315 16th St NW,2022-10-06,Public,DC,Washington,2015-12-11,20036,J1772 TESLA,Free,38.908258,-77.036037,public,32
+ELEC,"Mandarin Oriental, Washington DC - Tesla Destination",1330 Maryland Ave SW,2022-10-06,Public,DC,Washington,2015-01-27,20024,TESLA,Free,38.883828,-77.030247,public,33
+ELEC,Kimpton Mason & Rook Hotel - Tesla Destination,1430 Rhode Island Ave,2022-10-06,Public,DC,Washington,2016-07-19,20005,J1772 TESLA,Free,38.908429,-77.033132,public,34
+ELEC,The Kimpton George Hotel - Tesla Destination,15 E St NW,2022-10-06,Public,DC,Washington,2015-11-30,20001,J1772 TESLA,Free,38.896373,-77.010017,public,35
+ELEC,Courtyard Washington Embassy Row - Tesla Destination,1600 Rhode Island Ave NW,2022-10-06,Public,DC,Washington,2016-01-25,20036,TESLA,Free,38.906641,-77.036861,public,36
+ELEC,Kimpton Carlyle Hotel - Tesla Destination,1731 New Hampshire Ave NW,2022-10-06,Public,DC,Washington,2015-11-11,20009,J1772 TESLA,Free,38.913322,-77.039525,public,37
+ELEC,One Parking 2000 K - Tesla Destination,2000 K St NW,2022-10-06,Public,DC,Washington,2018-06-12,20006,TESLA,Free,38.9020444,-77.0453237,public,38
+ELEC,Embassy Row Hotel - Tesla Destination,2015 Massachusetts Ave NW,2022-10-06,Public,DC,Washington,2015-10-28,20036,J1772 TESLA,Free,38.910623,-77.045745,public,39
+ELEC,Atlantic Plumbing Building Parking - Tesla Destination,2112 8th St NW,2022-10-06,Public,DC,Washington,2017-01-04,20001,TESLA,Free,38.918283,-77.023174,public,40
+ELEC,State Plaza Hotel - Tesla Destination,2117 E St NW,2022-10-06,Public,DC,Washington,2018-10-03,20037,J1772 TESLA,Free,38.8962171,-77.047623,public,41
+ELEC,Kimpton Hotel Palomar Washington DC - Tesla Destination,2121 P St NW,2022-10-06,Public,DC,Washington,2015-12-23,20037,J1772 TESLA,Free,38.909852,-77.047399,public,42
+ELEC,Avenue Suites Georgetown - Tesla Destination,2500 Pennsylvania Ave NW,2022-10-06,Public,DC,Washington,2018-04-30,20037,TESLA,Free,38.9033344,-77.0536137,public,43
+ELEC,Kimpton Glover Park Hotel - Tesla Destination,2505 Wisconsin Ave NW,2022-10-06,Public,DC,Washington,2016-07-19,20007,J1772 TESLA,Free,38.92336,-77.072855,public,44
+ELEC,The Watergate Hotel - Tesla Destination,2650 Virginia Ave NW,2022-10-06,Public,DC,Washington,2018-01-22,20037,TESLA,Free,38.8993596,-77.0557605,public,45
+ELEC,Four Seasons Washington D.C. - Tesla Destination,2800 Pennsylvania Ave NW,2022-10-06,Public,DC,Washington,2018-02-28,20007,TESLA,Free,38.904437,-77.057389,public,46
+ELEC,Hyatt Regency Washington on Capitol Hill - Tesla Destination,400 New Jersey Ave NW,2022-10-06,Public,DC,Washington,2016-04-19,20001,J1772 TESLA,Free,38.895083,-77.011283,public,47
+ELEC,The Liaison Capitol Hill - Tesla Destination,415 New Jersey Ave NW,2022-10-06,Public,DC,Washington,2018-04-13,20001,TESLA,Free,38.8954701,-77.0109949,public,48
+ELEC,Hilton Garden Inn Washington DC Downtown - Tesla Destination,815 14th St NW,2022-10-06,Public,DC,Washington,2015-12-10,20005,TESLA,Free,38.9007011,-77.0316487,public,49
+ELEC,Embassy Suites by Hilton Convention Center - Tesla Destination,900 10th St NW,2022-10-06,Public,DC,Washington,2017-03-23,20001,J1772 TESLA,Free,38.901937,-77.026251,public,50
+ELEC,Hampton Inn Washington-Downtown-Convention Center - Tesla Destination,901 6th St NW,2022-10-06,Public,DC,Washington,2015-12-07,20001,TESLA,Free,38.901964,-77.019837,public,51
+ELEC,Marriott Marquis Washington D.C. - Tesla Destination,901 Massachusetts Ave NW,2022-10-06,Public,DC,Washington,2015-12-07,20001,J1772 TESLA,Free,38.903543,-77.024973,public,52
+ELEC,The St. Regis Washington D.C. - Tesla Destination,923 16th St NW,2022-10-06,Public,DC,Washington,2015-10-06,20006,TESLA,Free,38.9021295,-77.0361522,public,53
+ELEC,901 K Street NW - Tesla Destination,901 K St NW,2022-10-06,Public,DC,Washington,2019-04-04,20036,TESLA,Free,38.903059,-77.025601,public,61
+ELEC,1255 23rd St NW - Tesla Destination,1255 23rd St NW,2022-10-06,Public,DC,Washington,2019-04-05,20037,J1772 TESLA,Free,38.9062733,-77.0498542,public,62
+ELEC,The Hub - Tesla Destination,1615 L St NW,2022-10-06,Public,DC,Washington,2019-04-25,20036,J1772 TESLA,Free,38.904273,-77.037481,public,63
+ELEC,Foxhall East Inc.,"4200 Massachusetts Ave, NW",2024-10-08,Public,DC,Washington,2017-09-20,20016,J1772,$1.00-$2.00/Hr Variable Parking Fee,38.9348171,-77.0828442,public,64
+ELEC,Lenkin Co 2201,2201 Wisconsin Ave NW,2024-10-08,Public,DC,Washington,2011-10-19,20007,J1772,$1.00/Hr Parking Fee,38.9192265,-77.0706446,public,65
+ELEC,The Louis,1920 14th Street NW,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2015-02-16,20009,J1772,FREE,38.9163243,-77.0323174,public,66
+ELEC,Rhode Island Row,"2350 Washington Place, NE.",2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2011-10-25,20018,J1772,FREE,38.9215664,-76.993693,public,67
+ELEC,531707 Lenkin Co 1625,1625 Massachusetts Avenue Northwest,2024-10-08,Public,DC,Washington,2018-09-10,20036,J1772,$1.00/Hr Parking Fee,38.9081864,-77.0380059,public,68
+ELEC,1250 Connecticut,"1250 Connecticut Avenue, NW",2024-10-08,Public,DC,Washington,2015-02-16,20036,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.9068836,-77.0423311,public,69
+ELEC,531713  The Jefferson Building,1225 19th Street Northwest,2024-10-08,Public,DC,Washington,2019-02-06,20036,J1772,$0.15/kWh Energy Fee,38.9066664,-77.0430436,public,70
+ELEC,Hines - 1200 Nineteenth Street NW,1200 19th Street NW Suite 260,2024-10-08,Public,DC,Washington,2016-12-21,20036,J1772,$1.00/Hr Parking Fee,38.9060995,-77.0438477,public,71
+ELEC,Holiday Inn Washington DC-Central/White House,1501 Rhode Island Avenue NW,2024-10-08,Public,DC,Washington,2012-08-29,20005,J1772,$2.00/Hr Parking Fee,38.9079994,-77.0347353,public,72
+ELEC,1200 17th Street NW,"1200 17th Street, NW",2024-10-08,Public,DC,Washington,2014-11-05,20036,J1772,FREE,38.9057498,-77.0387055,public,73
+ELEC,1920 L Street,1920 L Street NW,2024-10-08,Public,DC,Washington,2013-11-01,20036,J1772,$1.50/Hr Parking Fee,38.903492,-77.044477,public,74
+ELEC,1900 L Street,1900 L Street NW,2024-10-08,Public,DC,Washington,2013-11-01,20036,J1772,$1.50/Hr Parking Fee,38.903492,-77.043903,public,75
+ELEC,1020 19th Street,1020 19th Street NW,2024-10-08,Public,DC,Washington,2016-10-28,20036,J1772,$1.50/Hr Parking Fee,38.903147,-77.043825,public,76
+ELEC,Eleven Hundred Connecticut Avenue,1100 Connecticut Avenue Northwest,2024-10-08,Public,DC,Washington,2019-06-03,20036,J1772,$1.00/Hr Parking Fee,38.9039725,-77.0405507,public,77
+ELEC,"531706  1667 K Street, NW",1667 K Street Northwest,2024-10-08,Public,DC,Washington,2018-07-17,20006,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.9030183,-77.0381339,public,78
+ELEC,"531705  1331 F Street, NW",1331 F Street Northwest,2024-10-08,Public,DC,Washington,2016-04-04,20004,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.897643,-77.0309368,public,79
+ELEC,"10 G Street, NE","10 G St, NE",2024-10-08,Public,DC,Washington,2015-03-05,20002,J1772,$0.00-$5.00/Hr Variable Parking Fee,38.8998373,-77.0071072,public,80
+ELEC,"APA 750 First St, NE","750 First St, NE",2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2015-03-20,20002,J1772,$0.00-$5.00/Hr Variable Parking Fee,38.8998373,-77.0071072,public,81
+ELEC,Lexington/Market Sq Parking Garage,401 9th St NW & D St NW,2024-10-08,Public,DC,Washington,2011-12-20,20004,J1772,$1.00-$5.00/Hr Variable Parking Fee,38.89475995,-77.02395767,public,82
+ELEC,122 C Street,122 C Street NW,2024-10-08,Public,DC,Washington,2012-01-02,20001,J1772,$1.50/Hr Parking Fee,38.893317,-77.013021,public,83
+ELEC,Central Parking - 101 Constitution,101 Constitution Avenue Northwest,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2011-11-29,20001,J1772,FREE,38.8926815,-77.0131214,public,84
+ELEC,375 - Patriots Plaza,375 E Street Southwest,2024-10-08,Public,DC,Washington,2017-01-19,20024,J1772,FREE,38.8840361,-77.0169844,public,85
+ELEC,355 - Patriots Plaza,355 E Street Southwest,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2017-09-21,20024,J1772,FREE,38.8837304,-77.0165323,public,86
+ELEC,Hyatt Washington DC North Mall,400 E Street Southwest,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2015-09-09,20024,J1772,FREE,38.8829816,-77.0180331,public,87
+ELEC,SQUARE 54,2200 Pennsylvania Ave NW,2024-10-08,Public,DC,Washington,2019-10-30,20037,J1772,"$1.00-$5.00/Hr Variable Parking Fee, $0.22/kWh Energy Fee",38.9017929,-77.0493245,public,91
+ELEC,"Lenkin 1133A, Lenkin 1133B",1133 Connecticut Avenue Northwest,2024-10-08,Public,DC,Washington,2019-11-13,20036,J1772,$1.00/Hr Parking Fee,38.9049056,-77.0401315,public,93
+ELEC,"Lenkin 1050A, Lenkin 1050B",1050 K Street Northwest,2024-10-08,Public,DC,Washington,2019-11-13,20001,J1772,$1.00/Hr Parking Fee,38.9021405,-77.0267154,public,94
+ELEC,Rosewood Washington D.C. - Tesla Destination,1050 31st Street NW,2022-10-06,Public,DC,Washington,2017-04-06,20007,TESLA,Free,38.903912,-77.061216,public,95
+ELEC,"Capella Washington, D.C. - Tesla Destination",1050 31st St NW,2022-10-06,Public,DC,Washington,2016-01-19,20007,J1772 TESLA,Free,38.904031,-77.061463,public,96
+ELEC,1501 New York Ave NE - Tesla Destination,1501 New York Ave NE,2022-10-06,Public,DC,Washington,2019-08-08,20002,J1772 TESLA,Free,38.915614,-76.983038,public,97
+ELEC,Columbia Center - Tesla Destination,1152 15th St NW,2022-10-06,Public,DC,Washington,2019-04-09,20005,TESLA,Free,38.90493,-77.035048,public,98
+ELEC,1875 K Street - Tesla Destination,1875 K St NW,2022-10-06,Public,DC,Washington,2019-04-01,20036,TESLA,Free,38.902991,-77.043045,public,99
+ELEC,1700 New York Avenue - Tesla Destination,1700 New York Ave,2022-10-06,Public,DC,Washington,2019-04-04,20006,J1772 TESLA,Free,38.896069,-77.040275,public,100
+ELEC,531714 - 799 9th Street,"799 9th Street NW, Suite 102",2024-10-08,Public,DC,Washington,2019-02-06,20001,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.899515,-77.023468,public,103
+ELEC,Lincoln Square - 555 11th Street NW,555 11th Street Northwest,2024-10-08,Public,DC,Washington,2019-11-11,20004,J1772,FREE,38.8967861,-77.0264518,public,104
+ELEC,Parcel O at the Yards,1346 4th St SE,2024-10-08,Public,DC,Washington,2020-03-30,20003,J1772,Free,38.873894,-77.000066,public,108
+ELEC,Whole Foods - DC,965 Florida Ave NW,2024-10-08,Public,DC,Washington,2020-07-11,20001,J1772,Free,38.919526,-77.024665,public,114
+ELEC,JBG - The Foundry,1055 Thomas Jefferson St NW,2024-10-08,Public,DC,Washington,2020-08-01,20007,J1772,Free,38.903686,-77.059528,public,115
+ELEC,20 M St. Parking,20 M St. SE,2024-10-08,Public,DC,Washington,2020-08-01,20003,J1772,Free,38.876829,-77.007855,public,116
+ELEC,500 LEnfant Plaza,500 L'Enfant Plaza SW,2024-10-08,Public,DC,Washington,2020-08-01,20024,J1772,Free,38.883395,-77.0234,public,117
+ELEC,JBG 2101 L Street - B1,2101 L Street,2024-10-08,Public,DC,Washington,2020-09-22,20037,J1772,Free,38.90394,-77.04772,public,118
+ELEC,City Center Hines,870 9th Street Northwest,2024-10-08,Public,DC,Washington,2017-10-06,20001,J1772,$0.00-$5.00/Hr Variable Parking Fee,38.9005843,-77.0244732,public,120
+ELEC,"The Residences at the Ritz-Carlton, Washington D.C. - Tesla Destination",1111 23rd St,2022-10-06,Public,DC,Washington,2015-07-01,20037,TESLA,Free,38.904875,-77.050069,public,123
+ELEC,"The Ritz-Carlton, Georgetown - Tesla Destination",3100 South Street NW,2022-10-06,Public,DC,Washington,2017-06-19,20007,TESLA,Free,38.903413,-77.061943,public,124
+ELEC,FMS2,2796 Mitcher Rd SW,2024-01-10,Private - Government only,DC,Anacostia Naval Station,2021-01-15,20373,J1772,Free,38.858158,-77.011997,private,170
+ELEC,FAA - Headquarters Office Building (HDQ 10A),800 Independence Ave SW,2022-02-10,Private - Government only,DC,Washington,2021-01-15,20591,J1772,Free,38.88691383347291,-77.0226993730774,private,172
+ELEC,GSA FLEET / WESTCTYARD,501-555 19th St NW,2024-01-10,Private - Government only,DC,Washington,2021-01-15,20036,J1772,Free,38.896008,-77.043471,private,173
+ELEC,OPM Motor Pool,1900 E St NW,2024-01-10,Private - Government only,DC,Washington,2021-01-15,20415,J1772,Free,38.8948,-77.0369,private,174
+ELEC,US MINT,801 9th St NW,2024-01-10,Private - Government only,DC,Washington,2021-01-15,20001,J1772,$0.12 per kWh,38.900627,-77.023611,private,175
+ELEC,BEP #2,201-301 14th St SW,2024-01-10,Private - Government only,DC,Washington,2021-01-15,20024,J1772,$0.30 per kWh,38.885703,-77.032041,private,176
+ELEC,395 - Patriots Plaza,395 E Street Southwest,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2021-01-22,20024,J1772,FREE,38.8835524,-77.0171795,public,187
+ELEC,4801 Connecticut Apartments,4801 Connecticut Avenue Northwest,2024-10-08,Public,DC,Washington,2020-11-25,20008,J1772,"$0.00-$4.00/Hr Variable Parking Fee, $0.25/kWh Energy Fee",38.9342066,-77.0577025,public,188
+ELEC,Heyday Properties,1501 M St NW,2022-10-11,Public,DC,Washington,2021-03-15,20005,J1772,Free,38.906076,-77.034846,public,189
+ELEC,Days Inn Connecticut Ave,4400 Connecticut Ave NW,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2011-12-12,20008,J1772,FREE,38.94693,-77.065639,public,191
+ELEC,Conrad Washington DC,950 New York Avenue Northwest,2024-10-08,Public,DC,Washington,2021-01-21,20001,J1772,$0.25/kWh Energy Fee,38.901306,-77.0255817,public,194
+ELEC,SP Plus - 1101 Vermont Ave,1101 Vermont Ave NW,2024-10-08,Public,DC,Washington,2021-04-15,20005,J1772,Free,38.903956,-77.032354,public,195
+ELEC,1701 Rhode Island Inc.,1701 Rhode Island Avenue Northwest,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2019-01-14,20036,J1772,FREE,38.9067117,-77.0387573,public,196
+ELEC,The Savoy Apartments,2101 L Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2021-06-09,20037,J1772,Free,38.90394,-77.04772,public,200
+ELEC,500 E Street SW,500 E Street Southwest,2024-10-08,Public,DC,Washington,2017-08-14,20024,J1772,"$1.50/Hr Parking Fee , $0.25/kWh Energy Fee",38.8829566,-77.0190848,public,201
+ELEC,Washington Square - Central Parking,1050 Connecticut Ave NW,2024-10-08,Public,DC,Washington,2021-07-22,20036,J1772,Free,38.903332,-77.04045,public,202
+ELEC,1331,1331 Maryland Avenue Southwest,2024-10-08,Public,DC,Washington,2019-06-19,20024,J1772,FREE,38.8840965,-77.0310022,public,203
+ELEC,District Wharf Parking Garage - Public Access on P1,1000 Maine,2024-10-08,Public,DC,Washington,2017-08-24,20024,J1772,FREE,38.8807429,-77.0266704,public,204
+ELEC,2000 M St,2000 M Street,2024-10-08,Public,DC,Washington,2011-12-01,20036,J1772,$1.50/Hr Parking Fee,38.905461,-77.045209,public,205
+ELEC,Washington Office Center,409 3rd Street Southwest,2024-10-08,Public,DC,Washington,2021-01-22,20024,J1772,$1.00/Hr Parking Fee,38.884762,-77.0155718,public,206
+ELEC,"1015 15th Street, Inc.",1015 15th Street NW,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2015-11-11,20005,J1772,FREE,38.9033169,-77.0339576,public,207
+ELEC,1400 K St NW,1400 K Street Northwest,2024-10-08,Public,DC,Washington,2014-09-17,20005,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.9021614,-77.0322943,public,208
+ELEC,1400 Eye Street,1400 I Street NW,2024-10-08,Public,DC,Washington,2012-01-02,20005,J1772,$1.50/Hr Parking Fee,38.901006,-77.032358,public,209
+ELEC,Sentinel Square III,45 L Street Northeast,2024-10-08,Public,DC,Washington,2020-06-22,20002,J1772,FREE,38.9036883,-77.0074877,public,210
+ELEC,531708  Lexington/Market Sq Parking Garage,401 9th St NW & 875 D St NW,2024-10-08,Public,DC,Washington,2018-09-10,20004,J1772,$1.00-$5.00/Hr Variable Parking Fee,38.895425,-77.023752,public,211
+ELEC,600 Mass Ave,600 Massachusetts Avenue Northwest,2024-10-08,Public,DC,Washington,2016-09-27,20001,J1772,FREE,38.9012307,-77.0207401,public,212
+ELEC,531711  JBAB / MWR,Chappie James Boulevard,2024-10-08,Public,DC,Washington,2018-10-25,20032,J1772,$0.00-$1.50/Hr Variable Parking Fee,38.8401346,-77.0171786,public,213
+ELEC,Akridge,"601 Thirteenth Street NW, Suite 300",2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2013-03-29,20005,J1772,FREE,38.897813,-77.029352,public,214
+ELEC,Rockview Apartments,1400 Rock Creek Ford Road Northwest,2024-10-08,Public,DC,Washington,2020-11-24,20011,J1772,"$0.00-$4.00/Hr Variable Parking Fee, $0.25/kWh Energy Fee",38.9632417,-77.0334229,public,215
+ELEC,District Wharf Parking Garage,800 Maine Avenue Southwest,2024-10-08,Public,DC,Washington,2017-08-24,20024,J1772,FREE,38.8781511,-77.0223675,public,216
+ELEC,Target Ivy City,1515 New York Avenue Northeast,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2019-05-29,20002,J1772,FREE,38.916308,-76.982415,public,217
+ELEC,1200 K,1200 K St. NW Suite 100,2024-10-08,Public,DC,Washington,2020-10-15,20005,J1772,FREE,38.9021125,-77.0286047,public,218
+ELEC,AZ/JH REIT (DC) LP c/o Transwestern,"1100 New York Avenue, NW Suite Ground Floor",2024-10-08,Public,DC,Washington,2021-08-26,20005,J1772,FREE,38.9002423,-77.0274863,public,226
+ELEC,Beckerts Park Apartments,1350 E Street Southeast,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2019-08-27,20003,J1772,FREE,38.8831947,-76.9864307,public,227
+ELEC,Hall of the States Office Building,400/444 North Capitol Street NW,2024-10-08,Public,DC,Washington,2021-11-11,20001,J1772,$1.00/Hr Parking Fee,38.8957704,-77.0094944,public,228
+ELEC,Resources and Conservation Center,1400 16th Street Northwest,2024-10-08,Public,DC,Washington,2021-10-15,20036,J1772,$1.00/Hr Parking Fee,38.9090483,-77.0371063,public,229
+ELEC,1801 Pennsylvania Avenue Northwest,1801 Pennsylvania Avenue Northwest,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2019-05-08,20006,J1772,FREE,38.9004219,-77.0418833,public,230
+ELEC,600 New Hampshire Ave,600 New Hampshire Avenue Northwest,2024-10-08,Public,DC,Washington,2019-11-20,20037,J1772,$1.50/Hr Parking Fee,38.8978425,-77.0551966,public,234
+ELEC,Capitol Crossing,200 Massachusetts Ave NW,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2022-01-31,20001,J1772,Free,38.898971,-77.014127,public,238
+ELEC,Metropolitan Square Garage,655 15th Street NW,2024-10-08,Public,DC,Washington,2021-11-03,20005,J1772,$1.00-$5.00/Hr Variable Parking Fee,38.898011,-77.0336201,public,239
+ELEC,Union Place,200 K Street NE,2024-10-08,Public,DC,Washington,2017-09-07,20002,J1772,FREE,38.9031507,-77.0032763,public,240
+ELEC,Garages,"7323 R 12th ST., NW",2024-10-08,Public,DC,Washington,2022-01-12,20012,J1772,FREE,38.9790239,-77.0276195,public,241
+ELEC,655 New York Ave NW,655 New York Avenue Northwest,2024-10-08,Public,DC,Washington,2022-03-02,20001,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.9054465,-77.0205502,public,242
+ELEC,1275 New Jersey Ave,1275 New Jersey Avenue Southeast,2024-10-08,Public,DC,Washington,2021-03-05,20003,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.8752301,-77.0039287,public,244
+ELEC,901 F,901 F St. NW,2024-10-08,Public,DC,Washington,2022-03-03,20004,J1772,$0.00-$0.50/kWh Variable Energy Fee,38.8976072,-77.0240107,public,245
+ELEC,1771 N Street,1771 N Street NW,2024-10-08,Public,DC,Washington,2021-03-11,20036,J1772,FREE,38.9075534,-77.0413078,public,246
+ELEC,Garage 2A,"Riley St  SW, Washington DC, 20024",2024-10-08,Public,DC,Washington,2021-04-22,20024,J1772,FREE,38.8779129,-77.0219095,public,247
+ELEC,The Wharf Public Garage 3,600 Water Street Southwest,2024-10-08,Public,DC,Washington,2021-02-12,20024,J1772,FREE,38.8753566,-77.0210991,public,248
+ELEC,1000 South Capitol,1000 S Capitol St SE,2024-10-08,Public,DC,Washington,2021-11-12,20003,J1772,FREE,38.8783202,-77.0087047,public,249
+ELEC,Tribeca,40N St. NE,2024-10-08,Public,DC,Washington,2021-04-13,20002,J1772,FREE,38.890927,-76.980764,public,250
+ELEC,The Apollo,600 H St NE,2024-10-08,Public,DC,Washington,2022-06-29,20002,J1772,Free,38.900253,-76.998243,public,253
+ELEC,670 Maine Private Parking Nest,"670 Maine Ave SW, Washington DC 20024",2024-10-08,Public,DC,Washington,2021-04-22,20024,J1772,FREE,38.8777768,-77.0225306,public,255
+ELEC,Capitol Riverfront,861 New Jersey Ave SE,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2022-07-12,20003,J1772,Free,38.880326,-77.00574017,public,256
+ELEC,600 Water Private Parking Nest,600 Water Street Southwest,2024-10-08,Public,DC,Washington,2021-04-22,20024,J1772,FREE,38.8753566,-77.0210991,public,257
+ELEC,531710  650 Massachusetts Ave NW,650 Massachusetts Ave NW,2024-10-08,Public,DC,Washington,2018-09-11,20001,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.899413,-77.024307,public,258
+ELEC,600 Thirteenth,600 13th Street N.W.,2024-10-08,Public,DC,Washington,2020-08-27,20005,J1772,$0.25/kWh Energy Fee,38.8976502,-77.0299233,public,259
+ELEC,Garage 2B,"Parker Row SW, Washington, DC 20024",2024-10-08,Public,DC,Washington,2021-04-23,20024,J1772,FREE,38.8773729,-77.0213205,public,260
+ELEC,2 M Street,"2 M Street, NE",2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2012-02-23,20002,J1772,FREE,38.905762,-77.0086436,public,261
+ELEC,Franklin D. Reeves Building,2000 14th St NW,2023-01-10,Public - Credit card at all times,DC,Washington,2022-08-12,20009,J1772,$1 per hr 7am-10pm; $0.50 per hr 10pm-7am,38.917564,-77.032504,public,262
+ELEC,700 Penn,700 Pennsylvania Avenue Southeast,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2016-12-05,20003,J1772,FREE,38.8850381,-76.9957982,public,263
+ELEC,1220 19th St,1220 19th Street Northwest,2024-10-08,Public,DC,Washington,2017-06-06,20036,J1772,$1.50/Hr Parking Fee,38.906607,-77.0439431,public,264
+ELEC,Sheikh Zayed Campus (SZ),111 Michigan Avenue,2024-10-08,Public,DC,Washington,2021-01-25,20010,J1772,FREE,38.9271737,-77.014524,public,268
+ELEC,NYA90,901 New York Ave. NW,2024-10-08,Public,DC,Washington,2022-08-16,20001,J1772,"$1.00-$5.00/Hr Variable Parking Fee, $0.03/kWh Energy Fee",38.9019902,-77.0252236,public,284
+ELEC,Knollwood Life Plan Community,"6200 Oregon Avenue, NW",2024-10-08,Public,DC,Washington,2022-09-26,20015,J1772,"$4.00/Hr Parking Fee , $0.25-$0.50/kWh Variable Energy Fee",38.9709327,-77.0552771,public,286
+ELEC,Hilton Garden Inn,2201 M St NW,2024-08-15,Public - Credit card at all times,DC,Washington,2022-11-22,20037,J1772,Free,38.90562790037026,-77.04896501689177,public,287
+ELEC,1055 High Condominium,1055 Wisconsin Avenue Northwest,2024-10-08,Public,DC,Washington,2022-06-17,20007,J1772,FREE,38.9041479,-77.0627761,public,288
+ELEC,1875 Pennsylvania Ave NW,1875 Pennsylvania Avenue Northwest,2024-10-08,TEMPORARILY UNAVAILABLE (Public),DC,Washington,2020-11-09,20006,J1772,FREE,38.9005059,-77.0425038,public,289
+ELEC,Canal Park,1015 2nd Pl SE,2023-01-10,Public,DC,Washington,2022-10-17,20003,J1772,Free,38.8779161,-77.0027427,public,290
+ELEC,1201-1225 New York Avenue SPE,"1201 New York Avenue, NW",2024-10-08,Public,DC,Washington,2022-11-28,20005,J1772,Free,38.901252,-77.028574,public,292
+ELEC,The Hay-Adams - Tesla Destination,800 16th St NW,2022-10-06,Public,DC,Washington,2015-06-02,20006,TESLA,Free,38.9005107,-77.0369492,public,293
+ELEC,1200 First St NE,1200 First St NE,2023-11-09,Public,DC,Washington,2018-02-01,20002,J1772 NEMA515,Free with parking,38.90608235,-77.00629931,public,367
+ELEC,Upton Place Parking Garage - Tesla Destination,4000 Wisconsin Ave NW,2024-04-14,Public - Credit card at all times,DC,Washington,2024-03-21,20016,J1772 TESLA,$0.33 per kWh,38.9416843834593,-77.0767880947976,public,395
+ELEC,One Franklin Square Parking Garage,1010 13th St NW,2024-08-15,Public,DC,Washington,2024-07-11,19119,J1772,Free,38.90294784,-77.03004941,public,407
+ELEC,Municipal Garage,200 N Holliday St,2022-11-10,Public,MD,Baltimore,2011-08-15,21202,J1772 NEMA520,Free,39.291785,-76.610539,public,2
+ELEC,Bel Air Nissan,1506 Bel Air Rd,2024-02-12,Public - Call ahead,MD,Bel Air,2011-03-15,21014,CHADEMO J1772 J1772COMBO,Free,39.5059,-76.38238,public,3
+ELEC,Community College of Baltimore County (CCBC),800 S Rolling Rd,2024-09-12,Public,MD,Catonsville,2019-09-09,21228,J1772,Free,39.256947,-76.730918,public,4
+ELEC,Younger Nissan,7418 Grove Rd,2024-02-12,Public - Call ahead,MD,Frederick,2018-06-26,21704,CHADEMO J1772 J1772COMBO,Free,39.39116,-77.40777,public,5
+ELEC,Criswell Nissan,19574 Amaranth Dr,2024-02-12,Public - Call ahead,MD,Germantown,2011-03-15,20874,J1772,Free,39.177414,-77.249773,public,6
+ELEC,Passport Nissan - Marlow Heights,5000 Auth Way,2024-02-12,Public - Call ahead,MD,Suitland,2011-03-15,20746,CHADEMO J1772 J1772COMBO,Free,38.827,-76.92355,public,7
+ELEC,Darcars Nissan,15911 Indianola Dr,2024-02-12,Public - Call ahead,MD,Rockville,2011-03-15,20855,CHADEMO J1772,Free,39.11377,-77.16099,public,8
+ELEC,Herb Gordon Nissan,3131 Automobile Blvd,2024-02-12,Public - Call ahead,MD,Silver Spring,2011-03-15,20904,CHADEMO J1772,Free,39.077447,-76.947933,public,9
+ELEC,Annapolis Friends Meeting,351 Dubois Ave,2021-09-10,Public,MD,Annapolis,2011-08-10,21401,J1772 NEMA520,Free,39.001676,-76.525253,public,10
+ELEC,Antwerpen Nissan,1701 Woodlawn Dr,2024-02-12,Public - Call ahead,MD,Baltimore,2012-01-31,21207,J1772,Free,39.312935,-76.734569,public,20
+ELEC,Antwerpen Nissan,1701 Woodlawn Dr,2024-02-12,Private,MD,Baltimore,2012-01-31,21207,J1772,Free,39.312935,-76.734569,private,21
+ELEC,Bob Bell Nissan,7900 Eastern Ave,2024-02-12,Public - Call ahead,MD,Baltimore,2012-01-31,21224,J1772,Free,39.296284,-76.509019,public,22
+ELEC,Bob Bell Nissan,7900 Eastern Ave,2024-02-12,Private,MD,Baltimore,2012-01-31,21224,J1772,Free,39.296284,-76.509019,private,23
+ELEC,Nissan of Bowie,2200 Crain Hwy,2024-02-12,Public - Call ahead,MD,Bowie,2012-01-31,20716,CHADEMO J1772,Free,38.919138,-76.718428,public,24
+ELEC,Nissan of Bowie,2200 Crain Hwy,2024-02-12,Private,MD,Bowie,2012-01-31,20716,J1772,Free,38.919138,-76.718428,private,25
+ELEC,Antwerpen Nissan,12451 Auto Dr,2024-02-12,Public - Call ahead,MD,Clarksville,2012-01-31,21029,CHADEMO J1772,Free,39.21308,-76.94426,public,26
+ELEC,Antwerpen Nissan,12451 Auto Dr,2024-02-12,Private,MD,Clarksville,2012-01-31,21029,J1772,Free,39.21308,-76.94426,private,27
+ELEC,Darcars Nissan - College Park,9330 Baltimore Ave,2024-02-12,Public - Call ahead,MD,College Park,2012-01-31,20740,J1772,Free,39.008053,-76.929772,public,28
+ELEC,Darcars Nissan - College Park,9330 Baltimore Ave,2024-02-12,Private,MD,College Park,2012-01-31,20740,J1772,Free,39.008053,-76.929772,private,29
+ELEC,Nissan Ellicott City,8569 Baltimore National Pike,2024-02-12,Public - Call ahead,MD,Ellicott City,2012-01-31,21043,CHADEMO J1772 J1772COMBO,Free,39.28255,-76.80843,public,30
+ELEC,Sheehy Nissan,7232 Ritchie Hwy,2024-02-12,Public - Call ahead,MD,Glen Burnie,2012-01-31,21061,CHADEMO J1772,Free,39.1731,-76.61949,public,32
+ELEC,Hamilton Nissan,1929 Dual Hwy,2024-02-12,Public - Call ahead,MD,Hagerstown,2012-01-31,21740,CHADEMO J1772 J1772COMBO,Free,39.605636,-77.687979,public,34
+ELEC,Hamilton Nissan,1929 Dual Hwy,2024-02-12,Private,MD,Hagerstown,2012-01-31,21740,J1772,Free,39.605636,-77.687979,private,35
+ELEC,Ourisman Nissan,3510 Ft Meade Rd,2024-02-12,Public - Call ahead,MD,Laurel,2012-01-31,20724,J1772,Free,39.10165650552629,-76.82296928916321,public,36
+ELEC,Ourisman Nissan,3510 Ft Meade Rd,2024-02-12,Private,MD,Laurel,2012-01-31,20724,J1772,Free,39.10165650552629,-76.82296928916321,private,37
+ELEC,Antwerpen Nissan,11405 Reisterstown Rd,2024-02-12,Public - Call ahead,MD,Owings Mills,2018-06-26,21117,J1772,Free,39.43853,-76.80284,public,38
+ELEC,Antwerpen Nissan,11405 Reisterstown Rd,2024-02-12,Private,MD,Owings Mills,2012-01-31,21117,J1772,Free,39.43853,-76.80284,private,39
+ELEC,Pohanka Nissan - Salisbury,2012 N Salisbury Blvd,2024-02-12,Private,MD,Salisbury,2012-01-31,21801,J1772,Free,38.39214,-75.57586,private,40
+ELEC,Nationwide Nissan,2085 York Rd,2024-02-12,Public - Call ahead,MD,Timonium,2012-01-31,21093,CHADEMO J1772 J1772COMBO,Free,39.4404,-76.62571,public,41
+ELEC,Nationwide Nissan,2085 York Rd,2024-02-12,Private,MD,Timonium,2012-01-31,21093,J1772,Free,39.4404,-76.62571,private,42
+ELEC,Sheehy Nissan - Waldorf,2950 Crain Hwy,2024-02-12,Public - Call ahead,MD,Waldorf,2012-01-31,20601,CHADEMO J1772,Free,38.630057,-76.9056,public,43
+ELEC,Bel Air Nissan,1506 Bel Air Rd,2024-02-12,Private,MD,Bel Air,2011-03-15,21014,J1772,Free,39.5059,-76.38238,private,45
+ELEC,Criswell Nissan,19574 Amaranth Dr,2024-02-12,Private,MD,Germantown,2011-03-15,20874,J1772,Free,39.177414,-77.249773,private,47
+ELEC,Herb Gordon Nissan,3131 Automobile Blvd,2024-02-12,Private,MD,Silver Spring,2011-03-15,20904,J1772,Free,39.077447,-76.947933,private,49
+ELEC,Passport Nissan - Marlow Heights,5000 Auth Way,2024-02-12,Private,MD,Suitland,2011-03-15,20746,J1772,Free,38.827,-76.92355,private,50
+ELEC,Old Farm Court,115 Old Farm Ct,2021-09-10,Public,MD,Glen Burnie,2012-12-01,21060,NEMA520,Free,39.160868,-76.599205,public,52
+ELEC,Baltimore Washington Medical Center,300 Hospital Dr,2021-12-09,Public,MD,Glen Burnie,2012-12-01,21061,NEMA520,Free,39.138576,-76.62159,public,53
+ELEC,Waldorf Ford,2440 Crain Hwy,2023-09-14,Public - Call ahead,MD,Waldorf,2013-01-04,20601,J1772,Free,38.64352,-76.891367,public,55
+ELEC,Academy Ford,13401 Baltimore Ave,2023-09-14,Private,MD,Laurel,2013-02-19,20707,J1772,Free,39.07394,-76.869633,private,57
+ELEC,Century Ford,302 Century Dr,2023-10-12,Public - Call ahead,MD,Mt. Airy,2013-10-01,21771,J1772,Free,39.368505,-77.143072,public,58
+ELEC,Safford Ford Lincoln of Salisbury,1902 N Salisbury Blvd,2023-09-14,Public - Call ahead,MD,Salisbury,2013-01-01,21801,J1772,Free,38.389455,-75.580663,public,59
+ELEC,Hagerstown Ford,1714 Massey Blvd,2023-09-14,Public - Call ahead,MD,Hagerstown,2013-08-01,21740,J1772,Free,39.628969,-77.76681,public,61
+ELEC,Pohanka Nissan - Salisbury,2012 N Salisbury Blvd,2024-02-12,Public - Call ahead,MD,Salisbury,2012-01-01,21801,CHADEMO J1772 J1772COMBO,Free,38.39214,-75.57586,public,62
+ELEC,Maryland Institute College of Art - Commons Hall,130 McMechen St,2022-11-10,Public,MD,Baltimore,2015-01-12,21217,J1772,Free,39.308846,-76.625419,public,73
+ELEC,Maryland Institute College of Art - Lazarus Center,131 W North Ave,2022-11-10,Public,MD,Baltimore,2015-01-12,21201,J1772,Free,39.31074,-76.618931,public,74
+ELEC,University of Baltimore - Maryland Avenue Garage,1104 Maryland Ave,2022-11-10,Public,MD,Baltimore,2015-04-01,21201,J1772,Free,39.302352,-76.617606,public,75
+ELEC,Mayflower Properties,1110 Morton St,2022-11-10,Public - Call ahead,MD,Baltimore,2015-02-27,21201,J1772,Free,39.30246,-76.616698,public,76
+ELEC,Parkview Business Center,201 Prospect Ave,2023-10-12,Public,MD,Hagerstown,2015-05-07,21742,J1772,Free,39.653116,-77.715766,public,78
+ELEC,Mount Airy Municipal Parking Lot,255-299 Cross St,2021-10-12,Public,MD,Mt. Airy,2015-04-01,21771,CHADEMO J1772 J1772COMBO TESLA,Variable fee,39.375442,-77.154666,public,80
+ELEC,First United Evangelical and Reformed Church,6115 O'Donnell St,2022-11-10,Public - Call ahead,MD,Baltimore,2015-07-02,21224,J1772,Free,39.281321,-76.542569,public,82
+ELEC,Marriott Garage,101 S Paca St,2022-11-10,Public,MD,Baltimore,2015-08-01,21201,J1772,Free,39.287168,-76.621895,public,84
+ELEC,Redwood Garage,11 S Eutaw St,2022-11-10,Public,MD,Baltimore,2015-10-01,21201,J1772,Free,39.288504,-76.620394,public,92
+ELEC,Annex Garage,140 W Patrick St,2022-11-10,Public,MD,Frederick,2015-09-01,21701,J1772,Free,39.414063,-77.413739,public,93
+ELEC,Fleet & Eden Garage,501 S Eden St,2023-10-12,Public,MD,Baltimore,2015-10-15,21231,J1772,Free,39.285366,-76.598315,public,94
+ELEC,Signet Garage,210 Guilford Ave,2022-11-10,Public,MD,Baltimore,2015-10-12,21202,J1772,Free,39.29195,-76.611345,public,96
+ELEC,Cathedral Garage,320 Cathedral St,2022-11-10,Public,MD,Baltimore,2015-10-16,21201,J1772,Free,39.293793,-76.616977,public,99
+ELEC,Arena Garage,201 W Baltimore St,2022-11-10,Public,MD,Baltimore,2015-10-20,21201,J1772,Free,39.289385,-76.618742,public,100
+ELEC,Ivy Car Barn,311 E Chase St,2022-01-10,Private,MD,Baltimore,2015-11-01,21202,J1772,Free,39.302532,-76.610935,private,103
+ELEC,Department of General Services - Parking Lot,3800 E Biddle St,2022-01-10,Private,MD,Baltimore,2015-12-01,21213,J1772,Free,39.305588,-76.566117,private,104
+ELEC,Water Street Garage,22 S Gray St,2022-11-10,Public,MD,Baltimore,2015-11-15,21201,J1772,Free,39.288514,-76.611444,public,105
+ELEC,Safety First,38 N Main St,2022-11-10,Private,MD,Keedysville,2015-12-24,21756,J1772,Free,39.48881,-77.696524,private,110
+ELEC,Back River Treatment Plant,8201 Eastern Ave,2022-11-10,Public,MD,Baltimore,2016-01-01,21224,J1772,Free,39.300234,-76.492813,public,111
+ELEC,Carrollton Inn,50 Albermarle St,2023-01-10,Public,MD,Baltimore,2016-01-01,21202,J1772,Free,39.288678,-76.604209,public,114
+ELEC,War Memorial Plaza,400 E Lexington St,2023-10-12,Public,MD,Baltimore,2013-10-01,21202,J1772,Free,39.291177,-76.60939,public,115
+ELEC,Fox and Bunting Building,1303 W Mount Royal Ave,2022-11-10,Public,MD,Baltimore,2016-01-23,21217,J1772,Free,39.308041,-76.621291,public,117
+ELEC,Gramercy Mansion,1400 Greenspring Valley Rd,2022-11-10,Public,MD,Stevenson,2016-02-09,21153,J1772,Free,39.42522,-76.694873,public,118
+ELEC,Hotel Indigo,24 W Franklin St,2022-11-10,Public,MD,Baltimore,2016-02-11,21201,J1772,Free,39.295255,-76.61648,public,119
+ELEC,Montebello Filtration Plant,3901 Hillen Rd,2022-11-10,Public,MD,Baltimore,2016-02-26,21218,J1772,Free,39.336584,-76.588301,public,120
+ELEC,Town of Ocean City - 300 St. Louis Ave Street Parking,300 St. Louis Ave,2022-11-10,Public,MD,Ocean City,2016-03-01,21842,J1772,Free,38.335516,-75.087156,public,121
+ELEC,Town of Ocean City - Municipal Parking,10007 Coastal Hwy,2022-11-10,Public,MD,Ocean City,2016-03-01,21842,J1772,Free,38.414273,-75.058153,public,122
+ELEC,Town of Ocean City - Recreation and Parks,200 125th St,2023-01-10,Public,MD,Ocean City,2016-03-01,21842,J1772,Free,38.430853,-75.059004,public,123
+ELEC,Conservatory and Botanic Gardens,3100 Swann Dr,2023-10-12,Public,MD,Baltimore,2016-03-22,21217,CHADEMO J1772COMBO,Free,39.318709,-76.647197,public,124
+ELEC,Patterson Park,200 S Linwood Ave,2023-10-12,Public,MD,Baltimore,2016-03-14,21224,CHADEMO J1772COMBO,Free,39.288621,-76.576047,public,125
+ELEC,Maryland Center for Veterans Education and Training,301 N High St,2022-11-10,Public,MD,Baltimore,2016-03-11,21202,J1772,Free,39.293619,-76.606356,public,126
+ELEC,Baltimore Public Works Museum,751 Eastern Ave,2023-01-10,Public,MD,Baltimore,2016-04-01,21202,J1772,Free,39.284815,-76.603415,public,131
+ELEC,City of Baltimore - Department of Public Works,2331 N Fulton Ave,2022-01-10,Private - Government only,MD,Baltimore,2016-05-23,21217,J1772,Free,39.315293,-76.643737,private,137
+ELEC,City of Baltimore - Parks Maintenance and Forestry Complex,3100 Shop Rd,2022-01-10,Private,MD,Baltimore,2016-05-16,21211,J1772,Free,39.3223338,-76.6410022,private,138
+ELEC,City of Baltimore - Ashburton Pumping Station,3099 Liberty Heights Ave,2022-01-10,Private,MD,Baltimore,2016-06-13,21216,J1772,Free,39.322918,-76.66763,private,139
+ELEC,City of Takoma Park - Community Center,7500 Maple Ave,2022-11-10,Public,MD,Takoma Park,2016-04-29,20912,CHADEMO J1772 J1772COMBO,Free,38.981991,-77.010571,public,140
+ELEC,City of Takoma Park - Junction Parking Lot,7309 Carroll Ave,2022-11-10,Public,MD,Takoma Park,2016-05-03,20912,J1772,Free,38.978277,-77.005876,public,141
+ELEC,City of Takoma Park - Recreation Center,7315 New Hampshire Ave,2023-01-10,Public,MD,Takoma Park,2016-05-06,20912,J1772,Free,38.982318,-76.987962,public,142
+ELEC,M&T Bank Stadium,1101 Russell St,2021-09-10,Public,MD,Baltimore,2016-07-15,21230,CHADEMO J1772 J1772COMBO,Parking fee,39.279829,-76.622383,public,144
+ELEC,Whalen Commons - East Parking Lot,19721 Beall St,2022-11-10,Public,MD,Poolesville,2016-07-28,20837,J1772,Free,39.145806,-77.412039,public,145
+ELEC,Poolesville Hardware,19961 Fisher Ave,2022-11-10,Public,MD,Poolesville,2016-07-28,20837,J1772,Free,39.146667,-77.417222,public,146
+ELEC,Tom Hodges Auto Sales & Service,24177 Tom Hodges Dr,2023-01-10,Public,MD,Hollywood,2016-09-15,20636,J1772,Free,38.331636,-76.555135,public,149
+ELEC,Hamilton Library,5910 Harford Rd,2023-10-12,Public,MD,Baltimore,2016-11-15,21214,CHADEMO J1772 J1772COMBO,Free,39.356533,-76.558482,public,152
+ELEC,Orleans Street Library,1303 Orleans St,2023-10-12,Public,MD,Baltimore,2016-07-01,21231,CHADEMO J1772COMBO,Free,39.29447,-76.599243,public,153
+ELEC,Reisterstown Road Library,6310 Reisterstown Rd,2023-10-12,Public,MD,Baltimore,2016-10-01,21215,CHADEMO J1772 J1772COMBO,Free,39.354424,-76.700634,public,154
+ELEC,Light Street Library,1251 Light St,2023-10-12,Public,MD,Baltimore,2016-10-01,21230,CHADEMO J1772COMBO,Free,39.275068,-76.611912,public,155
+ELEC,Roland Park Library,5108 Roland Ave,2023-10-12,Public,MD,Baltimore,2016-11-18,21210,CHADEMO J1772COMBO,Free,39.355737,-76.635104,public,156
+ELEC,Clifton Park Golf Course,2701 St Lo Dr,2023-10-12,Public,MD,Baltimore,2016-12-01,21213,J1772,Free,39.32159779003317,-76.58783514445798,public,160
+ELEC,Carroll Park Golf Course,2100 Washington Blvd,2023-10-12,Public,MD,Baltimore,2016-12-01,21230,J1772,Free,39.27267,-76.648655,public,161
+ELEC,Cylburn Arboretum,4975 Greenspring Ave,2023-10-12,Public,MD,Baltimore,2016-10-18,21209,J1772,Free,39.352944,-76.659878,public,162
+ELEC,Camden Yards,333 W Camden St,2022-11-10,Public,MD,Baltimore,2016-10-20,21201,J1772,Free,39.284664,-76.619604,public,163
+ELEC,Mount Pleasant Ice Arena,6101 Hillen Rd,2023-10-12,Public,MD,Baltimore,2016-11-01,21239,J1772,Free,39.368847,-76.577788,public,165
+ELEC,Wyndham Garden North BW Parkway,5811 Annapolis Rd,2022-11-10,Public,MD,Cheverly,2016-11-08,20784,J1772,Free,38.937323,-76.917061,public,166
+ELEC,Herring Run Library Branch,3801 Erdman Ave,2023-10-12,Public,MD,Baltimore,2017-02-06,21213,CHADEMO J1772COMBO,Free,39.315122,-76.569243,public,169
+ELEC,Canton Waterfront Park,3001 Boston St,2023-10-12,Public,MD,Baltimore,2017-03-08,21224,CHADEMO J1772 J1772COMBO,Free,39.277178,-76.572417,public,171
+ELEC,Gwynns Falls Park,4999 Windsor Mill Rd,2023-10-12,Public,MD,Baltimore,2017-03-09,21207,CHADEMO J1772COMBO,Free,39.309277,-76.70115,public,172
+ELEC,City of Baltimore - Garage,101 W Dickman St,2022-11-10,Public,MD,Baltimore,2017-03-31,21230,CHADEMO J1772COMBO,Free,39.262573,-76.616256,public,173
+ELEC,Catoctin Mountain Park - Visitor Center,14707 Park Central Rd,2023-06-12,Public,MD,Thurmont,2016-11-14,21788,J1772,Free,39.63378,-77.449906,public,174
+ELEC,Catoctin Mountain Park - Round Meadow,14850 Manahan Rd,2023-06-12,Public,MD,Sabillasville,2016-11-14,21780,J1772,Free,39.644424,-77.486954,public,175
+ELEC,Catoctin Mountain Park - Headquarters,6602 Foxville Rd,2023-06-12,Public,MD,Thurmont,2017-06-16,21788,J1772,Free,39.626633,-77.439577,public,176
+ELEC,Baltimore Police Department - Western District,1034 N Mount St,2023-10-12,Public,MD,Baltimore,2017-07-07,21217,J1772,Free,39.300619,-76.644695,public,181
+ELEC,Middle Branch Park,3301 Waterview Ave,2023-10-12,Public,MD,Baltimore,2017-07-06,21230,J1772,Free,39.254879,-76.622308,public,182
+ELEC,Mount Pleasant Golf Course,6001 Hillen Rd,2022-11-10,Public,MD,Baltimore,2017-07-01,21239,J1772,Free,39.363692,-76.577699,public,183
+ELEC,Electric Vehicle Institute,1120 N Charles St,2022-11-10,Public,MD,Baltimore,2017-07-01,21201,J1772,Free,39.303044,-76.616255,public,184
+ELEC,Fayette St Garage,1001 E Fayette St,2023-10-12,Public,MD,Baltimore,2017-07-01,21201,J1772,Free,39.291285,-76.603515,public,185
+ELEC,Municipal Garage,200 N Holliday St,2022-11-10,Private,MD,Baltimore,2015-10-01,21202,J1772,Free,39.291785,-76.610539,private,187
+ELEC,Roosevelt Center - Municipal Building,25 Crescent Rd,2022-11-10,Public,MD,Greenbelt,2017-08-09,20770,CHADEMO J1772COMBO,Free,39.000738,-76.877355,public,188
+ELEC,West Street Garage,40 E West St,2023-10-12,Public,MD,Baltimore,2017-08-09,21230,J1772,Free,39.276065,-76.613202,public,189
+ELEC,C.C. Jackson Recreation Center,4910 Park Heights Ave,2022-11-10,Public,MD,Baltimore,2017-08-01,21215,J1772,Free,39.347048,-76.673296,public,191
+ELEC,Park Plaza,2099 Gaither Rd,2022-11-10,Private,MD,Rockville,2017-11-01,20850,J1772,Payment through SemaConnect,39.117417,-77.180898,private,193
+ELEC,Baltimore Street Garage,15 Guilford Ave,2023-10-12,Public,MD,Baltimore,2017-10-01,21202,J1772,Free,39.290084,-76.610788,public,195
+ELEC,Museum of Industry,1415 Key Hwy,2023-01-10,Public,MD,Baltimore,2017-10-30,21230,J1772,Free,39.273755,-76.601727,public,196
+ELEC,Clifton Mansion,2701 Saint Lo Dr,2023-10-12,Public,MD,Baltimore,2017-11-01,21213,J1772,Free,39.319173,-76.587403,public,199
+ELEC,Chesapeake House Travel Plaza,10670 I-95,2023-01-10,Public,MD,Port Deposit,2017-11-01,21904,CHADEMO J1772 J1772COMBO,Free Level 2 charging; DCFC 2.50 per session and $0.20 per minute,39.612124,-76.009519,public,201
+ELEC,Carroll Avenue Street Parking,7000 Carroll Ave,2022-11-10,Public,MD,Takoma Park,2017-11-15,20912,CHADEMO J1772COMBO,Free,38.974757,-77.012702,public,202
+ELEC,Latrobe Park,1627 E Fort Ave,2023-10-12,Public,MD,Baltimore,2017-11-15,21230,J1772,Free,39.268278,-76.591693,public,203
+ELEC,Downtown Takoma Park,7224 Carroll Ave,2021-05-06,Public,MD,Takoma Park,2017-12-01,20912,CHADEMO J1772 J1772COMBO,Free,38.978147,-77.006623,public,205
+ELEC,Arena Garage - South Howard Street,99 S Howard St,2022-11-10,Public,MD,Baltimore,2018-02-01,21201,J1772,Free,39.287914,-76.619205,public,208
+ELEC,Caroline Street Garage,805 S Caroline St,2023-10-12,Public,MD,Baltimore,2018-02-01,21231,J1772,Free,39.282302,-76.596315,public,209
+ELEC,City of Hyattsville - Municipal Building,4310 Gallatin St,2022-11-10,Private,MD,Hyattsville,2018-02-01,20781,J1772,Free,38.952849,-76.942214,private,210
+ELEC,Baltimore Police Marine Unit,3201 Boston St,2023-10-12,Public,MD,Baltimore,2018-02-01,21224,J1772,Free,39.276811,-76.570849,public,211
+ELEC,Tidewater Marina,321 E Cromwell St,2022-11-10,Public,MD,Baltimore,2018-02-01,21230,J1772,Free,39.264924,-76.60639,public,212
+ELEC,City of Hyattsville - Parking Lot #3,4320 Farragut St,2022-11-10,Public,MD,Hyattsville,2018-03-09,20781,J1772,Free,38.951908,-76.941858,public,215
+ELEC,City of Hyattsville - Parking Lot #2,4310 Hamilton St,2022-11-10,Public,MD,Hyattsville,2018-03-09,20781,J1772,Free,38.953701,-76.941801,public,216
+ELEC,Charles Plaza Garage,211 N Liberty Rd,2022-11-10,Public,MD,Baltimore,2018-03-01,21201,J1772,Free,39.291834,-76.616799,public,217
+ELEC,Atrium Garage,308 W Fayette St,2022-11-10,Public,MD,Baltimore,2018-04-01,21201,J1772,Free,39.2906,-76.620429,public,219
+ELEC,Southway Builders,1318 E Fort Ave,2022-11-10,Public,MD,Baltimore,2018-05-23,21230,J1772,Free,39.269901,-76.595658,public,222
+ELEC,Town of Ocean City - Worcester Parking Lot,601 S Philadelphia Ave,2022-11-10,Public,MD,Ocean City,2018-05-23,21842,J1772,Free,38.328131,-75.088996,public,223
+ELEC,Villages at Homeland,357 Homeland Southway,2022-11-10,Public,MD,Baltimore,2018-06-04,21212,J1772,Free,39.352912,-76.6146,public,227
+ELEC,Millie's Road House Bar,200 Old Ocean Gateway,2022-11-10,Public,MD,Vienna,2018-06-06,21869,J1772,Free,38.485086,-75.823956,public,228
+ELEC,Villages at Homeland,313 Homeland Southway,2022-11-10,Public,MD,Baltimore,2018-06-22,21212,J1772,Free,39.353249,-76.614846,public,230
+ELEC,Studio 3807,3807 Rhode Island Ave,2022-11-10,Public,MD,Brentwood,2018-06-19,20722,J1772,Free,38.938966,-76.955265,public,231
+ELEC,Columbia Gateway - Medical Center,7070 Samuel Morse Dr,2022-11-10,Public,MD,Columbia,2018-07-23,21046,J1772,Free,39.169397,-76.811526,public,237
+ELEC,Cheverly Town Park,6401 Forest Rd,2022-11-10,Public,MD,Cheverly,2018-07-25,20785,J1772,Free,38.925025,-76.906358,public,238
+ELEC,Laureate Education Inc,7065 Samuel Morse Dr,2022-11-10,Public,MD,Columbia,2018-08-08,21046,J1772,Free,39.168759,-76.811733,public,240
+ELEC,Mercy Medical Center - Bunting Garage,301 Saint Paul Pl,2022-11-10,Public,MD,Baltimore,2018-08-08,21202,J1772,Free,39.29255,-76.61355,public,241
+ELEC,Penn Station Garage,1500 N Charles St,2023-10-12,Public,MD,Baltimore,2018-08-15,21201,J1772,Free,39.306655,-76.616222,public,254
+ELEC,Old Town - Fire Station,1110 Hillen St,2022-11-10,Public,MD,Baltimore,2018-09-01,21202,J1772,Free,39.297285,-76.605258,public,255
+ELEC,Rankin Upholstery,8021 Cessna Ave,2022-11-10,Public,MD,Gaithersburg,2018-09-01,20879,J1772,Free,39.172762,-77.164172,public,256
+ELEC,City of Hyattsville - Department of Public Works,4633 Arundel Pl,2022-11-10,Public,MD,Hyattsville,2018-09-26,20781,J1772,Free,38.946661,-76.939889,public,257
+ELEC,Maryland House Travel Plaza,"I-95, Mile Marker 82",2022-11-10,Public,MD,Aberdeen,2018-10-01,21001,CHADEMO J1772 J1772COMBO,Free,39.498059,-76.231826,public,261
+ELEC,Lexington Market,400 W Lexington St,2022-11-10,Public,MD,Baltimore,2018-11-15,21201,J1772,Free,39.291633,-76.622509,public,270
+ELEC,Landover Hills - Police Station and Town Hall,6904 Taylor St,2022-11-10,Public,MD,Landover Hills,2018-11-20,20784,J1772,Free,38.941542,-76.894218,public,271
+ELEC,Rotunda Parking Garage,711 W 40th St,2022-11-10,Public,MD,Baltimore,2018-12-01,21211,J1772,Free,39.33563,-76.629666,public,273
+ELEC,Vienna Food Mart,307 Old Ocean Gateway,2022-11-10,Public,MD,Vienna,2018-12-01,21869,CHADEMO J1772COMBO,Free,38.486172,-75.825191,public,275
+ELEC,Little Italy Garage,400 S Central Ave,2023-10-12,Public,MD,Baltimore,2018-12-01,21202,J1772,Free,39.285911,-76.599462,public,276
+ELEC,Dorchester County Public Library - Hurlock Branch,222 S Main St,2022-11-10,Public,MD,Hurlock,2018-12-01,21643,J1772,Free,38.631284,-75.862667,public,277
+ELEC,Hurlock Park - Tennis Courts,200 Charles St,2022-11-10,Public,MD,Hurlock,2018-12-01,21643,J1772,Free,38.632842,-75.864863,public,278
+ELEC,Berwyn Heights Town Hall,5700 Berwyn Rd,2022-11-10,Public,MD,Berwyn Heights,2018-12-01,20740,J1772,Free,38.992364,-76.917261,public,281
+ELEC,Hagerstown - Central Parking Lot,14 N Potomac St,2022-11-10,Public,MD,Hagerstown,2018-12-01,21740,J1772COMBO,$2.50 per session; $0.20 per minute,39.642218,-77.719215,public,282
+ELEC,Inn at Horn Point - Tesla Destination,534  Burnside Street,2022-10-06,Public,MD,Annapolis,2017-11-30,21403,TESLA,Free,38.972453,-76.4780693,public,283
+ELEC,Doubletree by Hilton Annapolis - Tesla Destination,210 Holiday Ct,2022-10-06,Public,MD,Annapolis,2016-01-25,21401,TESLA,Free,38.982522,-76.547334,public,284
+ELEC,Hyatt Regency Baltimore - Tesla Destination,300 Light St,2022-10-06,Public,MD,Baltimore,2014-12-12,21202,J1772 TESLA,Free,39.28462,-76.613671,public,285
+ELEC,Sheraton Inner Harbor Hotel - Tesla Destination,300 South Charles St,2022-10-06,Public,MD,Baltimore,2016-10-28,21201,J1772 TESLA,Free,39.284602,-76.61595,public,286
+ELEC,Cazbar - Tesla Destination,316 N Charles St,2022-10-06,Public,MD,Baltimore,2015-09-28,21201,TESLA,Free,39.293019,-76.615604,public,287
+ELEC,Doubletree Inn at The Colonnade - Tesla Destination,4 W University Pkwy,2022-10-06,Public,MD,Baltimore,2018-02-20,21218,J1772 TESLA,Free,39.334176,-76.619561,public,288
+ELEC,DoubleTree by Hilton Hotel Bethesda - Tesla Destination,8120 Wisconsin,2022-10-06,Public,MD,Bethesda,2017-07-25,20814,J1772 TESLA,Free,38.991229,-77.095893,public,289
+ELEC,Downtown Cambridge Black Water Baked Goods & Coffee - Tesla Destination,429 Race St,2022-10-06,Public,MD,Cambridge,2018-08-24,21613,J1772 TESLA,Free,38.568961,-76.077521,public,290
+ELEC,Great Oak Manor - Tesla Destination,10568 Cliff Rd,2022-10-06,Public,MD,Chestertown,2015-11-10,21620,TESLA,Free,39.2687177,-76.2025573,public,291
+ELEC,Brampton Bed & Breakfast Inn - Tesla Destination,25227 Chestertown Rd,2022-10-06,Public,MD,Chestertown,2015-06-16,21620,J1772 TESLA,Free,39.211757,-76.094796,public,292
+ELEC,Hampton Inn & Suites Columbia/South MD - Tesla Destination,7045 Minstrel Wy,2022-10-06,Public,MD,Columbia,2017-11-29,21046,J1772 TESLA,Free,39.17575,-76.846303,public,293
+ELEC,SpringHill Suites by Marriott Columbia - Tesla Destination,7055 Minstrel Wy,2022-10-06,Public,MD,Columbia,2017-11-29,21046,J1772 TESLA,Free,39.176119,-76.847247,public,294
+ELEC,Ruddy Duck Brewery & Grill - Tesla Destination,13200 Dowell Rd,2022-10-06,Public,MD,Dowell,2017-07-13,20629,TESLA,Free,38.350362,-76.457198,public,295
+ELEC,Rocky Gap Casino Resort - Tesla Destination,16701 Lakeview Rd NE,2022-10-06,Public,MD,Flintstone,2017-09-19,21530,J1772 TESLA,Free,39.699997,-78.656806,public,296
+ELEC,"Savage River Lodge, a Select Registry Property - Tesla Destination",1600 Mt Aetna Rd,2022-10-06,Public,MD,Frostburg,2015-05-26,21532,J1772 TESLA,Free,39.65525,-79.021482,public,297
+ELEC,The Cornucopia Cafe - Tesla Destination,146 Casselman Rd,2022-10-06,Public,MD,Grantsville,2015-11-12,21536,J1772 TESLA,Free,39.697031,-79.1416,public,298
+ELEC,The Narrows Restaurant - Tesla Destination,3023 Kent Narrow Wy S,2022-10-06,Public,MD,Grasonville,2017-09-11,21638,TESLA,Free,38.968861,-76.244728,public,299
+ELEC,Hilton Garden Inn Kent Island - Tesla Destination,3206 Main St,2022-10-06,Public,MD,Grasonville,2017-08-15,21638,J1772 TESLA,Free,38.966327,-76.240875,public,300
+ELEC,Holiday Inn Express Baltimore-BWI Airport West - Tesla Destination,7481 Ridge Rd,2022-10-06,Public,MD,Hanover,2017-06-19,21076,J1772 TESLA,Free,39.160052,-76.711847,public,301
+ELEC,"Antietam Overlook Farm, a Select Registry Property - Tesla Destination",4812 Porterstown Rd,2022-10-06,Public,MD,Keedysville,2015-05-20,21756,J1772 TESLA,Free,39.445664,-77.705295,public,302
+ELEC,Black Bear Tavern and Restaurant - Tesla Destination,102 Fort Dr,2022-10-06,Public,MD,McHenry,2016-03-07,21541,TESLA,Free,39.549596,-79.35123,public,303
+ELEC,"Lake Pointe Inn, a Select Registry Property - Tesla Destination",174 Lake Pointe Dr,2022-10-06,Public,MD,McHenry,2015-07-15,21541,J1772 TESLA,Free,39.556658,-79.357445,public,304
+ELEC,Wilcom's Inn - Tesla Destination,11234 Fingerboard Rd,2022-10-06,Public,MD,Monrovia,2017-09-29,21770,J1772 TESLA,Free,39.346653,-77.270838,public,305
+ELEC,Black Ankle Vineyards - Tesla Destination,14463 Black Ankle Rd,2022-10-06,Public,MD,Mount Airy,2017-02-03,21771,TESLA,Free,39.46165,-77.162396,public,306
+ELEC,Port House Grill - Tesla Destination,15 N Main St,2022-10-06,Public,MD,North East,2016-11-04,21901,TESLA,Free,39.60151,-75.943346,public,307
+ELEC,Haley Farm Inn and Retreat Center - Tesla Destination,16766 Garrett Hwy,2022-10-06,Public,MD,Oakland,2016-04-01,21550,J1772 TESLA,Free,39.470945,-79.358778,public,308
+ELEC,Ocean City Convention Center - Tesla Destination,4001 Coastal Hwy,2022-10-06,Public,MD,Ocean City,2016-04-28,21842,J1772 TESLA,Free,38.366495,-75.071961,public,309
+ELEC,Atlantic House Bed and Breakfast - Tesla Destination,501 N Baltimore Ave,2022-10-06,Public,MD,Ocean City,2016-03-22,21842,TESLA,Free,38.336537,-75.083956,public,310
+ELEC,Holiday Inn Oceanfront - Tesla Destination,6600 Coastal Hwy,2022-10-06,Public,MD,Ocean City,2015-11-03,21842,J1772 TESLA,Free,38.389613,-75.064479,public,311
+ELEC,Princess Royale Hotel - Tesla Destination,9100 Coastal Hwy,2022-10-06,Public,MD,Ocean City,2016-08-12,21842,TESLA,Free,38.407642,-75.058072,public,312
+ELEC,Hilton Suites Ocean City Oceanfront - Tesla Destination,3200 N Baltimore Ave,2022-10-06,Public,MD,Ocean City,2017-03-07,21842,TESLA,Free,38.360378,-75.072756,public,313
+ELEC,Sandaway Waterfront Lodging - Tesla Destination,103 W Strand Rd,2022-10-06,Public,MD,Oxford,2015-03-28,21654,J1772 TESLA,Free,38.692118,-76.175449,public,314
+ELEC,The Inn at Antietam - Tesla Destination,220 E Main St,2022-10-06,Public,MD,Sharpsburg,2017-06-19,21782,J1772 TESLA,Free,39.45953,-77.74285,public,315
+ELEC,Chanceford Hall Bed & Breakfast - Tesla Destination,209 W Federal St,2022-10-06,Public,MD,Snow Hill,2015-08-05,21863,J1772 TESLA,Free,38.172739,-75.396266,public,316
+ELEC,George Brooks House B & B - Tesla Destination,24500 Rolles Range Rd,2022-10-06,Public,MD,St Michaels,2017-07-17,21663,J1772 TESLA,Free,38.7970133,-76.2277961,public,317
+ELEC,Old Brick Inn - Tesla Destination,401 S Talbot St,2022-10-06,Public,MD,St. Michaels,2017-10-12,21663,J1772 TESLA,Free,38.7838128,-76.2234717,public,318
+ELEC,St. Michaels Winery - Tesla Destination,609 S. Talbot St,2022-10-06,Public,MD,St. Michaels,2017-09-18,21663,TESLA,Free,38.781182,-76.221799,public,319
+ELEC,Antrim 1844 Country House Hotel - Tesla Destination,30 Trevanion Rd,2022-10-06,Public,MD,Taneytown,2015-04-23,21787,J1772 TESLA,Free,39.654916,-77.1730675,public,320
+ELEC,Best Western Westminster - Tesla Destination,451 WMC Dr,2022-10-06,Public,MD,Westminster,2017-12-18,21158,J1772 TESLA,Free,39.58717,-77.010051,public,321
+ELEC,225 North Calvert Street Garage,225 N Calvert St,2022-11-10,Public,MD,Baltimore,2019-01-01,21202,J1772,Free,39.292049,-76.61231,public,324
+ELEC,Horseshoe Casino,1525 Russell St,2022-11-10,Public,MD,Baltimore,2019-01-14,21230,J1772,Free,39.273771,-76.627853,public,325
+ELEC,YMCA - Orokawa,600 W Chesapeake Ave,2022-11-10,Public,MD,Towson,2019-01-17,21204,J1772,Free,39.400162,-76.6144,public,326
+ELEC,Centers for Medicare and Medicaid Services,7500 Security Blvd,2022-11-10,Public,MD,Windsor Mill,2019-02-04,21244,J1772,Free,39.314516,-76.760004,public,330
+ELEC,Lexington Street Garage,510 E Lexington St,2023-10-12,Public,MD,Baltimore,2019-02-12,21202,J1772,Free,39.291504,-76.608454,public,331
+ELEC,YMCA - Dancel,4331 Montgomery Rd,2022-11-10,Public,MD,Ellicott City,2019-02-28,21043,J1772,Free,39.251907,-76.814808,public,334
+ELEC,Emmitsburg Town Office,300 S Seton Ave,2022-11-10,Public,MD,Emmitsburg,2019-03-04,21727,J1772,Free,39.701108,-77.328497,public,335
+ELEC,Smithsonian Libraries - Research Annex,3400 Pennsy Dr,2022-11-10,Public,MD,Landover,2019-04-30,20785,J1772,Free,38.938404,-76.880421,public,341
+ELEC,Hampton Inn Cumberland - Tesla Destination,109 Welton Dr,2022-10-06,Public,MD,Cumberland,2018-06-20,21502,TESLA,Free,39.6588203,-78.747755,public,343
+ELEC,Zeke's Coffee,4719 Harford Rd,2022-11-10,Public,MD,Baltimore,2019-05-07,21214,J1772,Free,39.343968,-76.567828,public,344
+ELEC,Central Plaza Garage,100 W Fayette St,2022-11-10,Public,MD,Baltimore,2019-05-07,21201,J1772,Free,39.290481,-76.616381,public,345
+ELEC,Maryland Science Center,601 Light St,2022-11-10,Public,MD,Baltimore,2019-06-07,21230,J1772,Free,39.28223,-76.612824,public,349
+ELEC,Johns Hopkins Community Physicians - Remington,2700 Remington Ave,2022-11-10,Public,MD,Baltimore,2019-06-07,21211,J1772,Free,39.320474,-76.621062,public,350
+ELEC,McHenry Row - Parking Garage,1641 Whetstone Way,2022-11-10,Public,MD,Baltimore,2019-06-07,21230,J1772,Free,39.268351,-76.599249,public,352
+ELEC,Shimadzu Scientific Instruments,7102 Riverwood Dr,2022-01-10,Private,MD,Columbia,2019-07-01,21046,J1772,Free,39.17626,-76.874243,private,353
+ELEC,Veterans of Foreign Wars,2630 Rosser Rd,2022-11-10,Public,MD,Federalsburg,2019-07-01,21632,J1772,Free,38.679196,-75.777369,public,354
+ELEC,Town of Galestown - Town Hall,5538 Old School House Rd,2022-11-10,Public,MD,Galestown,2019-07-01,21659,J1772,Free,38.565561,-75.71589,public,355
+ELEC,Whole Foods Market,6621-B Baltimore Ave,2023-09-14,Public,MD,Riverdale,2019-07-19,20737,J1772,Free,38.969371,-76.937183,public,356
+ELEC,Inner Harbor Center Garage,400 E Pratt St,2022-11-10,Public,MD,Baltimore,2019-09-09,21202,J1772,Free,39.286835,-76.609322,public,368
+ELEC,Howard Community College,5051 Campus Dr,2024-09-12,Private,MD,Columbia,2018-03-01,21044,J1772,Free,39.212347,-76.880501,private,374
+ELEC,College Square Shopping Center,444 WMC Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Westminster,2011-04-15,21158,J1772,FREE,39.5867228,-77.0133356,public,378
+ELEC,Winchester Hall,12 East Church Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Frederick,2014-10-28,21701,J1772,FREE,39.4149343,-77.4097442,public,379
+ELEC,PHH,940 Ridgebrook Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Sparks,2011-08-12,21152,J1772,FREE,39.525064,-76.649015,public,380
+ELEC,Firaxis Games,10 Loveton Cir,2024-10-08,Public,MD,Sparks Glencoe,2015-11-18,21152,J1772,$0.00-$0.20/kWh Variable Energy Fee,39.5212999,-76.646339,public,381
+ELEC,"Walgreens - Eldersberg, MD #7678",1260 Liberty Rd,2024-10-08,Public,MD,Eldersberg,2011-11-22,21784,J1772,$2.00/Hr Parking Fee,39.4047804,-76.951296,public,382
+ELEC,Metro Garage 1,5048 Painters Mill Road,2024-10-08,Public,MD,Owings Mills,2016-12-09,21117,J1772,$0.00-$2.00/Hr Variable Parking Fee,39.4058654,-76.7787821,public,383
+ELEC,"Walgreens - Bel Air, MD #11999",1927 Emmorton Rd,2024-10-08,Public,MD,Bel Air,2011-11-22,21015,J1772,$2.00/Hr Parking Fee,39.5019452,-76.3265292,public,384
+ELEC,The Yards at Fieldside Village,816 Long Dr,2024-10-08,Public,MD,Aberdeen,2019-09-06,21001,J1772,FREE,39.5328597,-76.1895162,public,385
+ELEC,"Walgreens - Baltimore, MD #6779",9616 Hartford Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2012-01-10,21234,J1772,$2.00/Hr Parking Fee,39.396155,-76.523482,public,386
+ELEC,St. John Properties,2560 Lord Baltimore Drive,2024-10-08,Public,MD,Baltimore,2011-12-31,21244,J1772,$1.00/Hr Parking Fee,39.325403,-76.751758,public,387
+ELEC,The Gate at Aberdeen Proving Ground,"6180 Guardian Gateway, Suite 102",2024-10-08,Public,MD,Aberdeen Proving Ground,2015-12-05,21005,J1772,$0.50-$0.75/Hr Variable Parking Fee,39.48913133,-76.1621383,public,388
+ELEC,"Walgreens - Edgewood, MD #9342",1930 Pulaski Highway,2024-10-08,Public,MD,Edgewood,2011-11-21,21040,J1772,$2.00/Hr Parking Fee,39.4354502,-76.3141145,public,389
+ELEC,Parks and People Foundation,2100 Liberty Heights Ave.,2024-10-08,Public,MD,Baltimore,2014-12-26,21217,J1772,FREE,39.319529,-76.651367,public,390
+ELEC,MedStar Union Memorial Hospital,201 E. University Pkwy,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2017-01-26,21218,J1772,FREE,39.329267,-76.614289,public,391
+ELEC,Johns Hopkins University,3101 Wyman Park Dr,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2011-06-08,21211,J1772,FREE,39.3259113,-76.6215812,public,392
+ELEC,The Fitzgerald Parking Garage,1201 West Mt. Royal Ave.,2024-10-08,Public,MD,Baltimore,2011-03-18,21217,J1772,FREE,39.307469,-76.619217,public,393
+ELEC,Win Kelly Dealership,12421 Auto Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Clarksville,2011-12-03,21029,J1772,FREE,39.2112679,-76.941624,public,394
+ELEC,TEN.M,10100 Twin Rivers Rd,2024-10-08,Public,MD,Columbia,2017-01-23,21044,J1772,$0.00-$5.00/Hr Variable Parking Fee,39.2165937,-76.8684038,public,395
+ELEC,2 Hopkins Apartments,2 Hopkins Plaza,2024-10-08,Public,MD,Baltimore,2017-04-12,21201,J1772,$2.00/Hr Parking Fee,39.288894,-76.6172399,public,396
+ELEC,The Metropolitan Downtown Columbia,Town Center Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Columbia,2011-11-18,21044,J1772,FREE,39.214536,-76.86736339999999,public,397
+ELEC,36 S. Charles St,36 S Charles Street,2024-10-08,Public,MD,Baltimore,2017-08-28,21201,J1772,FREE,39.2879203,-76.6155026,public,398
+ELEC,LAZ Parking,17 E Conway St,2024-10-08,Public,MD,Baltimore,2017-11-01,21202,J1772,$1.00-$5.00/Hr Variable Parking Fee,39.2838341,-76.6139854,public,399
+ELEC,President Street Parking Garage,815 E. Pratt Street,2024-10-08,Public,MD,Baltimore,2011-12-20,21202,J1772,FREE,39.286911,-76.6033829,public,400
+ELEC,McHenry Row,1603 Whetstone Way,2024-10-08,Public,MD,Baltimore,2011-10-03,21230,J1772,$0.10/kWh Energy Fee,39.2690144,-76.5997877,public,401
+ELEC,McHenry Row - East Garage,1631 Whetstone Way,2024-10-08,Public,MD,Baltimore,2011-10-03,21230,J1772,$0.10/kWh Energy Fee,39.26856357,-76.59919685,public,402
+ELEC,Research Boulevard (Charging Stations),1803 Research Blvd,2024-10-08,Public,MD,Rockville,2014-12-10,20850,J1772,FREE,39.0984845,-77.1796859,public,403
+ELEC,Rockville Town Center,44 Maryland Ave.,2024-10-08,Public,MD,Rockville,2014-11-20,20850,J1772,FREE,39.0842791,-77.15094091,public,404
+ELEC,Maple Lawn - 8115,8115 Maple Lawn Blvd.,2024-10-08,Public,MD,Fulton,2016-07-26,20759,J1772,$0.50-$0.95/Hr Variable Parking Fee,39.1520206,-76.9026864,public,405
+ELEC,Maple Lawn 4,8160 Maple Lawn Boulevard,2024-10-08,Public,MD,Fulton,2018-06-13,20759,J1772,$0.50-$0.75/Hr Variable Parking Fee,39.1492926,-76.9053992,public,406
+ELEC,"7900 Washington Blvd., Jessup, MD 20794",7900 Washington Blvd.,2024-10-08,Public,MD,Jessup,2015-12-23,20794,J1772,FREE,39.1720712,-76.7867934,public,407
+ELEC,"Walgreens - Brooklyn Park, MD #6007",5740 Ritchie Highway,2024-10-08,Public,MD,Brooklyn Park,2012-01-10,21225,J1772,$2.00/Hr Parking Fee,39.216143,-76.615116,public,408
+ELEC,Fleet Lot,7201 Corporate Center Dr,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Hanover,2018-11-09,21076,J1772,FREE,39.1890522,-76.6983085,public,409
+ELEC,BWI Airport - Daily Rooftop,7062 Elm Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2011-05-15,21240,J1772,FREE,39.18806,-76.67759,public,410
+ELEC,BWI Airport - Daily Ground Floor,7062 Elm Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2011-04-12,21240,J1772,FREE,39.1869346,-76.6776287,public,411
+ELEC,BWI Airport - Hourly Ground Floor,7062 Elm Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2011-04-14,21240,J1772,FREE,39.180144,-76.670086,public,412
+ELEC,Randolph Plaza,57 Randolph RD,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Silver Spring,2016-12-05,20904,J1772,FREE,39.076167,-77.004377,public,413
+ELEC,Potomac Place Shopping Center,10122 River Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Potomac,2012-01-04,20854,J1772,FREE,39.016489,-77.209277,public,414
+ELEC,11200 Rockville Pike LLC,11200 Rockville Pike,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Rockville,2014-03-14,20852,J1772,FREE,39.0408693,-77.11046190000002,public,415
+ELEC,The Elms At Shannon\'s Glen,7811 Shannon's Glen DR,2024-10-08,Public,MD,Jessup,2016-08-23,20794,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",39.140761,-76.760309,public,416
+ELEC,Lionsgate at Woodmont Corner Condo,7710 Woodmont Ave,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bethesda,2017-07-24,20814,J1772,FREE,38.9868489,-77.0965435,public,417
+ELEC,7201 Wisconsin Ave,7201 Wisconsin Ave,2024-10-08,Public,MD,Bethesda,2018-06-27,20814,J1772,"$0.00-$2.00/Hr Variable Parking Fee, $0.13/kWh Energy Fee",38.981871580746,-77.092507975913,public,418
+ELEC,"8737 Colesville Rd, LLC",8737 Colesville Road,2024-10-08,Public,MD,Silver Spring,2016-08-15,20910,J1772,FREE,38.998714,-77.0257707,public,419
+ELEC,The Citron Apartments - Foulger-Pratt,815 Pershing Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Silver Spring,2012-02-03,20910,J1772,FREE,38.9981068,-77.0239052,public,420
+ELEC,Blair House,8201 16th St.,2024-10-08,Public,MD,Silver Spring,2011-05-15,20910,J1772,$1.00-$2.00/Hr Variable Parking Fee,38.991846,-77.034751,public,421
+ELEC,The Blairs Shopping Center,1280 East-West Hwy,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Silver Spring,2011-05-15,20910,J1772,$1.00-$2.00/Hr Variable Parking Fee,38.99207106,-77.03287763,public,422
+ELEC,Geico West Lot,4608 Willard Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bethesda,2018-02-15,20815,J1772,$1.00/Hr Parking Fee,38.9611248,-77.0903933,public,423
+ELEC,531704 - The Shops at Wisconsin Place,4412 Willard Avenue,2024-10-08,Public,MD,Chevy Chase,2018-09-01,20815,J1772,$1.50-$5.00/Hr Variable Parking Fee,38.9611607,-77.0873737,public,424
+ELEC,Chesapeake Building,3115 Chesapeake Building,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,College Park,2012-08-08,20742,J1772,FREE,38.998001,-76.941887,public,425
+ELEC,Severn Building,5245 Greenbelt Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,College Park,2011-09-21,20740,J1772,FREE,38.9980404,-76.9199156,public,426
+ELEC,College Park Downtown Parking Garage,7308 Yale Avenue,2024-10-08,Public,MD,College Park,2017-01-27,20740,J1772,FREE,38.9804536,-76.9367647,public,427
+ELEC,WashColl-Lot-B,300 Washington Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Chestertown,2011-09-28,21620,J1772,FREE,39.2180241,-76.0692262,public,428
+ELEC,WashColl-Lot-D,300 Washington Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Chestertown,2011-09-28,21620,J1772,FREE,39.2180241,-76.0692262,public,429
+ELEC,"Annex \""B\"" Classrooms",101 College Parkway,2024-10-08,Public,MD,Arnold,2018-12-05,21012,J1772,$1.00/Hr Parking Fee,39.0490132,-76.5167488,public,430
+ELEC,PGC 1301 McCormick,1301 McCormick Drive,2024-10-08,Public,MD,Upper Marlboro,2017-09-20,20774,J1772,$0.00-$1.00/Hr Variable Parking Fee,38.9091841,-76.8420572,public,431
+ELEC,Springhill Suites Annapolis,189 Admiral Cochrane Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Annapolis,2014-06-24,21401,J1772,FREE,38.9726981,-76.5492764,public,432
+ELEC,Chesapeake HPAC,1000 College Circle,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Wye Mills,2015-01-05,21679,J1772,FREE,38.95135409,-76.08221413,public,433
+ELEC,Hilton Garden Inn Waldorf,10385 O'Donnell Pl.,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Waldorf,2011-05-20,20603,J1772,FREE,38.619302,-76.93311,public,434
+ELEC,Belmond the Inn at Perry Cabin,308 Watkins Lane,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Saint Michaels,2014-05-09,21663,J1772,FREE,38.790252,-76.2214708,public,435
+ELEC,"Walgreens - La Plata, MD #10063",6300 Crane Highway,2024-10-08,Public,MD,La Plata,2011-11-22,20646,J1772,$2.00/Hr Parking Fee,38.538959,-76.983092,public,436
+ELEC,W. College Ave. Lot H,222 West College Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Salisbury,2017-05-19,21801,J1772,FREE,38.3485762,-75.601699,public,437
+ELEC,Perdue East,1101 Camden Ave.,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Salisbury,2011-05-23,21801,J1772,FREE,38.3444766,-75.6058571,public,438
+ELEC,East of Market Apartments,100 Holling Dr,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Frederick,2014-11-25,21701,J1772,FREE,39.4309239,-77.4024166,public,439
+ELEC,Frederick County Government,331 Montevue Lane,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Frederick,2014-09-09,21702,J1772,FREE,39.4327557,-77.4393568,public,449
+ELEC,Hancock Western Rail Trail Parking Lot,2 Canal St,2022-11-10,Public,MD,Hancock,2019-12-01,21750,CHADEMO J1772COMBO,Free,39.698418,-78.178408,public,450
+ELEC,Charles Plaza Garage - Tesla Destination,222 North Charles St,2022-10-06,Public,MD,Baltimore,2019-04-23,21201,TESLA,Free,39.291987,-76.615821,public,451
+ELEC,Chester Plaza - Tesla Destination,7 Chester Plaza,2022-10-06,Public,MD,Chester,2019-04-18,21619,TESLA,Free,38.976475,-76.288568,public,452
+ELEC,G&M Restaurant - Tesla Destination,804 N Hammonds Ferry Rd,2022-10-06,Public,MD,Linthicum,2019-07-16,21090,TESLA,Free,39.225034,-76.665832,public,453
+ELEC,26300,133 National Business Parkway,2024-10-08,Public,MD,Annapolis Junction,2018-12-11,20701,J1772,$0.20/kWh Energy Fee,39.1243889,-76.774318,public,464
+ELEC,Parsons Corp,7110 Samuel Morse Dr,2022-11-10,Public,MD,Columbia,2020-01-09,21046,J1772,Free,39.168437,-76.812615,public,470
+ELEC,UMBC - Walker Avenue Garage,1000 Hilltop Cr,2023-09-14,Public,MD,Baltimore,2020-02-10,21250,J1772,Free,39.257426,-76.712476,public,472
+ELEC,UMBC - Lot 9,1000 Hilltop Cr,2023-09-14,Public,MD,Baltimore,2020-04-03,21250,J1772,Free,39.25459,-76.715174,public,473
+ELEC,Comfort Inn Shady Grove,16216 Frederick Road,2024-10-08,Public,MD,Gaithersburg,2014-03-04,20877,J1772,$0.49/kWh Energy Fee,39.1214784,-77.17724670000001,public,483
+ELEC,Spinnaker Garage,707 President St,2024-10-08,Public,MD,Baltimore,2019-08-08,21202,J1772,FREE,39.2828701,-76.6010004,public,484
+ELEC,Howard Square Apartments - Colonial Parking,7500 Hearthside Way,2024-09-12,Public,MD,Elkridge,2019-12-20,21075,J1772,Free,39.173343,-76.78312,public,487
+ELEC,Howard Square Apartments - Verde West,7604 Hearthside Way,2022-11-10,Public,MD,Elkridge,2019-12-20,21075,J1772,Free,39.174324,-76.780879,public,488
+ELEC,Howard Square Apartments - Verde East,7710 Hearthside Way,2022-11-10,Public,MD,Elkridge,2019-12-20,21075,J1772,Free,39.175034,-76.779284,public,489
+ELEC,Oak Barrel Café,35206 National Pike NE,2023-03-08,Public,MD,Little Orleans,2019-12-20,21766,CHADEMO J1772 J1772COMBO,Free,39.70410070906586,-78.32861819741441,public,490
+ELEC,MOM's Organic Market - Rockville,10 Upper Rock Circle,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Rockville,2017-06-20,20850,J1772,FREE,39.1134145,-77.1845173,public,491
+ELEC,Main,4961 Tesla Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bowie,2019-05-23,20715,J1772,FREE,38.956517,-76.70764,public,493
+ELEC,Rawlings Conservatory and Botanic Gardens,3100 Swann Dr,2023-10-12,Public,MD,Baltimore,2019-11-02,21217,J1772,Free,39.318525,-76.644954,public,498
+ELEC,M&T Bank Stadium - Parking Lot C,1101 Russell St,2023-09-14,Public,MD,Baltimore,2019-11-01,21230,J1772,Parking fee,39.279097,-76.621094,public,499
+ELEC,City of Hyattsville,4310 Gallatin St,2023-09-14,Public,MD,Hyattsville,2019-11-01,20781,CHADEMO J1772COMBO,"$2 initiation fee, 20 cents per minute.",38.952683,-76.941805,public,500
+ELEC,Town of Ocean City - Convention Center,4001 Coastal Hwy,2022-11-10,Public,MD,Ocean City,2018-06-01,21842,CHADEMO J1772COMBO,Free; pay to park,38.365827,-75.072092,public,507
+ELEC,"Hyatt Regency Chesapeake Bay Golf Resort, Spa And Marina",100 Heron Blvd,2023-09-14,Public,MD,Cambridge,2020-05-08,21613,J1772,free,38.561263,-76.046307,public,509
+ELEC,Frederick Health Hospital,400 W 7th St,2023-09-14,Public,MD,Frederick,2020-05-08,21701,J1772,Free,39.423189,-77.415839,public,511
+ELEC,Department of Environment,1801 McCormick Drive,2024-10-08,Public,MD,Upper Marlboro,2020-03-19,20774,J1772,$0.00-$1.00/Hr Variable Parking Fee,38.9148413,-76.8451134,public,512
+ELEC,HQ Bowie,4961 Tesla Dr,2024-10-08,Public,MD,Bowie,2015-04-20,20715,J1772,$0.00-$0.50/Hr Variable Parking Fee,38.9570814,-76.7077064,public,513
+ELEC,Bethesda Row,4950 Elm Street,2024-10-08,Public,MD,Bethesda,2020-05-07,20814,J1772,Free,38.981849,-77.097914,public,514
+ELEC,Linganore Winecellars - Tesla Destination,13601 Glissans Mill Rd,2022-10-06,Public,MD,Mt Airy,2019-10-18,21771,TESLA,Free,39.422768,-77.193238,public,515
+ELEC,6116 Executive Blvd,6116 Executive Boulevard,2024-10-08,Public,MD,Rockville,2019-04-22,20852,J1772,FREE,39.0480505,-77.1260282,public,522
+ELEC,Watkins Park,615 Center St,2023-09-14,Public - Credit card at all times,MD,Mt. Airy,2020-07-02,21771,TESLA,free,39.375592,-77.145778,public,524
+ELEC,PGC 9400 Peppercorn,9400 Peppercorn Place,2024-10-08,Public,MD,Upper Marlboro,2020-07-09,20774,J1772,$1.00/Hr Parking Fee,38.913537,-76.8434696,public,529
+ELEC,Sport Chevrolet,3101 Automobile Blvd,2023-12-13,Public,MD,Silver Spring,2020-07-10,20904,J1772,Free,39.081139,-76.947254,public,530
+ELEC,Elkridge Fire Station #1,5700 Rowanberry Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Elkridge,2018-06-19,21075,J1772,FREE,39.2105483,-76.7372062,public,538
+ELEC,Common Market Co-op 7th Street,927 West 7th Street,2024-10-08,Public,MD,Frederick,2020-10-03,21701,J1772,FREE,39.4274836,-77.4152472,public,562
+ELEC,Frederick,5273 Buckeystown Pike,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Frederick,2020-08-26,21703,J1772,FREE,39.3759198,-77.412834,public,568
+ELEC,Windridge Vineyard,15700 Darnestown Rd,2024-10-08,Public,MD,Darnestown,2020-06-26,20874,J1772,$0.20/kWh Energy Fee,39.12312,-77.32573,public,573
+ELEC,Greenmount Bowl - Tesla Destination,1625 N Main St,2022-10-06,Public,MD,Hampstead,2019-10-21,21074,TESLA,Free,39.62023,-76.856198,public,582
+ELEC,John Hopkins University - Tesla Destination,3101 Wyman Park Dr,2022-10-06,Public,MD,Baltimore,2018-04-20,21218,J1772 TESLA,Free,39.3258398,-76.6217496,public,583
+ELEC,Kitty Knight - Tesla Destination,14028 Augustine Herman Hwy,2022-10-06,Public,MD,Georgetown,2019-09-19,21930,TESLA,Free,39.36095,-75.880319,public,584
+ELEC,Town of Centreville - Tesla Destination,101 Lawyers Row,2022-10-06,Public,MD,Centreville,2019-08-29,21617,J1772 TESLA,Free,39.044755,-76.0656196,public,585
+ELEC,Two Wisconsin Circle - Tesla Destination,2 Wisconsin Cir,2022-10-06,Public,MD,Chevy Chase,2013-11-21,20815,TESLA,Free,38.96197,-77.085332,public,586
+ELEC,Washington College - Tesla Destination,300 Washington Avenue,2022-10-06,Public,MD,Chestertown,2019-06-11,21620,J1772 TESLA,Free,39.2170867,-76.0688146,public,587
+ELEC,Westfield Annapolis - Nordstroms Parking - Tesla Destination,2002 Annapolis Mall Rd,2022-10-06,Public,MD,Annapolis,2016-11-22,21401,J1772 TESLA,Free,38.991254,-76.542499,public,588
+ELEC,"BP - Clear Spring, MD",12911 Clear Spring Rd,2023-12-13,TEMPORARILY UNAVAILABLE (Public),MD,Clear Spring,2020-11-09,21722,CHADEMO J1772COMBO,$0.50 per kWh,39.653757,-77.927112,public,589
+ELEC,Best Western Hotel and Conference Center,5625 O'Donnell St,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2014-07-31,21224,CHADEMO J1772COMBO,Free,39.28034739990559,-76.54722773252662,public,596
+ELEC,Robert Morris Inn,314 N Morris St,2023-12-13,Public,MD,Oxford,2021-01-18,21654,J1772,Free,38.692832,-76.173983,public,733
+ELEC,Causeway Park,110 Oxford Rd,2023-12-13,Public,MD,Oxford,2021-01-18,21654,J1772,Free,38.68406,-76.169776,public,734
+ELEC,Town of Easton - Brewers Lane Parking,109 Brewers Ln,2023-09-14,TEMPORARILY UNAVAILABLE (Public),MD,Easton,2021-01-25,21601,J1772 TESLA,Free,38.777042,-76.074308,public,740
+ELEC,GERMANTOWN MAIN OFFICE,12774 Wisteria Dr,2024-01-10,Private - Government only,MD,Germantown,2021-01-15,20874,J1772,Free,39.174758,-77.267555,private,744
+ELEC,Census,4600 Silver Hill Rd,2024-01-10,Private - Government only,MD,Suitland,2021-01-15,20746,J1772,Free,38.84591,-76.928745,private,745
+ELEC,FDA White Oak Campus,East Loop Rd,2024-01-10,Private,MD,Silver Spring,2021-01-15,20993,J1772,$0.13 per kWh,39.036766,-76.979409,private,768
+ELEC,Joint Base Andrews,3320 Pennsylvania Ave,2024-01-10,Private - Government only,MD,Andrews AFB,2021-01-15,20762,J1772,Free,38.7965,-76.8836,private,769
+ELEC,Ashland Garage,900 N Washington Street,2024-10-08,Public,MD,Baltimore,2019-08-05,21205,J1772,Free,39.30118,-76.59019,public,804
+ELEC,PGC 1400 McCormick,1400 McCormick Drive,2024-10-08,Public,MD,Upper Marlboro,2021-04-01,20774,J1772,$0.00-$1.00/Hr Variable Parking Fee,38.9085172,-76.8459243,public,806
+ELEC,Falls Grove Office Center,14955 Shady Grove Rd,2024-10-08,Public,MD,Rockville,2020-10-14,20850,J1772,Free,39.101127,-77.191261,public,813
+ELEC,"Walgreens - Forest Hill, MD #9926",2016 Rock Spring Rd,2024-10-08,Public,MD,Forest Hill,2013-12-20,21050,J1772,$2.00/Hr Parking Fee,39.5731928,-76.3851175,public,834
+ELEC,Greenleigh FF - 6201,6201 Greenleigh Avenue,2024-10-08,Public,MD,Middle River,2018-01-24,21220,J1772,FREE,39.3606919,-76.4019353,public,835
+ELEC,White Oak Medical Center Campus - Outside Parking,11890 Healing Way,2024-10-08,Public,MD,White Oak,2021-08-11,20904,J1772,Free,39.0495709,-76.9572484,public,858
+ELEC,"Ocean Point, LTD - The Plaza",9800 Coastal Highway,2024-10-08,Public,MD,Ocean City,2021-08-12,21842,J1772,Free,38.411111,-75.056944,public,859
+ELEC,White Oak Medical Center Campus - 5th Floor,11890 Healing Way,2024-10-08,Public,MD,White Oak,2021-08-13,20904,J1772,Free,39.048904,-76.95674,public,860
+ELEC,The Tower Building,1101 Wootton Parkway,2024-10-08,Public,MD,Rockville,2018-07-19,20852,J1772,$1.50-$3.00/Hr Variable Parking Fee,39.067948,-77.1562346,public,863
+ELEC,CALT Building,101 College Parkway,2024-10-08,Public,MD,Arnold,2015-06-29,21012,J1772,$1.00/Hr Parking Fee,39.0489086,-76.5165644,public,871
+ELEC,Eldersburg Commons,6400 Ridge Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Sykesville,2014-12-29,21784,J1772,FREE,39.3974586,-76.9340852,public,872
+ELEC,Beacon Place Apartments at the Kentlands,916 Beacon Square Court,2024-10-08,Public,MD,Gaithersburg,2014-12-01,20878,J1772,$0.20/kWh Energy Fee,39.1255188,-77.2428589,public,873
+ELEC,Greenleigh @ Crossroads Bldg EE,6211 Greenleigh Avenue,2024-10-08,Public,MD,Middle River,2019-12-20,21220,J1772,$0.50-$0.75/Hr Variable Parking Fee,39.3602427,-76.40545305,public,874
+ELEC,Caroline Garage,1501 East Monument St.,2024-10-08,Public,MD,Baltimore,2015-07-27,21205,J1772,FREE,39.2981563,-76.5967227,public,875
+ELEC,McElderry Garage Lower Level,1501 McElderry Street,2024-10-08,Public,MD,Baltimore,2016-06-21,21205,J1772,FREE,39.2969395,-76.5965132,public,876
+ELEC,m. flats,10101 Twin Rivers Road,2024-10-08,Public,MD,Columbia,2017-01-23,21044,J1772,$0.00-$5.00/Hr Variable Parking Fee,39.2153158,-76.8656661,public,877
+ELEC,Orleans garage,1795 Orleans St,2024-10-08,Public,MD,Baltimore,2015-07-27,21231,J1772,FREE,39.2949489,-76.592286,public,878
+ELEC,"Walgreens - Columbia, MD #11949",5585 Twin Knolls Rd,2024-10-08,Public,MD,Columbia,2011-11-30,21045,J1772,$2.00/Hr Parking Fee,39.219991,-76.839574,public,879
+ELEC,Gaithersburg,10 Upper Rock Circle,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Rockville,2017-06-20,20850,J1772,FREE,39.1134145,-77.1845173,public,880
+ELEC,312 Marshall Avenue,312 Marshall Avenue,2024-10-08,Public,MD,Laurel,2020-03-19,20707,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.00-$0.25/kWh Variable Energy Fee",39.0975821,-76.852907,public,881
+ELEC,8455 Colesville Road,8455 Colesville Road,2024-10-08,Public,MD,Silver Spring,2019-05-02,20910,J1772,FREE,38.9956338,-77.0297293,public,882
+ELEC,1200 East West,1200 East West Highway,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Silver Spring,2014-10-27,20910,J1772,FREE,38.989735,-77.0294815,public,883
+ELEC,"Walgreens - Randallstown, MD #6265",9110 Liberty Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Randallstown,2012-02-01,21133,J1772,$2.00/Hr Parking Fee,39.369864,-76.8000069,public,884
+ELEC,4600 East West Highway,4600 East West Highway,2024-10-08,Public,MD,Bethesda,2012-03-13,20814,J1772,FREE,38.9844519,-77.0928692,public,885
+ELEC,Everly,97 Capital Court,2024-10-08,Public,MD,Largo,2020-08-28,20774,J1772,FREE,38.8924929,-76.841712,public,886
+ELEC,Cumberland Sleep Inn & Suites,13320 Ali Ghan Road Northeast,2024-10-08,Public,MD,Cumberland,2016-02-25,21502,J1772,$2.00/Hr Parking Fee,39.6720991,-78.7157204,public,887
+ELEC,Mount Washington Campus,"5801 Smith Avenue, Suite 1100",2024-10-08,Public,MD,Baltimore,2012-01-31,21209,J1772,FREE,39.3700905,-76.6554704,public,888
+ELEC,MedStar Good Samaritan Hospital,5601 Loch Raven Blvd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2013-12-04,21239,J1772,FREE,39.358132,-76.5873585,public,889
+ELEC,UMBC - Stadium Lot,"Stadium Lot behind Warehouse, Hilltop Circle & Poplar Ave",2024-10-08,Public,MD,Baltimore,2011-11-03,21250,J1772,FREE,39.253321,-76.705762,public,890
+ELEC,Maple Lawn 9,8120 Maple Lawn Boulevard,2024-10-08,Public,MD,Fulton,2019-12-19,20759,J1772,$0.50-$0.75/Hr Variable Parking Fee,39.1520052,-76.9035423,public,891
+ELEC,Park Potomac HOA,12500 Park Potomac Ave.,2024-10-08,Public,MD,Potomac,2015-10-14,20854,J1772,"$0.00-$4.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",39.06018628,-77.15870193,public,892
+ELEC,Park Potomac Building D,12435 Park Potomac Ave.,2024-10-08,Public,MD,Potomac,2021-09-05,20854,J1772,FREE,39.0596169,-77.157087,public,893
+ELEC,J H @ Parkway,7231 Parkway Drive,2024-10-08,Public,MD,Hanover,2020-07-23,21076,J1772,FREE,39.173997,-76.7303521,public,894
+ELEC,Annapolis Junction-10170,10170 Junction Drive,2024-10-08,Public,MD,Annapolis Junction,2018-01-24,20701,J1772,$0.50-$0.75/Hr Variable Parking Fee,39.1240872,-76.7939661,public,895
+ELEC,The Pearl,180 High Park Ln,2024-10-08,Public,MD,Silver Spring,2021-09-05,20910,J1772,$1.00-$2.00/Hr Variable Parking Fee,38.9913212,-77.03384835,public,896
+ELEC,197 5 Story,231 Najoles Road,2024-10-08,Public,MD,Millersville,2018-01-24,21108,J1772,$0.50-$0.75/Hr Variable Parking Fee,39.095502,-76.629707,public,897
+ELEC,"HLSB, Parking Lot M",101 College Parkway,2024-10-08,Public,MD,Arnold,2019-04-10,21012,J1772,$1.00/Hr Parking Fee,39.0490696,-76.516773,public,898
+ELEC,"Walgreens - Waldorf, MD #9032",25 High Street,2024-10-08,Public,MD,Waldorf,2011-11-22,20602,J1772,$2.00/Hr Parking Fee,38.602321,-76.904329,public,899
+ELEC,Annapolis Corporate-181,181 Harry S Truman Parkway,2024-10-08,Public,MD,Annapolis,2021-09-05,21401,J1772,$0.50-$0.75/Hr Variable Parking Fee,38.97782908,-76.56005884,public,900
+ELEC,MOM's Organic Market - Frederick,5273 Buckeystown Pike,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Frederick,2015-01-05,21704,J1772,FREE,39.3759198,-77.412834,public,901
+ELEC,SHA - Hartford County,1400 Belcamp Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Belcamp,2011-06-22,21017,J1772,FREE,39.483421,-76.247386,public,902
+ELEC,Howard County Government - Dorsey Building,9250 Bendix Rd.,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Columbia,2011-05-05,21045,J1772,FREE,39.236994,-76.827476,public,903
+ELEC,Hawthorn Center,6175 Sunny Spring,2024-10-08,Public,MD,Columbia,2019-12-10,21044,J1772,$0.20/kWh Energy Fee,39.2071996,-76.8837771,public,904
+ELEC,MOM's Organic Market - Gaithersburg,10 Upper Rock Circle,2024-10-08,Public,MD,Rockville,2017-01-10,20850,J1772,FREE,39.1134145,-77.1845173,public,905
+ELEC,Wildwood Medical Center,10401 Old Georgetown Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bethesda,2020-11-27,20814,J1772,"$0.00-$2.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",39.0760643,-77.1372362,public,906
+ELEC,Knighton Garage,1-A Colonial Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Annapolis,2011-09-28,21401,J1772,FREE,38.976809,-76.4993889,public,907
+ELEC,Main SEMA Location,4961 Tesla Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bowie,2011-11-24,20715,J1772,FREE,38.956993,-76.7078005,public,908
+ELEC,"Walgreens - Bel Air, MD #12748",1201 East Churchville Rd,2024-10-08,Public,MD,Bel Air,2020-12-08,21014,J1772,$2.00/Hr Parking Fee,39.5416769,-76.3300768,public,909
+ELEC,IVT Shops at Town Center Germantown LLC,19718 Germantown Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Germantown,2011-12-30,20874,J1772,FREE,39.1807395,-77.2662729,public,910
+ELEC,Middlebrook Square Shopping Ctr,11500 Middlebrook Road,2024-10-08,Public,MD,Germantown,2020-11-27,20876,J1772,"$0.00-$2.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",39.1792546,-77.2394376,public,911
+ELEC,Union Wharf,915 S. Wolfe Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2013-12-27,21231,J1772,FREE,39.28121,-76.588695,public,912
+ELEC,Fallsgrove Plaza,14995 Shady Grove Road,2024-10-08,Public,MD,Rockville,2016-10-03,20850,J1772,"$1.00-$3.00/Hr Variable Parking Fee, $0.25/kWh Energy Fee",39.1011405,-77.190535,public,913
+ELEC,McHenry Row - West Garage,1630 Whetstone Way,2024-10-08,Public,MD,Baltimore,2011-10-03,21230,J1772,$0.10/kWh Energy Fee,39.26927344,-76.60020429,public,914
+ELEC,8840 Stanford Blvd,8840 Stanford Boulevard,2024-10-08,Public,MD,Columbia,2019-08-27,21045,J1772,FREE,39.1896044,-76.8151959,public,915
+ELEC,2000 Tower Oaks,2000 Tower Oaks Boulevard,2024-10-08,Public,MD,Rockville,2017-08-28,20852,J1772,$0.55-$1.00/Hr Variable Parking Fee,39.066178,-77.153254,public,916
+ELEC,Horn Point Marina,105 Eastern Ave,2024-10-08,Public,MD,Annapolis,2021-09-07,21403,J1772,"$0.00-$2.00/Hr Variable Parking Fee, $0.35/kWh Energy Fee",38.969882,-76.47619,public,917
+ELEC,Community Resources,7932 Oppossumtown Pike,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Frederick,2014-09-16,21702,J1772,FREE,38.536855,-76.584724,public,918
+ELEC,Dulaney Center Parking Garage,855 Southerly Road,2024-10-08,Public,MD,Towson,2020-08-28,21204,J1772,$0.00-$5.00/Hr Variable Parking Fee,39.406849,-76.599635,public,919
+ELEC,"Walgreens - Baltimore, MD #5331",8050 Liberty Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2011-11-23,21244,J1772,$2.00/Hr Parking Fee,39.354115,-76.756714,public,920
+ELEC,H.C.L.P. WRP,8900 Greenwood Place,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Savage,2013-09-24,20763,J1772,FREE,39.1255617,-76.8126149,public,921
+ELEC,Cromwell Center,810 Gleneagles Court,2024-10-08,Public,MD,Towson,2021-09-08,21286,J1772,$0.50-$0.95/Hr Variable Parking Fee,39.4028716,-76.5738872,public,922
+ELEC,Ashland Garage Level 6,900 North Washington Street,2024-10-08,Public,MD,Baltimore,2018-04-16,21205,J1772,FREE,39.301179,-76.5901802,public,923
+ELEC,Ashland Garage,900 N Washington St,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2011-11-28,21213,J1772,FREE,39.3003743,-76.5897116,public,924
+ELEC,Washington Blvd,9711 Washingtonian Boulevard,2024-10-08,Public,MD,Gaithersburg,2021-09-08,20878,J1772,$1.00-$10.00/Hr Variable Parking Fee,39.111969,-77.191232,public,925
+ELEC,Twin Oaks Shopping Center,711 Hungerford Drive,2024-10-08,Public,MD,Rockville,2020-11-27,20850,J1772,"$0.00-$2.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",39.0930982,-77.1528855,public,926
+ELEC,Maple Lawn 10 - 8110,8110 Maple Lawn Boulevard,2024-10-08,Public,MD,Fulton,2018-01-24,20759,J1772,$0.50-$0.95/Hr Variable Parking Fee,39.1525773,-76.9028133,public,927
+ELEC,Maple Lawn,8160 Maple Lawn Blvd,2024-10-08,Public,MD,Fulton,2021-09-08,20759,J1772,$0.50-$0.95/Hr Variable Parking Fee,39.14958699,-76.90562507,public,928
+ELEC,HTMI LLC,838 Rockville Pike,2024-10-08,Public,MD,Rockville,2020-11-27,20850,J1772,"$0.00-$2.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",39.0760643,-77.1372362,public,929
+ELEC,MOM's Organic Market - Jessup,"7351 Assateague Drive
+#190",2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Jessup,2018-05-02,20794,J1772,FREE,39.1695929,-76.7859472,public,930
+ELEC,Catalent Biologics / Paragon Gene Therapy,7555 Harmans Rd,2024-10-08,Public,MD,Harmans,2019-09-06,21077,J1772,FREE,39.150081,-76.701751,public,931
+ELEC,Promenade Towers,5225 Pooks Hill Road,2024-10-08,Public,MD,Bethesda,2016-05-20,20814,J1772,$0.20/kWh Energy Fee,39.0167159,-77.106924,public,932
+ELEC,Turner Hall Visitor Center,1201 Turner Hall,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,College Park,2011-09-21,20742,J1772,FREE,38.986111,-76.936775,public,933
+ELEC,Patapsco Building,5201 Paint Branch Parkway,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,College Park,2011-09-21,20740,J1772,FREE,38.9770725,-76.9246519,public,934
+ELEC,Courtyard by Marriott Bowie,16800 Science DR,2024-10-08,Public,MD,Bowie,2021-09-08,20715,J1772,$1.00-$2.00/Hr Variable Parking Fee,38.962643,-76.712979,public,935
+ELEC,Horn Point Lab,2020 Horns Point Rd,2024-10-08,Public,MD,Cambridge,2016-04-01,21613,J1772,FREE,38.5849647,-76.1378611,public,936
+ELEC,26060,540 National Business Parkway,2024-10-08,Public,MD,Annapolis Junction,2021-07-23,20701,J1772,$0.20/kWh Energy Fee,39.1376525,-76.7697546,public,939
+ELEC,Country Inn & Suites by Radisson - Baltimore North,8825 Yellow Brick Road,2024-10-08,Public,MD,Rosedale,2021-09-14,21237,J1772,Free,39.3397257,-76.4812653,public,941
+ELEC,The Met,10500 Grand Central Avenue,2024-10-08,Public,MD,Owings Mills,2020-03-19,21117,J1772,FREE,39.4069961,-76.7819518,public,942
+ELEC,Inner Harbor,801 Key Highway,2024-10-08,Public,MD,Baltimore,2021-09-29,21230,J1772,Free,39.280452,-76.605982,public,948
+ELEC,Crossroads Professional Building,7676 New Hampshire Ave,2024-10-08,Public,MD,Takoma Park,2021-07-27,20912,J1772,$1.00/Hr Parking Fee,38.9875017,-76.9885435,public,952
+ELEC,Fairfield Inn and Suites Hagerstown,89 All Star Court,2024-10-08,Public,MD,Hagertown,2021-08-20,21740,J1772,$0.30/kWh Energy Fee,39.6032127,-77.6884737,public,963
+ELEC,"PGC Brandywine, MD",12911 Cherry Tree Crossing Road,2024-10-08,Public,MD,Brandywine,2021-06-25,20613,J1772,$0.00-$1.00/Hr Variable Parking Fee,38.7113768,-76.8394143,public,975
+ELEC,College Square Shopping Center,444 WMC Drive,2024-10-08,Public,MD,Westminster,2021-11-11,21158,J1772,FREE,39.5867343,-77.0134136,public,998
+ELEC,La Quinta Inn - Waldorf,11770 Business Park Drive,2024-10-08,Public,MD,Waldorf,2022-01-04,20601,J1772,Free,38.63983,-76.89878,public,1002
+ELEC,Blue Belly Farms Corp,9201 Longs Mill Rd,2022-02-10,Public,MD,Rocky Ridge,2022-01-11,21778,J1772,$2 per charge. Pay via Venmo: Jidgette-Vernick or Paypal: TeslaSolarRoof,39.584041,-77.344023,public,1005
+ELEC,Cambria Hotel - Ocean City,13 St. Louis Ave,2024-10-08,Public,MD,Ocean City,2022-01-25,21842,J1772,Free,38.333153,-75.088885,public,1009
+ELEC,Gateway Hotel and Suites,11 N Baltimore Ave,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Ocean City,2022-01-25,21842,J1772,Free,38.332804,-75.086093,public,1010
+ELEC,1801 Rockville Pike,1801 Rockville Pike,2024-10-08,Public,MD,Rockville,2014-05-29,20852,J1772,$1.50/Hr Parking Fee,39.05959550000001,-77.12297739999997,public,1020
+ELEC,33000,7160 Riverwood Drive,2024-10-08,Public,MD,Columbia,2019-02-01,21046,J1772,$0.20/kWh Energy Fee,39.1751001,-76.876485,public,1021
+ELEC,The Vine,10945 Price Manor Way,2024-10-08,Public,MD,Laurel,2022-01-19,20723,J1772,FREE,39.1495173,-76.8988477,public,1042
+ELEC,No Contacts Offline,4961 Tesla Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bowie,2015-10-07,20715,J1772,FREE,38.956517,-76.70764,public,1043
+ELEC,The Alaire,5750 Fishers Lane,2024-10-08,Public,MD,Rockville,2022-04-01,20852,J1772,Free,39.062886,-77.117535,public,1053
+ELEC,Main Location,4961 Tesla Dr Ste A,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bowie,2015-09-08,20715,J1772,FREE,38.956517,-76.70764,public,1054
+ELEC,SemaConnect US R&D,4961 Tesla Drive,2024-10-08,Public,MD,Bowie,2014-08-27,20715,J1772 J1772COMBO,"$0.00-$4.00/Hr Variable Parking Fee, $0.00-$1.00/kWh Variable Energy Fee",38.9564819,-76.7075866,public,1064
+ELEC,Lakeside Retail / Office Center,8865 Stanford Blvd,2024-10-08,Public,MD,Columbia,2020-09-25,21045,J1772,"$1.00-$2.00/Hr Variable Parking Fee, $0.10/kWh Energy Fee",39.1909386,-76.8181249,public,1068
+ELEC,UMCES Car Port,2020 Horns Point Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Cambridge,2017-09-07,21613,J1772,FREE,38.5849647,-76.1378611,public,1072
+ELEC,Three Irvington Center,800 King Farm Blvd.,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Rockville,2022-04-30,20850,J1772,$1.00-$10.00/Hr Variable Parking Fee,39.1102166,-77.1818813,public,1076
+ELEC,EMOB,5901 E. Lombard St,2024-10-08,Public,MD,Baltimore,2019-12-04,21224,J1772,FREE,39.2950263,-76.5478517,public,1078
+ELEC,Verde at Greenbelt Station,8010 Greenbelt Station Pkwy,2024-10-08,Public,MD,Greenbelt,2016-04-07,20770,J1772,FREE,39.0003833,-76.9180057,public,1079
+ELEC,Symphony Center Garage,1030 Park Avenue,2024-10-08,Public,MD,Baltimore,2022-05-17,21201,J1772,$0.00-$2.00/Hr Variable Parking Fee,39.30313041,-76.6196167,public,1097
+ELEC,The Willard,5000 Waverly way,2024-10-08,Public,MD,Owings Mills,2021-10-25,21117,J1772,FREE,39.4078505,-76.784312,public,1100
+ELEC,200 Harry S Truman Parkway,"200 Harry S Truman Parkway,",2024-10-08,Public,MD,Annapolis,2022-04-05,21401,J1772,"$2.00/Hr Parking Fee , $0.14/kWh Energy Fee",38.9772453,-76.5554159,public,1119
+ELEC,Timbrook Ford - Oakland,12532 Garrett Hwy,2024-10-08,Public,MD,Oakland,2022-06-29,21550,J1772,Free,39.419369297,-79.3993906845,public,1127
+ELEC,City Hall,15901 Excalibur Road,2024-10-08,Public,MD,Bowie,2014-10-27,20716,J1772,FREE,38.942721,-76.7300088,public,1129
+ELEC,Symbioscience,20425 Seneca Meadows Parkway,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Germantown,2012-02-04,20876,J1772,FREE,39.1983001,-77.2572602,public,1132
+ELEC,Solaire 7077,7077 Woodmont Avenue,2024-10-08,Public,MD,Bethesda,2022-07-29,20815,J1772,$1.00/Hr Parking Fee,38.9802978,-77.0926444,public,1133
+ELEC,Ridgely Oaks Professional Center,621 Ridgely Avenue,2024-10-08,Public,MD,Annapolis,2022-01-26,21401,J1772,FREE,38.9967584,-76.5166222,public,1134
+ELEC,Elkridge Estates of Roland Park,6025 Roland Ave.,2024-10-08,Public,MD,Baltimore,2022-04-20,21210,J1772,$0.20/kWh Energy Fee,39.3737442,-76.6338932,public,1139
+ELEC,SHS Frederick,111 Byte Drive,2024-10-08,Public,MD,Frederick,2020-11-24,21702,J1772,$0.30/kWh Energy Fee,39.458751,-77.406626,public,1140
+ELEC,"Walgreens - Baltimore, MD #10076",2560 Quarry Lake Drive,2024-10-08,Public,MD,Baltimore,2021-10-01,21209,J1772,$2.00/Hr Parking Fee,39.3847962,-76.686881,public,1141
+ELEC,805 King Farm,805 King Farm Blvd.,2024-10-08,Public,MD,Rockville,2022-06-27,20850,J1772,$1.00-$10.00/Hr Variable Parking Fee,39.111029,-77.182107,public,1142
+ELEC,Maryland Dept. of Transportation Corporate Headquarters,7201 Corporate Dr.,2024-10-08,Public,MD,Hanover,2011-06-15,21076,J1772,FREE,39.1871889,-76.6977523,public,1143
+ELEC,Tate Access Floors - MD,7510 Montevideo Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Jessup,2015-01-07,20794,J1772,FREE,39.164904,-76.7720779,public,1144
+ELEC,"Walgreens - Glen Burnie, MD #9028",6700 Ritchie Highway,2024-10-08,Public,MD,Glen Burnie,2015-09-28,21061,J1772,$2.00/Hr Parking Fee,39.1938043,-76.6135573,public,1145
+ELEC,CRSC Building,101 College Parkway,2024-10-08,Public,MD,Arnold,2014-10-27,21012,J1772,$1.00/Hr Parking Fee,39.0489086,-76.5165644,public,1146
+ELEC,888 Bestgate Road,888 Bestgate Road,2024-10-08,Public,MD,Annapolis,2022-07-07,21401,J1772,$0.50-$0.95/Hr Variable Parking Fee,38.994233,-76.5435462,public,1147
+ELEC,810 Bestgate Road,810 Bestgate Road,2024-10-08,Public,MD,Annapolis,2019-12-19,21401,J1772,$0.50-$0.75/Hr Variable Parking Fee,38.9951124,-76.537177,public,1148
+ELEC,CBF,Herndon Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Annapolis,2018-10-10,21403,J1772,FREE,38.9360405,-76.4645131,public,1149
+ELEC,"Walgreens - Lusby, MD #10402",11745 Rousby Hall Rd,2024-10-08,Public,MD,Lusby,2011-11-22,20657,J1772,$2.00/Hr Parking Fee,38.37316,-76.442981,public,1150
+ELEC,R.V. Truitt Lab,129 Williams Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Solomons,2011-10-03,20688,J1772,FREE,38.3194811,-76.4537911,public,1151
+ELEC,Settler\'s Landing Apartments,45086 Voyage Path,2024-10-08,Public,MD,California,2021-07-25,20619,J1772,$0.00-$5.00/Hr Variable Parking Fee,38.299079,-76.5215003,public,1152
+ELEC,Perdue North,1101 Camden Ave.,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Salisbury,2011-05-23,21801,J1772,FREE,38.3444766,-75.6058571,public,1153
+ELEC,Cockeysville,10500 York Road,2024-10-08,Public,MD,Cockeysville,2022-08-25,21030,J1772,FREE,39.4751771,-76.6420841,public,1157
+ELEC,Electric Operations Building,7309 Windsor Mill Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Windsor Mill,2018-08-08,21244,J1772,FREE,39.3372168,-76.7570532,public,1158
+ELEC,Fleet Building,7310 Windsor Boulevard,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Windsor Mill,2017-10-04,21244,J1772,FREE,39.3337299,-76.7597036,public,1159
+ELEC,BGE Front St,1068 North Front Street,2024-10-08,Public,MD,Baltimore,2022-08-25,21202,J1772,FREE,39.2973695,-76.6068302,public,1160
+ELEC,Spring Gardens,1899 Leadenhall Street,2024-10-08,Public,MD,Baltimore,2022-08-25,21230,J1772,FREE,39.2678473,-76.6182956,public,1161
+ELEC,Pumphrey Station,4547 Annapolis Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2022-08-25,21227,J1772,FREE,39.2288485,-76.6395344,public,1162
+ELEC,Piney Orchard,730 New Waugh Chapel Road,2024-10-08,Public,MD,Odenton,2022-08-25,21113,J1772,FREE,39.071568,-76.719388,public,1163
+ELEC,Annapolis,112 West Street,2024-10-08,Public,MD,Annapolis,2022-08-25,21401,J1772,FREE,38.9781489,-76.4973566,public,1164
+ELEC,Bethesda Crescent,7475 Wisconsin Avenue,2024-10-08,Public,MD,Bethesda,2013-03-27,20814,J1772,FREE,38.9843643,-77.0936894,public,1168
+ELEC,Murn Properties,7200 Alden Way,2024-10-08,Public,MD,Hanover,2022-09-07,21076,J1772,Free,39.185814,-76.740564,public,1170
+ELEC,Bel Air Town Center,508 Baltimore Pike,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Bel Air,2011-11-24,21014,J1772,FREE,39.5270375,-76.3547139,public,1177
+ELEC,Rutland Garage,1805 East Madison Street,2024-10-08,Public,MD,Baltimore,2022-05-27,21205,J1772,FREE,39.2992877,-76.5921643,public,1221
+ELEC,Burtonsville Office Park,3915 National Drive,2024-10-08,Public,MD,Burtonsville,2022-09-23,20866,J1772,$0.12-$0.20/kWh Variable Energy Fee,39.112093,-76.9300506,public,1229
+ELEC,1001 Fleet Street,1001 Fleet Street,2024-10-08,Public,MD,Baltimore,2022-04-12,21202,J1772,$1.00-$5.00/Hr Variable Parking Fee,39.2840184,-76.5994792,public,1231
+ELEC,Fieldstone Farm Apartments,800 Hydric Court,2024-10-08,Public,MD,Odenton,2022-06-27,21113,J1772,$0.30/kWh Energy Fee,39.0511684,-76.707316,public,1246
+ELEC,Fairway Hills Golf Club,5100 Columbia Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Columbia,2022-09-24,21044,J1772,$0.20/kWh Energy Fee,39.2362555,-76.8441899,public,1253
+ELEC,Tucker Road Ice Rink,177 Tucker Road,2024-10-08,Public,MD,Fort Washington,2020-10-16,20744,J1772,FREE,38.7851372,-76.9786926,public,1262
+ELEC,Sail Cloth Factory,121 S. Fremont Avenue,2024-10-08,Public,MD,Baltimore,2022-10-27,21201,J1772,$3.00/Hr Parking Fee,39.2862838,-76.6271014,public,1264
+ELEC,Miller Brothers Cadillac,9035 Baltimore National Pike,2024-10-08,Public,MD,Ellicott City,2022-11-21,21042,J1772,Free,39.276107,-76.823373,public,1275
+ELEC,(NIAID) National Institute of Allergy and infectious Diseases,5601 Fishers Lane,2024-10-08,Public,MD,Rockville,2022-11-30,20852,J1772,Free,39.064175,-77.112563,public,1289
+ELEC,White Oak Medical Center Campus - 4th Floor,12000 Plum Orchard Dr,2024-10-08,Public,MD,Silver Springs,2023-01-04,20904,J1772,Free,39.048904,-76.9536388,public,1290
+ELEC,White Oak Medical Center Campus Parking Garage - 1st floor,12000 Plum Orchard Dr,2024-10-08,Public,MD,White Oak,2023-01-04,20904,J1772,Free,39.048707,-76.9536388,public,1291
+ELEC,Galvan at Twinbrook,1801 Chapman Ave,2024-10-08,Public,MD,Rockville,2022-09-08,20852,J1772,Free,39.060001,-77.121076,public,1292
+ELEC,8001 Woodmont Apartments,8001 Woodmont Ave,2024-10-08,Public,MD,Bethesda,2021-05-18,20814,J1772,Free,38.9898679,-77.096218,public,1294
+ELEC,Public Parking Lot,312 Main Street,2024-10-08,Public,MD,Laurel,2022-12-05,20707,J1772,Free,39.104169,-76.844478,public,1295
+ELEC,Luxury Boutique Hotel - Tesla Destination,134 134 Prince George Street,2022-10-06,Public,MD,Annapolis,2021-12-10,21401,TESLA,Free,38.9784295,-76.4862319,public,1299
+ELEC,Rod 'N' Reel Resort - Tesla Destination,4160 Mears Ave,2022-10-06,Public,MD,Chesapeake Beach,2022-03-29,20732,TESLA,Free,38.690484,-76.5335407,public,1300
+ELEC,Heritage Subaru Catonsville,6624 Baltimore National Pike,2024-10-08,TEMPORARILY UNAVAILABLE (Public),MD,Baltimore,2023-01-25,21228,J1772,Free,39.288636,-76.768253,public,1305
+ELEC,Whole Foods - Central Ave MD,711 S Central Ave,2024-10-08,Public,MD,Baltimore,2023-01-20,21202,J1772,Free,39.282715,-76.598431,public,1316
+ELEC,Home 2 Suites by Hilton Owings Mills,4514 Painters Mill Road,2024-10-08,Public,MD,Owings Mills,2023-02-10,21117,J1772,Free,39.39617470660157,-76.78838511501472,public,1342
+ELEC,PEPCO City Hall Location,Yale Ave,2023-08-10,Public,MD,College Park,2020-10-01,20740,J1772,"$2 per hour, $1 minimum",38.98138,-76.93643,public,1519
+ELEC,7Charge - Beltsville,11350 Baltimore Ave,2023-10-12,Public,MD,Beltsville,2023-09-14,20705,CHADEMO J1772COMBO,$0.35 per kWh; Idle parking $1per minute after a 15 minute grace period,39.03989,-76.90487,public,1668
+ELEC,Noah Hillman Parking Garage,150 Gorman St,2024-01-09,Public - Credit card at all times,MD,Annapolis,2023-12-21,21401,CHADEMO J1772COMBO,$3.00 per hour parking fee,38.97705,-76.4894,public,1749
+ELEC,Royal Farms - Tesla Supercharger,8480 Ocean Gateway,2024-09-12,Public,MD,Easton,2024-07-29,21601,TESLA,$0.33 per kWh,38.782132,-76.061329,public,1922
+ELEC,Royal Farms - Tesla Supercharger,7136 Montevideo Rd,2024-09-12,Public,MD,Elkridge,2024-08-08,20794,TESLA,$0.36 per kWh,39.174251,-76.776827,public,1923
+ELEC,Hotel Floyd,120 Wilson St,2022-11-10,Public,VA,Floyd,2011-06-01,24091,J1772,Free for guests; $10 for non-guests,36.910575,-80.31736,public,1
+ELEC,Passport Nissan - Alexandria,150 S Pickett St,2024-02-12,Public - Call ahead,VA,Alexandria,2011-03-15,22304,CHADEMO J1772 J1772COMBO,Free,38.80967,-77.12219,public,2
+ELEC,Priority Nissan - Chantilly,14840 Stonecroft Center Ct,2024-02-12,Public - Call ahead,VA,Chantilly,2011-03-15,20151,CHADEMO J1772,Free,38.8998,-77.46033,public,3
+ELEC,Colonial Nissan,200 Myers Dr,2024-02-12,Public - Call ahead,VA,Charlottesville,2011-03-15,22901,CHADEMO J1772,Free,38.084925987503,-78.47341454498292,public,4
+ELEC,Brown's Fairfax Nissan,11010 Fairfax Blvd,2024-02-12,Public - Call ahead,VA,Fairfax,2011-03-15,22030,CHADEMO J1772 J1772COMBO,Free,38.85366,-77.32474,public,5
+ELEC,Pomoco Nissan - Hampton,1134 W Mercury Blvd,2024-02-12,Public - Call ahead,VA,Hampton,2011-03-15,23666,CHADEMO J1772,Free,37.04249,-76.38833,public,6
+ELEC,Sheehy Nissan - Manassas,9010 Liberia Ave,2024-02-12,Public - Call ahead,VA,Manassas,2011-03-15,20110,CHADEMO J1772 J1772COMBO,Free,38.760854,-77.459274,public,7
+ELEC,Shell - YESS! Convenience 4U,328 Rives Rd,2023-01-10,Public,VA,Petersburg,2011-04-15,23805,NEMA520,$5 per hour,37.175139,-77.352948,public,8
+ELEC,First Team Nissan,6520 Peters Creek Rd,2024-02-12,Public - Call ahead,VA,Roanoke,2011-03-15,24019,CHADEMO J1772,Free,37.34598,-79.9627,public,9
+ELEC,Brown's Dulles Nissan,45155 Towlern Pl,2024-02-12,Public - Call ahead,VA,Sterling,2011-03-15,20166,CHADEMO J1772 J1772COMBO,Free,39.010459,-77.438399,public,10
+ELEC,Priority Nissan,8525 Leesburg Pike,2024-02-12,Public - Call ahead,VA,Vienna,2011-03-15,22182,CHADEMO J1772,Free,38.92684,-77.24096,public,11
+ELEC,Tri-State Nissan,1230 Millwood Pike,2024-02-12,Public - Call ahead,VA,Winchester,2011-03-15,22602,CHADEMO J1772 J1772COMBO,Free,39.156514,-78.147297,public,12
+ELEC,James River Air Conditioning,1905 Westmoreland St,2022-01-10,Public,VA,Richmond,2011-06-20,23230,J1772,Free,37.578536,-77.48754,public,13
+ELEC,New River Nissan,2130 N Franklin St,2024-02-12,Public - Call ahead,VA,Christiansburg,2012-01-31,24073,J1772,Free,37.158,-80.4204,public,14
+ELEC,Hyman Brothers Nissan,11841 Midlothian Turnpike,2024-02-12,Public - Call ahead,VA,Midlothian,2011-05-15,23113,CHADEMO J1772,Free,37.5036,-77.61842,public,15
+ELEC,Stone's Cove Kitbar,2403 Centreville Rd,2023-11-09,Public,VA,Herndon,2011-07-15,20171,J1772,Free,38.951695,-77.409238,public,16
+ELEC,Richmond Ford Lincoln,4600 W Broad St,2023-11-09,Public - Call ahead,VA,Richmond,2011-08-15,23230,J1772,Free,37.578775,-77.489409,public,17
+ELEC,Randolph-Macon College - Andrews Hall,420 Henry St,2023-12-13,Public,VA,Ashland,2011-09-15,23005,J1772,Free,37.764986,-77.476715,public,18
+ELEC,Harrisonburg Electric Commission,89 W Bruce St,2022-11-10,Public,VA,Harrisonburg,2011-10-03,22801,J1772,Free,38.447533,-78.870744,public,19
+ELEC,Hall Nissan,3417 Western Branch Blvd,2024-02-12,Public - Call ahead,VA,Chesapeake,2012-01-31,23321,CHADEMO J1772 J1772COMBO,Free,36.86525,-76.41779,public,25
+ELEC,Hall Nissan,3417 Western Branch Blvd,2024-02-12,Private,VA,Chesapeake,2012-01-31,23321,J1772,Free,36.86525,-76.41779,private,26
+ELEC,Nissan of Chesapeake,930 N Battlefield Blvd,2024-02-12,Public - Call ahead,VA,Chesapeake,2012-01-31,23320,CHADEMO,Free,36.75306,-76.2475,public,27
+ELEC,Loyalty Nissan,16301 Priority Way,2024-02-12,Public - Call ahead,VA,Chester,2012-01-31,23831,CHADEMO J1772,Free,37.304917,-77.392372,public,29
+ELEC,Loyalty Nissan,16301 Priority Way,2024-02-12,Private,VA,Chester,2012-01-31,23831,J1772,Free,37.304917,-77.392372,private,30
+ELEC,Robert Woodall Nissan,132 Union St Bridge Rd,2024-02-12,Public - Call ahead,VA,Danville,2012-01-31,24540,J1772,Free,36.59588,-79.39687,public,31
+ELEC,Robert Woodall Nissan,132 Union St Bridge Rd,2024-02-12,Private,VA,Danville,2012-01-31,24540,J1772,Free,36.59588,-79.39687,private,32
+ELEC,Lynchburg Nissan,18588 Forest Rd,2024-02-12,Public - Call ahead,VA,Forest,2012-01-31,24551,J1772,Free,37.385661,-79.243911,public,33
+ELEC,Lynchburg Nissan,18588 Forest Rd,2024-02-12,Private,VA,Forest,2012-01-31,24551,J1772,Free,37.385661,-79.243911,private,34
+ELEC,Pohanka Nissan of Fredericksburg,5200 Jefferson Davis Hwy,2024-02-12,Private,VA,Fredericksburg,2012-01-31,22408,J1772,Free,38.255149,-77.496844,private,35
+ELEC,Harrisonburg Nissan,2275 E Market St,2024-02-12,Public - Call ahead,VA,Harrisonburg,2012-01-31,22801,J1772,Free,38.422471,-78.838899,public,36
+ELEC,Harrisonburg Nissan,2275 E Market St,2024-02-12,Private,VA,Harrisonburg,2012-01-31,22801,J1772,Free,38.422471,-78.838899,private,37
+ELEC,Hart Nissan,6564 Mechanicsville Pike,2024-02-12,Public - Call ahead,VA,Mechanicsville,2012-01-31,23111,CHADEMO J1772 J1772COMBO,Free,37.61341,-77.33577,public,38
+ELEC,Hart Nissan,6564 Mechanicsville Pike,2024-02-12,Private,VA,Mechanicsville,2012-01-31,23111,J1772,Free,37.61341,-77.33577,private,39
+ELEC,Priority Nissan - Newport News,12925 Jefferson Ave,2024-02-12,Public - Call ahead,VA,Newport News,2012-01-31,23608,J1772,Free,37.151806,-76.531052,public,40
+ELEC,Priority Nissan - Newport News,12925 Jefferson Ave,2024-02-12,Private,VA,Newport News,2012-01-31,23608,CHADEMO J1772,Free,37.151806,-76.531052,private,41
+ELEC,Nissan of Norfolk,1250 N Military Hwy,2024-02-12,Public - Call ahead,VA,Norfolk,2012-01-31,23502,CHADEMO J1772,Free,36.8662,-76.20968,public,42
+ELEC,Nissan of Norfolk,1250 N Military Hwy,2024-02-12,Private,VA,Norfolk,2012-01-31,23502,J1772,Free,36.8662,-76.20968,private,43
+ELEC,Nissan of Richmond,11401 W Broad St,2024-02-12,Public - Call ahead,VA,Richmond,2012-01-31,23233,CHADEMO J1772,Free,37.650319,-77.609022,public,44
+ELEC,Nissan of Richmond,11401 W Broad St,2024-02-12,Private,VA,Richmond,2012-01-31,23233,J1772,Free,37.650319,-77.609022,private,45
+ELEC,Gunter Nissan,4760 Greensboro Rd,2024-02-12,Public - Call ahead,VA,Ridgeway,2012-01-31,24148,J1772,Free,36.629501,-79.860071,public,46
+ELEC,Gunter Nissan,4760 Greensboro Rd,2024-02-12,Private,VA,Ridgeway,2012-01-31,24148,J1772,Free,36.629501,-79.860071,private,47
+ELEC,Pohanka Nissan - Stafford,1 Coachman Cir,2024-02-12,Public - Call ahead,VA,Stafford,2012-01-31,22554,CHADEMO J1772 J1772COMBO,Free,38.46878,-77.40007,public,48
+ELEC,Pohanka Nissan - Stafford,1 Coachman Cir,2024-02-12,Private,VA,Stafford,2012-01-31,22554,J1772,Free,38.46878,-77.40007,private,49
+ELEC,Valley Nissan of Staunton,297 Lee Jackson Hwy,2024-02-12,Public - Call ahead,VA,Staunton,2012-01-31,24401,J1772,Free,38.11898,-79.0686,public,50
+ELEC,Valley Nissan of Staunton,297 Lee Jackson Hwy,2024-02-12,Private,VA,Staunton,2012-01-31,24401,J1772,Free,38.11898,-79.0686,private,51
+ELEC,Hall Nissan - Virginia Beach,3757 Booney Rd,2024-02-12,Public - Call ahead,VA,Virginia Beach,2012-01-31,23452,CHADEMO J1772 J1772COMBO,Free,36.83882,-76.10243,public,52
+ELEC,Cowles Nissan,14777 Jefferson Davis Hwy,2024-02-12,Public - Call ahead,VA,Woodbridge,2012-01-31,22191,CHADEMO J1772,Free,38.62938,-77.27396,public,54
+ELEC,Cowles Nissan,14777 Jefferson Davis Hwy,2024-02-12,Private,VA,Woodbridge,2012-01-31,22191,J1772,Free,38.62938,-77.27396,private,55
+ELEC,Blue Ridge Nissan,1405 E Main St,2024-02-12,Public - Call ahead,VA,Wytheville,2012-01-31,24382,J1772,Free,36.949705,-81.066941,public,56
+ELEC,Blue Ridge Nissan,1405 E Main St,2024-02-12,Private,VA,Wytheville,2012-01-31,24382,J1772,Free,36.949705,-81.066941,private,57
+ELEC,Passport Nissan - Alexandria,150 S Pickett St,2024-02-12,Private,VA,Alexandria,2011-03-15,22304,J1772,Free,38.80967,-77.12219,private,58
+ELEC,Priority Nissan - Chantilly,14840 Stonecroft Center Ct,2024-02-12,Private,VA,Chantilly,2011-03-15,20151,J1772,Free,38.8998,-77.46033,private,59
+ELEC,Colonial Nissan,200 Myers Dr,2024-02-12,Private,VA,Charlottesville,2011-03-15,22901,J1772,Free,38.084925987503,-78.47341454498292,private,60
+ELEC,New River Nissan,2130 N Franklin St,2024-02-12,Private,VA,Christiansburg,2012-01-31,24073,J1772,Free,37.158,-80.4204,private,61
+ELEC,Pomoco Nissan - Hampton,1134 W Mercury Blvd,2024-02-12,Private,VA,Hampton,2011-03-15,23666,J1772,Free,37.04249,-76.38833,private,62
+ELEC,Sheehy Nissan - Manassas,9010 Liberia Ave,2024-02-12,Private,VA,Manassas,2011-03-15,20110,J1772,Free,38.760854,-77.459274,private,63
+ELEC,Hyman Brothers Nissan,11841 Midlothian Turnpike,2024-02-12,Private,VA,Midlothian,2011-05-15,23113,J1772,Free,37.5036,-77.61842,private,64
+ELEC,First Team Nissan,6520 Peters Creek Rd,2024-02-12,Private,VA,Roanoke,2011-03-15,24019,J1772,Free,37.34598,-79.9627,private,65
+ELEC,Brown's Dulles Nissan,45155 Towlern Pl,2024-02-12,Private,VA,Sterling,2011-03-15,20166,J1772,Free,39.010459,-77.438399,private,66
+ELEC,Tri-State Nissan,1230 Millwood Pike,2024-02-12,Private,VA,Winchester,2011-03-15,22602,J1772,Free,39.156514,-78.147297,private,67
+ELEC,Wynne Ford,1020 W Mercury Blvd,2023-12-13,Public - Call ahead,VA,Hampton,2021-09-30,23666,J1772,Free,37.044549,-76.380595,public,73
+ELEC,Magic City Ford Lincoln Isuzu,809 Williamson Rd NE,2023-11-09,Public - Call ahead,VA,Roanoke,2013-04-01,24016,J1772,Free,37.280149,-79.933227,public,74
+ELEC,Ashland Town Hall,210 S Railroad Ave,2024-09-12,Public,VA,Ashland,2013-04-01,23005,J1772,Free,37.758078,-77.48209,public,75
+ELEC,University of Virginia - Central Grounds Garage,400 Emmet St S,2022-02-10,Public,VA,Charlottesville,2013-04-26,22903,J1772 J1772COMBO,$2 per hour parking fee,38.036315,-78.506591,public,76
+ELEC,Berglund Ford Mazda,834 E Main St,2023-10-12,Public - Call ahead,VA,Salem,2013-01-01,24153,J1772,Free,37.294549,-80.045203,public,78
+ELEC,Martin Horn,210 Carlton Rd,2023-12-13,Public - Call ahead,VA,Charlottesville,2013-11-25,22902,J1772,Free,38.022977,-78.468836,public,79
+ELEC,Marion Automotive Group,1025 N Main St,2023-10-12,Public,VA,Marion,2013-07-01,24354,J1772,Free,36.843713,-81.503731,public,80
+ELEC,Sheehy Ford Lincoln,10601 Midlothian Turnpike,2023-10-12,Public - Call ahead,VA,Midlothian,2013-09-01,23235,J1772,Free,37.506999,-77.592621,public,81
+ELEC,Casey Chevrolet,11700 Jefferson Ave,2023-11-09,Public - Call ahead,VA,Newport News,2013-10-01,23606,J1772,Free,37.075503,-76.474858,public,82
+ELEC,Hall Ford Lincoln,12896 Jefferson Ave,2023-01-10,Public - Call ahead,VA,Newport News,2013-10-01,23608,J1772,Free,37.148296,-76.525986,public,83
+ELEC,Rick Hendrick Chevrolet Buick GMC,12050 W Broad St,2023-01-10,Public - Call ahead,VA,Richmond,2017-02-01,23233,J1772,Free,37.658874,-77.630953,public,84
+ELEC,Omni - Richmond Hotel,100 S 12th St,2023-12-13,Public,VA,Richmond,2013-09-01,23219,TESLA,Free,37.535744,-77.435268,public,85
+ELEC,Whole Foods Market,1800 Laskin Rd,2023-11-09,Public,VA,Virginia Beach,2013-08-01,23454,J1772,Free,36.850535,-76.027886,public,86
+ELEC,Sheehy Ford,11450 Washington Hwy,2023-10-12,Public - Call ahead,VA,Ashland,2013-09-01,23005,J1772,Free,37.72489,-77.469528,public,88
+ELEC,Duncan Ford Lincoln,125 Jennelle Rd,2023-12-13,Public - Call ahead,VA,Blacksburg,2013-09-01,24060,J1772,Free,37.179806,-80.411408,public,90
+ELEC,Inn at Virginia Tech,901 Prices Fork Rd,2023-11-09,Public,VA,Blacksburg,2013-11-02,24060,J1772,Free,37.22983,-80.429844,public,91
+ELEC,Village Center,2387 Warm Hearth Dr,2022-11-10,Public,VA,Blacksburg,2013-06-01,24060,J1772,$1 per hour,37.197398,-80.419887,public,92
+ELEC,CMA's Colonial Chevrolet,12420 Jefferson Davis Hwy,2023-06-12,Public - Call ahead,VA,Chester,2013-10-01,23831,J1772 J1772COMBO,Free,37.355577,-77.414228,public,94
+ELEC,Hampton Chevrolet,1073 W Mercury Blvd,2023-12-13,Public - Call ahead,VA,Hampton,2013-06-01,23666,J1772,Free,37.041065,-76.384783,public,95
+ELEC,Williamsburg KOA,4000 Newman Rd,2023-10-12,Public,VA,Williamsburg,2014-12-15,23188,NEMA520,"$8 per session, Free if camping",37.362569,-76.710786,public,96
+ELEC,Wytheville KOA,231 KOA Rd,2024-06-13,Public - Call ahead,VA,Wytheville,2012-08-28,24382,NEMA520,$20 per session,36.933124,-81.004196,public,97
+ELEC,Scope Arena Parking,201 E Brambleton Ave,2021-10-12,Public,VA,Norfolk,2015-02-04,23510,CHADEMO J1772COMBO,Free,36.852443,-76.285958,public,103
+ELEC,Holiday Trav-L-Park,1075 General Booth Blvd,2023-01-10,Public - Call ahead,VA,Virginia Beach,2014-08-01,23451,NEMA1450,Free,36.804863,-75.997863,public,104
+ELEC,Oakhurst Inn,100 Oakhurst Cir,2022-02-10,Public,VA,Charlottesville,2014-11-25,22903,J1772,Free,38.031941,-78.506798,public,106
+ELEC,City of Roanoke,102 Market St SE,2023-01-10,Public,VA,Roanoke,2014-11-01,24011,CHADEMO,$3 per session,37.272567,-79.938925,public,107
+ELEC,New Kent Pit Stop,6201 Chesapeake Cir,2024-02-12,Public,VA,New Kent,2020-01-30,23124,CHADEMO J1772COMBO,Free,37.490299,-77.027031,public,110
+ELEC,Pearmund Cellars,6190 Georgetown Rd,2022-11-10,Public,VA,Broad Run,2015-03-18,20137,J1772,Free,38.784327,-77.739199,public,111
+ELEC,Virginia Clean Cities - James Madison University,1401 Technology Dr,2022-11-10,Public,VA,Harrisonburg,2015-03-30,22802,J1772,Free,38.465788,-78.852888,public,112
+ELEC,NEXCOM - Norfolk,3280 Virginia Beach Blvd,2024-01-10,Private,VA,Virginia Beach,2016-09-01,23452,J1772,$0.99 per hour,36.844415,-76.083156,private,114
+ELEC,Historic Hampton Inn,401 E Nelson St,2024-02-12,Public,VA,Lexington,2020-11-11,24450,J1772,$0.25 per minute,37.779904,-79.439043,public,117
+ELEC,Whole Foods Market,12080 Jefferson Ave,2023-11-09,Public,VA,Newport News,2016-02-01,23606,J1772,Free,37.102615,-76.489655,public,119
+ELEC,Brown Harris Wealth Management,309 N Main St,2023-11-09,Public,VA,Culpeper,2016-04-01,22701,J1772,Free,38.475325,-77.995127,public,122
+ELEC,Whole Foods Market,11660 Plaza America Dr,2023-11-09,Public,VA,Reston,2016-05-01,20190,J1772,Free,38.951729,-77.349388,public,125
+ELEC,Villa Appalaccia Winery,752 Rock Castle Gorge Rd,2023-01-10,Public,VA,Floyd,2016-05-01,24091,NEMA520,Free,36.79849,-80.373918,public,127
+ELEC,Malloy Cadillac Co,2700 Valley Ave,2023-01-10,Private,VA,Winchester,2016-05-01,22601,CHADEMO J1772,Free,39.152172,-78.186911,private,128
+ELEC,Malloy Toyota Scion,400 Weems Ln,2023-11-09,Public,VA,Winchester,2016-05-01,22601,J1772,Free,39.162417,-78.182466,public,129
+ELEC,Jack Evans Chevrolet,125 S Royal Ave,2022-11-10,Public,VA,Front Royal,2016-05-01,22630,J1772,Free,38.916118,-78.193932,public,130
+ELEC,Tiger Solar,331 N Lewis St,2023-12-13,Public - Call ahead,VA,Staunton,2016-07-13,24401,J1772,Free,38.155451,-79.074392,public,132
+ELEC,Southside Regional Medical Center,200 Medical Park Blvd,2022-12-13,Private,VA,Petersburg,2019-02-01,23805,J1772,Free,37.183654,-77.361466,private,139
+ELEC,Priority Nissan,6390 Richmond Rd,2024-02-12,Public - Call ahead,VA,Williamsburg,2015-06-01,23188,CHADEMO J1772,Free,37.33984,-76.75285,public,141
+ELEC,Virginia Tech - Corporate Research Center,1691 Innovation Dr,2023-11-09,Public,VA,Blacksburg,2016-06-01,24060,J1772,Free,37.20805,-80.41894,public,142
+ELEC,Richmond Electricians' Joint Apprenticeship and Training Center,11255 Air Park Rd,2023-10-12,Public,VA,Ashland,2014-12-01,23005,J1772,Free,37.708642,-77.444334,public,145
+ELEC,Suttle Motor Corp,12525 Jefferson Ave,2023-10-12,Public,VA,Newport News,2016-05-10,23602,J1772,$0.50/kWh,37.128079,-76.51372,public,146
+ELEC,Eastern Mennonite University,1307 Park Rd,2021-10-12,Public,VA,Harrisonburg,2016-07-01,22802,J1772,Free,38.472406,-78.878672,public,147
+ELEC,MOM's Organic Market,14470 Smoketown Rd,2023-01-10,Public,VA,Woodbridge,2015-09-05,22193,CHADEMO J1772,Free,38.638399,-77.299496,public,148
+ELEC,Cavalier Ford Lincoln,1515 S Military Hwy,2023-01-10,Public,VA,Chesapeake,2016-07-01,23320,J1772,Free,36.797184,-76.235495,public,149
+ELEC,Ourisman Chevrolet,1800 Old Richmond Rd,2022-01-10,Private,VA,Alexandria,2014-09-08,22303,J1772,Free,38.79201,-77.061593,private,151
+ELEC,Omni - Charlottesville,212 Ridge McIntire Rd,2023-01-10,Public,VA,Charlottesville,2016-05-29,22902,J1772,Free for guests; $10 valet fee,38.031615,-78.483664,public,152
+ELEC,Priority Chevrolet,2216 Old Greenbrier Rd,2023-01-10,Public - Call ahead,VA,Chesapeake,2014-09-08,23325,J1772,Free,36.798927,-76.233816,public,153
+ELEC,Boyd Chevrolet Buick GMC,240 E Cloverleaf Dr,2023-01-10,Public,VA,Emporia,2016-07-01,23847,J1772,Free,36.704893,-77.541842,public,154
+ELEC,Beach Ford,2717 Virginia Beach Blvd,2022-12-13,Public,VA,Virginia Beach,2016-07-01,23452,J1772,Free,36.841628,-76.066931,public,156
+ELEC,Crossroads Ford Mazda,4500 Whitehill Blvd,2023-01-10,Public,VA,Prince George,2014-09-09,23875,J1772,Free,37.250286,-77.37319,public,157
+ELEC,Luck Chevrolet,516 S Washington Hwy,2022-10-11,Public,VA,Ashland,2014-08-26,23005,J1772,Free,37.746924,-77.47202,public,159
+ELEC,Strosnider Chevrolet,5200 Oaklawn Blvd,2023-01-10,Private,VA,Hopewell,2016-07-01,23860,J1772,Free,37.260555,-77.324621,private,160
+ELEC,Casey Toyota,601 E Rochambeau Dr,2022-12-13,Private,VA,Williamsburg,2014-09-09,23188,J1772,Free,37.350163,-76.733936,private,161
+ELEC,Giant Foods,621 E Glebe Rd,2023-10-12,Public,VA,Alexandria,2015-09-06,23301,J1772,Free,38.832184,-77.050501,public,162
+ELEC,Rick Hendrick Chevrolet of Norfolk,6252 E Virginia Beach Blvd,2022-12-13,Public,VA,Norfolk,2016-07-01,23502,J1772 J1772COMBO,Free,36.855534,-76.190651,public,163
+ELEC,University of Richmond - Chapel Parking,22 Westhampton Way,2022-01-10,Public,VA,Richmond,2016-11-01,23226,J1772,Free,37.57288837592775,-77.53971552513121,public,164
+ELEC,Radley Chevrolet,3670 Jefferson Davis Hwy,2023-11-09,Public,VA,Fredericksburg,2016-11-01,22404,J1772,Free,38.271078,-77.491973,public,166
+ELEC,Massanutten Resort,3980 Massanutten Dr,2023-11-09,Public,VA,McGaheysville,2016-11-01,22840,NEMA1450,Free,38.404061,-78.754751,public,167
+ELEC,Drive Square Inc,5606 General Washington Dr,2021-01-14,Public - Call ahead,VA,Alexandria,2014-07-30,22312,J1772,Free,38.799443,-77.163044,public,168
+ELEC,Royal Chevrolet,4502 W Broad St,2022-01-10,Public - Call ahead,VA,Richmond,2016-11-01,23230,J1772,Free,37.577354,-77.48773,public,171
+ELEC,Comfort Inn & Suites,5716 S Van Dorn St,2023-01-10,Public,VA,Alexandria,2017-01-10,22310,J1772,$2 per hour,38.794947,-77.137384,public,172
+ELEC,City of Fredericksburg - Sophia Street Garage,600 Sophia St,2022-12-13,Public,VA,Fredericksburg,2017-06-28,22401,J1772,Free,38.300424,-77.456524,public,174
+ELEC,Daniel's Run Peace Church,3729 Old Lee Hwy,2023-01-10,Public,VA,Fairfax,2019-01-18,22030,J1772,Free,38.85116,-77.297848,public,176
+ELEC,Riverwalk Landing Parking Garage,330 Water St,2023-01-10,Public,VA,Yorktown,2018-01-01,23690,J1772,Free,37.23833,-76.508866,public,180
+ELEC,York County - Poquoson Courthouse,300 Ballard St,2023-01-10,Public,VA,Yorktown,2018-01-01,23690,J1772,Free,37.232314,-76.511345,public,181
+ELEC,Yorktown Library,8500 George Washington Memorial Hwy,2023-01-10,Public,VA,Yorktown,2018-01-01,23692,J1772,Free,37.194887,-76.490472,public,182
+ELEC,25th Street Parking Garage,336 25th St,2023-01-10,Public,VA,Virginia Beach,2018-01-01,23451,J1772,$5 per session; pay in garage,36.852662,-75.97835,public,183
+ELEC,Montpelier Visitor Center,13425 Visitor Center Rd,2022-11-10,Public - Credit card at all times,VA,Montpelier Station,2018-02-01,22957,J1772 TESLA,Free,38.218004,-78.17046,public,184
+ELEC,Lewis Hall,13384 Laundry Rd,2022-11-10,Public - Credit card at all times,VA,Montpelier Station,2018-02-01,22957,J1772 TESLA,Free,38.218992,-78.166102,public,185
+ELEC,MOM's Organic Market,1901 N Veitch St,2023-01-10,Public,VA,Arlington,2018-01-01,22201,J1772,Free,38.89641,-77.086062,public,186
+ELEC,Colonial Place Parking Garage,2107 Wilson Blvd,2022-11-10,Public,VA,Arlington,2017-10-03,22201,J1772,Free,38.891865,-77.085265,public,187
+ELEC,Rappahannock Electric Co-op - Culpeper Office,13252 Cedar Run Church Rd,2024-03-14,Private,VA,Culpeper,2018-01-01,22701,J1772,Free,38.43679,-78.00952,private,189
+ELEC,Volvo Cars Fredericksburg,3410 Fall Hill Ave,2023-01-10,Public,VA,Fredericksburg,2018-01-01,22401,J1772,Free,38.312221,-77.506525,public,191
+ELEC,Tesla Service Center,9850 W Broad St,2024-02-12,Public,VA,Glen Allen,2017-09-19,23060,TESLA,Free,37.643994,-77.564259,public,193
+ELEC,Luray Visitor Center,18 Campbell St,2022-11-10,Public,VA,Luray,2017-04-10,22835,J1772,Free,38.663811,-78.460394,public,195
+ELEC,Norfolk Botanical Gardens,6700 Azalea Garden Rd,2023-01-10,Public,VA,Norfolk,2019-11-26,23518,J1772 TESLA,Free,36.904917,-76.209635,public,196
+ELEC,Bluegreen Vacations - Patrick Henry Square,249 York St,2023-01-10,Public,VA,Williamsburg,2018-01-01,23185,J1772,Free,37.270224,-76.687178,public,198
+ELEC,Williamsburg Lodge,305 S England St,2023-01-10,Public,VA,Williamsburg,2018-01-01,23185,J1772,Free,37.269064,-76.697804,public,199
+ELEC,Best Western - Williamsburg,351 York St,2023-01-10,Public,VA,Williamsburg,2017-09-19,23185,J1772,Free,37.269286,-76.685716,public,200
+ELEC,JBG - Rosslyn North - Arlington VA,1911 N. Fort Myer Drive.,2024-10-08,Public,VA,Arlington,2016-09-26,22209,J1772,Free,38.89777246756461,-77.07149618195142,public,205
+ELEC,BMW of Charlottesville,1295 Richmond Rd,2023-01-10,Public,VA,Charlottesville,2014-12-31,22911,J1772,Free,38.0333263,-78.4518157,public,207
+ELEC,Leckner Nissan - Springfield,6570 Amherst Ave,2024-02-12,Public - Call ahead,VA,Springfield,2018-06-28,22150,J1772,Free,38.776428,-77.18558,public,209
+ELEC,New Quarter Park,1000 Lakeshead Dr,2023-01-10,Public,VA,Williamsburg,2023-01-04,23185,J1772,Free,37.291553,-76.644064,public,231
+ELEC,Arlington Mill Community Center,909 S Dinwiddie St,2023-10-12,Public,VA,Arlington,2018-09-30,22206,J1772,Free,38.856754,-77.112304,public,232
+ELEC,1850 Towers Crescent,1850 Towers Crescent Plaza,2023-01-10,Public,VA,Vienna,2016-05-01,22182,J1772,Free; parking fee,38.915838,-77.220807,public,233
+ELEC,The Martha Washington Inn & Spa - Tesla Destination,150 W Main St,2022-10-06,Public,VA,Abingdon,2016-01-26,24210,TESLA,Free,36.709813,-81.974954,public,234
+ELEC,Afton Mountain Bed & Breakfast - Tesla Destination,10273 Rockfish Valley Hwy,2022-10-06,Public,VA,Afton,2017-09-05,22920,TESLA,Free,37.9827904,-78.8400318,public,235
+ELEC,Kimpton Morrison House - Tesla Destination,116 S Alfred St,2022-10-06,Public,VA,Alexandria,2015-11-12,22314,J1772 TESLA,Free,38.804636,-77.049262,public,236
+ELEC,Kimpton Lorien Hotel & Spa - Tesla Destination,1600 King St,2022-10-06,Public,VA,Alexandria,2015-12-16,22314,J1772 TESLA,Free,38.806049,-77.056808,public,237
+ELEC,Hilton Alexandria Old Town - Tesla Destination,1767 King St,2022-10-06,Public,VA,Alexandria,2016-12-13,22314,TESLA,Free,38.807129,-77.059363,public,238
+ELEC,"The Alexandrian, Autograph Collection - Tesla Destination",480 King St,2022-10-06,Public,VA,Alexandria,2015-11-11,22314,J1772 TESLA,Free,38.804411,-77.044697,public,239
+ELEC,Sheraton Suites Old Town Alexandria - Tesla Destination,801 N St Asaph St,2022-10-06,Public,VA,Alexandria,2015-12-16,22314,J1772 TESLA,Free,38.813023,-77.043613,public,240
+ELEC,E&S Mart's Two Sisters Tap Room and Deli - Tesla Destination,2181 Lynch Mill Rd,2022-10-06,Public,VA,Altavista,2017-04-10,24517,J1772 TESLA,Free,37.131313,-79.283927,public,241
+ELEC,The Ritz-Carlton Pentagon City - Tesla Destination,1250 S Hayes St,2022-10-06,Public,VA,Arlington,2015-10-19,22202,J1772 TESLA,Free,38.862637,-77.060346,public,242
+ELEC,2311 Wilson Blvd - Tesla Destination,2311 Wilson Blvd,2022-10-06,Public,VA,Arlington,2018-03-13,22201,J1772 TESLA,Free,38.8911312,-77.0868397,public,243
+ELEC,Renaissance Arlington Capital View Hotel - Tesla Destination,2800 S Potomac Ave,2022-10-06,Public,VA,Arlington,2015-06-08,22202,J1772 TESLA,Free,38.8474025,-77.0513855,public,244
+ELEC,Bedford Welcome Center - Tesla Destination,816 Burks Hill Rd,2022-10-06,Public,VA,Bedford,2018-04-26,24523,J1772 TESLA,Free,37.324894,-79.531374,public,245
+ELEC,Peaks of Otter Lodge - Tesla Destination,85554 Blue Ridge Pkwy,2022-10-06,Public,VA,Bedford,2017-06-16,24523,J1772 TESLA,Free,37.448296,-79.604445,public,246
+ELEC,Courtyard Blacksburg - Tesla Destination,105 Southpark Dr,2022-10-06,Public,VA,Blacksburg,2016-11-17,24060,J1772 TESLA,Free,37.199367,-80.401037,public,247
+ELEC,The Grey Swan Inn Bed and Breakfast - Tesla Destination,615 S Main St,2022-10-06,Public,VA,Blackstone,2017-03-24,23824,J1772 TESLA,Free,37.0739031,-78.000788,public,248
+ELEC,"L'Auberge Provencale, a Select Registry Property - Tesla Destination",13630 Lord Fairfax Hwy,2022-10-06,Public,VA,Boyce,2015-06-24,22620,J1772 TESLA,Free,39.0708248,-78.0936848,public,249
+ELEC,Pearmund Cellars - Tesla Destination,6190 Georgetown Rd,2022-10-06,Public,VA,Broad Run,2015-05-05,20137,TESLA,Free,38.783407,-77.739663,public,250
+ELEC,Graduate Charlottesville - Tesla Destination,1309 W Main St,2022-10-06,Public,VA,Charlottesville,2018-06-05,22903,J1772 TESLA,Free,38.033823,-78.498478,public,251
+ELEC,Boar's Head Inn - Tesla Destination,200 Ednam Dr,2022-10-06,Public,VA,Charlottesville,2017-04-20,22903,J1772 TESLA,Free,38.04846,-78.542075,public,252
+ELEC,Hyatt Place Charlottesville - Tesla Destination,2100 Bond St,2022-10-06,Public,VA,Charlottesville,2015-06-10,22901,J1772 TESLA,Free,38.06574,-78.492423,public,253
+ELEC,"Foxfield Inn, a Select Registry Property - Tesla Destination",2280 Garth Rd,2022-10-06,Public,VA,Charlottesville,2015-04-24,22901,J1772 TESLA,Free,38.1035619,-78.56579,public,254
+ELEC,The Flats at West Village - Tesla Destination,852 W Main Street,2022-10-06,Public,VA,Charlottesville,2015-04-17,22903,J1772 TESLA,Free,38.031934,-78.493365,public,255
+ELEC,Hyatt Place Richmond / Chester - Tesla Destination,13148 Kingston Ave,2022-10-06,Public,VA,Chester,2016-08-08,23836,TESLA,Free,37.347818,-77.34417,public,256
+ELEC,Refuge Inn - Tesla Destination,7058 Maddox Blvd,2022-10-06,Public,VA,Chincoteague Island,2016-05-18,23336,J1772 TESLA,Free,37.924371,-75.354259,public,257
+ELEC,Holiday Inn Christiansburg - Tesla Destination,99 Bradley Drive,2022-10-06,Public,VA,Christiansburg,2015-06-23,24073,J1772 TESLA,Free,37.162493,-80.427376,public,258
+ELEC,Hill Crest Mansion Inn - Tesla Destination,1100 McCormick Blvd,2022-10-06,Public,VA,Clifton Forge,2018-10-25,24422,TESLA,Free,37.8261389,-79.8297699,public,259
+ELEC,The Boathouse Marina - Tesla Destination,829 Robin Grove Ln,2022-10-06,Public,VA,Colonial Beach,2018-07-06,22443,J1772 TESLA,Free,38.2406282,-76.9624136,public,260
+ELEC,Pro Re Nata Brewery - Tesla Destination,6135 Rockfish Gap Turnpike,2022-10-06,Public,VA,Crozet,2017-07-14,22932,J1772 TESLA,Free,38.048816,-78.714226,public,261
+ELEC,DuCard Vineyards - Tesla Destination,40 Gibson Hollow Ln,2022-10-06,Public,VA,Etlan,2016-02-29,22719,J1772 TESLA,Free,38.51513,-78.303035,public,262
+ELEC,SpringHill Suites Fairfax Fair Oaks - Tesla Destination,11191 Waples Mill Rd,2022-10-06,Public,VA,Fairfax,2017-07-17,22030,J1772 TESLA,Free,38.85364,-77.338581,public,263
+ELEC,Hotel Floyd - Tesla Destination,300 Rick Lewis Way,2022-10-06,Public,VA,Floyd,2015-03-17,24091,TESLA,Free,36.910456,-80.31744,public,264
+ELEC,Riverton Commons Shopping Center - Tesla Destination,10 Riverton Commons Dr,2022-10-06,Public,VA,Front Royal,2018-06-14,22630,J1772 TESLA,Free,38.962438,-78.189273,public,265
+ELEC,Comfort Suites At Virginia Center Commons - Tesla Destination,10601 Telegraph Rd,2022-10-06,Public,VA,Glen Allen,2017-07-17,23059,J1772 TESLA,Free,37.674415,-77.450155,public,266
+ELEC,Candlewood Suites Richmond North-Glen Allen - Tesla Destination,10609 Telegraph Rd,2022-10-06,Public,VA,Glen Allen,2017-07-17,23059,J1772 TESLA,Free,37.674316,-77.449464,public,267
+ELEC,By the Side of the Road Inn & Cottages - Tesla Destination,491 Garbers Church Rd,2022-10-06,Public,VA,Harrisonburg,2015-05-07,22801,J1772 TESLA,Free,38.4515068,-78.9041562,public,268
+ELEC,Microtel Inn & Suites by Wyndham Harrisonburg - Tesla Destination,85 Pleasant Valley Rd,2022-10-06,Public,VA,Harrisonburg,2018-05-21,22801,TESLA,Free,38.405608,-78.907199,public,269
+ELEC,Downtown Hopewell Virginia - Tesla Destination,220 Appomattox St,2022-10-06,Public,VA,Hopewell,2017-08-25,23860,J1772 TESLA,Free,37.305911,-77.28646,public,270
+ELEC,The Boathouse at City Point - Tesla Destination,701 W Randolph Rd,2022-10-06,Public,VA,Hopewell,2017-07-18,23860,TESLA,Free,37.308732,-77.294043,public,271
+ELEC,The Tides Inn - Tesla Destination,480 King Carter Dr,2022-10-06,Public,VA,Irvington,2015-12-18,22480,J1772 TESLA,Free,37.664451,-76.432381,public,272
+ELEC,Keswick Hall & Golf Club - Tesla Destination,701 Club Dr,2022-10-06,Public,VA,Keswick,2015-05-12,22947,J1772 TESLA,Free,38.016727,-78.367276,public,273
+ELEC,Lansdowne Resort - Tesla Destination,44050 Woodridge Pkwy,2022-10-06,Public,VA,Leesburg,2016-06-15,20176,J1772 TESLA,Free,39.0834,-77.475975,public,274
+ELEC,Best Western Leesburg Hotel & Conference Center - Tesla Destination,726 E Market St,2022-10-06,Public,VA,Leesburg,2017-10-19,20176,J1772 TESLA,Free,39.106499,-77.5459562,public,275
+ELEC,Best Western Plus Inn at Hunt Ridge - Tesla Destination,25 Willow Springs Rd,2022-10-06,Public,VA,Lexington,2017-12-05,24450,J1772 TESLA,Free,37.804211,-79.415913,public,276
+ELEC,Comfort Inn Virginia Horse Center - Tesla Destination,62 Comfort Wy,2022-10-06,Public,VA,Lexington,2017-12-05,24450,J1772 TESLA,Free,37.801513,-79.417941,public,277
+ELEC,Brierley Hill Bed and Breakfast - Tesla Destination,985 Borden Rd,2022-10-06,Public,VA,Lexington,2015-04-13,24450,TESLA,Free,37.7947045,-79.4699173,public,278
+ELEC,Prospect Hill Plantation Inn - Tesla Destination,2887 Poindexter Rd,2022-10-06,Public,VA,Louisa County,2016-03-30,23093,J1772 TESLA,Free,37.99188,-78.165277,public,279
+ELEC,The Mimslyn Inn - Tesla Destination,401 W Main St,2022-10-06,Public,VA,Luray,2015-03-02,22835,J1772 TESLA,Free,38.664182,-78.46637,public,280
+ELEC,Shenandoah National Park - Skyland Resort - Tesla Destination,- Skyland Upper Loop Mile 41,2022-10-06,Public,VA,Luray,2017-06-22,22835,J1772 TESLA,Free,38.592057,-78.38108,public,281
+ELEC,Craddock Terry Hotel - Tesla Destination,1312 Commerce St,2022-10-06,Public,VA,Lynchburg,2018-07-18,24504,TESLA,Free,37.411599,-79.138201,public,282
+ELEC,Courtyard by Marriott Liberty University/Lynchburg - Tesla Destination,4640 Murray Pl,2022-10-06,Public,VA,Lynchburg,2017-07-24,24502,TESLA,Free,37.368797,-79.173357,public,283
+ELEC,Kinloch Golf Club - Tesla Destination,100 Kinloch Ln,2022-10-06,Public,VA,Manakin Sabot,2018-03-16,23103,TESLA,Free,37.6359894,-77.6872898,public,284
+ELEC,Field & Main Restaurant - Tesla Destination,8369 W Main St,2022-10-06,Public,VA,Marshall,2016-08-25,20115,TESLA,Free,38.864719,-77.857351,public,285
+ELEC,"The Ritz-Carlton, Tysons Corner - Tesla Destination",1700 Tysons Blvd,2022-10-06,Public,VA,Mclean,2016-02-19,22012,J1772 TESLA,Free,38.924225,-77.2235,public,286
+ELEC,Hilton McLean Tysons Corner - Tesla Destination,7920 Jones Branch Dr,2022-10-06,Public,VA,McLean,2015-08-14,22102,TESLA,Free,38.925974,-77.216181,public,287
+ELEC,Primland - Tesla Destination,2000 Busted Rock Rd,2022-10-06,Public,VA,Meadows of Dan,2016-02-03,24120,TESLA,Free,36.661544,-80.43188,public,288
+ELEC,50 West Vineyards - Tesla Destination,39060 John Mosby Hwy,2022-10-06,Public,VA,Middleburg,2018-03-13,20117,J1772 TESLA,Free,38.9812175,-77.6582443,public,289
+ELEC,Salamander Resort & Spa - Tesla Destination,500 N Pendleton St,2022-10-06,Public,VA,Middleburg,2017-09-29,20137,TESLA,Free,38.974469,-77.7433777,public,290
+ELEC,Independence Golf Club - Tesla Destination,600 Founders Bridge Blvd,2022-10-06,Public,VA,Midlothian,2017-06-02,23113,J1772 TESLA,Free,37.543733,-77.684625,public,291
+ELEC,James Madison's Montpelier - Tesla Destination,11350 Constitution Hwy,2022-10-06,Public,VA,Montpelier Station,2017-12-19,22957,J1772 TESLA,Free,38.217746,-78.171122,public,292
+ELEC,Shenvalee Golf Resort - Tesla Destination,9660 Fairway Dr,2022-10-06,Public,VA,New Market,2017-01-30,22844,J1772 TESLA,Free,38.640043,-78.673807,public,293
+ELEC,"Holiday Inn Express & Suites, Newport News - Tesla Destination",943 J Clyde Morris Blvd,2022-10-06,Public,VA,Newport News,2018-05-22,23601,J1772 TESLA,Free,37.0928622,-76.4606547,public,294
+ELEC,Press 626 - Tesla Destination,626 W Olney Rd,2022-10-06,Public,VA,Norfolk,2016-03-29,23507,TESLA,Free,36.860532,-76.299693,public,295
+ELEC,Thrift Store USA Norfolk - Tesla Destination,875 E Little Creek Rd,2022-10-06,Public,VA,Norfolk,2016-10-27,23518,TESLA,Free,36.914545,-76.247689,public,296
+ELEC,"The Inn at Onancock, a Select Registry Property - Tesla Destination",30 North St,2022-10-06,Public,VA,Onancock,2015-05-08,23417,J1772 TESLA,Free,37.7138577,-75.7473399,public,297
+ELEC,Shrine Mont - Tesla Destination,217 Shrine Mont Cir,2022-10-06,Public,VA,Orkney Springs,2018-06-21,22845,J1772 TESLA,Free,38.795476,-78.81805,public,298
+ELEC,"Inn at Riverbend, a Select Registry Property - Tesla Destination",125 River Ridge Dr,2022-10-06,Public,VA,Pearisburg,2015-06-12,24134,J1772 TESLA,Free,37.319736,-80.686176,public,299
+ELEC,The Commodore Theatre - Tesla Destination,421 High St,2022-10-06,Public,VA,Portsmouth,2015-05-26,23704,TESLA,Free,36.834926,-76.302028,public,300
+ELEC,The Mermaids' Porch Bed and Breakfast - Tesla Destination,497 North St,2022-10-06,Public,VA,Portsmouth,2017-02-23,23704,TESLA,Free,36.838156,-76.302319,public,301
+ELEC,Sunset Hills Vineyard - Tesla Destination,38295 Fremont Overlook Ln,2022-10-06,Public,VA,Purcellville,2018-03-13,20132,J1772 TESLA,Free,39.1795605,-77.6774243,public,302
+ELEC,Steeles Tavern Manor and Alpine Hideaway Cabins - Tesla Destination,8400 N Lee Hwy,2022-10-06,Public,VA,Raphine,2015-03-23,24472,J1772 TESLA,Free,37.9237706,-79.2036335,public,303
+ELEC,Walden Hall - Tesla Destination,17440 True Blue Ln,2022-10-06,Public,VA,Reva,2017-03-02,22735,J1772 TESLA,Free,38.460384,-78.128655,public,304
+ELEC,Pupatella - Tesla Destination,1 N Morris St,2022-10-06,Public,VA,Richmond,2017-10-27,23220,TESLA,Free,37.546347,-77.456361,public,305
+ELEC,The Jefferson Hotel - Tesla Destination,101 W Franklin St,2022-10-06,Public,VA,Richmond,2016-01-08,23220,J1772 TESLA,Free,37.543816,-77.444942,public,306
+ELEC,Providence Golf Club - Tesla Destination,1160 S Providence Rd,2022-10-06,Public,VA,Richmond,2017-10-25,23236,J1772 TESLA,Free,37.48132,-77.555591,public,307
+ELEC,Hilton Richmond Hotel & Spa/Short Pump - Tesla Destination,12042 W Broad St,2022-10-06,Public,VA,Richmond,2017-05-30,23233,TESLA,Free,37.659337,-77.628263,public,308
+ELEC,Wingate by Wyndham Richmond Short Pump - Tesla Destination,13991 N Gayton Rd,2022-10-06,Public,VA,Richmond,2017-04-12,23233,J1772 TESLA,Free,37.660164,-77.630903,public,309
+ELEC,Richmond Main Street Station - Tesla Destination,1500 E Main St,2022-10-06,Public,VA,Richmond,2015-04-27,23219,TESLA,Free,37.534318,-77.428758,public,310
+ELEC,Graduate Richmond - Tesla Destination,301 W Franklin St,2022-10-06,Public,VA,Richmond,2018-01-29,23220,TESLA,Free,37.545362,-77.446647,public,311
+ELEC,Hyatt Place Richmond Airport - Tesla Destination,4401 S Laburnum Ave,2022-10-06,Public,VA,Richmond,2017-04-11,23231,J1772 TESLA,Free,37.530918,-77.358861,public,312
+ELEC,Hilton Richmond Downtown - Tesla Destination,501 E Broad St,2022-10-06,Public,VA,Richmond,2016-01-13,23219,TESLA,Free,37.542205,-77.437577,public,313
+ELEC,Triple Crossing Brewing - Fulton - Tesla Destination,5203 Hatcher St,2022-10-06,Public,VA,Richmond,2018-03-19,23231,TESLA,Free,37.512467,-77.4067411,public,314
+ELEC,Crowne Plaza Richmond Downtown - Tesla Destination,555 E Canal St,2022-10-06,Public,VA,Richmond,2017-05-30,23219,J1772 TESLA,Free,37.538185,-77.44109,public,315
+ELEC,The Westin Richmond - Tesla Destination,6631 W Broad St,2022-10-06,Public,VA,Richmond,2016-02-13,23230,J1772 TESLA,Free,37.604272,-77.518319,public,316
+ELEC,Homewood Suites by Hilton Richmond-Downtown - Tesla Destination,700 E Main St,2022-10-06,Public,VA,Richmond,2017-07-17,23219,TESLA,Free,37.539373,-77.43763,public,317
+ELEC,Quality Inn West End - Tesla Destination,8008 W Broad St,2022-10-06,Public,VA,Richmond,2017-07-13,23294,J1772 TESLA,Free,37.626376,-77.528253,public,318
+ELEC,"Country Inn & Suites By Carlson, Richmond W I-64 - Tesla Destination",8010 W Broad St,2022-10-06,Public,VA,Richmond,2017-07-14,23294,J1772 TESLA,Free,37.625913,-77.527317,public,319
+ELEC,"Country Inn & Suites By Carlson, Roanoke, VA - Tesla Destination",7860 Plantation Rd,2022-10-06,Public,VA,Roanoke,2017-06-21,24019,J1772 TESLA,Free,37.354562,-79.956722,public,320
+ELEC,Holiday Inn Express Roanoke - Civic Center - Tesla Destination,815 Gainsboro Rd NW,2022-10-06,Public,VA,Roanoke,2017-07-17,24016,J1772 TESLA,Free,37.281753,-79.940541,public,321
+ELEC,Hotel Roanoke and Conference Center - Tesla Destination,110 Shenandoah Ave NW,2022-10-06,Public,VA,Roanoke,2016-06-06,24016,TESLA,Free,37.2746767,-79.9393021,public,322
+ELEC,Claiborne House Bed & Breakfast - Tesla Destination,185 Claiborne Ave,2022-10-06,Public,VA,Rocky Mount,2015-07-15,24151,TESLA,Free,36.999977,-79.889484,public,323
+ELEC,Hampton Inn Salem East-Electric Road - Tesla Destination,1886 Electric Rd,2022-10-06,Public,VA,Salem,2016-03-25,24153,TESLA,Free,37.265168,-80.03218,public,324
+ELEC,Smithfield Station - Tesla Destination,415 S Church St,2022-10-06,Public,VA,Smithfield,2017-11-03,23430,TESLA,Free,36.9824546,-76.6230112,public,325
+ELEC,Oak Grove Plantation Bed and Breakfast - Tesla Destination,1245 Cluster Springs Rd,2022-10-06,Public,VA,South Boston,2016-06-22,24592,J1772 TESLA,Free,36.611201,-78.929852,public,326
+ELEC,Sleep Inn Staunton - Tesla Destination,222 Jefferson Hwy,2022-10-06,Public,VA,Staunton,2017-11-01,24401,J1772 TESLA,Free,38.125257,-79.030738,public,327
+ELEC,Berkeley House Bed and Breakfast - Tesla Destination,303 Berkeley Pl,2022-10-06,Public,VA,Staunton,2016-12-20,24401,TESLA,Free,38.150831,-79.068383,public,328
+ELEC,Best Western Staunton Inn - Tesla Destination,92 Rowe Rd,2022-10-06,Public,VA,Staunton,2018-01-30,24401,J1772 TESLA,Free,38.126049,-79.034742,public,329
+ELEC,Hampton Inn Stony Creek/Petersburg Area - Tesla Destination,10476 Blue Star Hwy,2022-10-06,Public,VA,Stony Creek,2017-08-30,23882,TESLA,Free,36.974829,-77.394007,public,330
+ELEC,Front Porch Market & Grill - Tesla Destination,6483 Main St,2022-10-06,Public,VA,The Plains,2017-07-27,22682,TESLA,Free,38.861855,-77.774148,public,331
+ELEC,Comfort Inn Troutville - Roanoke North - Tesla Destination,2545 Lee Hwy,2022-10-06,Public,VA,Troutville,2018-03-07,24175,J1772 TESLA,Free,37.383557,-79.903663,public,332
+ELEC,"Sugar Tree Inn, a Select Registry Property - Tesla Destination",145 Lodge Trl,2022-10-06,Public,VA,Vesuvius,2015-08-18,24483,J1772 TESLA,Free,37.887169,-79.164274,public,333
+ELEC,Four Points by Sheraton Virginia Beach Oceanfront - Tesla Destination,1211 Atlantic Ave,2022-10-06,Public,VA,Virginia Beach,2016-07-12,23451,J1772 TESLA,Free,36.841355,-75.972945,public,334
+ELEC,Wasserhund Brewing Company - Tesla Destination,1805 Laskin Rd,2022-10-06,Public,VA,Virginia Beach,2017-07-31,23454,J1772 TESLA,Free,36.848934,-76.027545,public,335
+ELEC,Il Gardino - Tesla Destination,2105 W Great Neck Rd,2022-10-06,Public,VA,Virginia Beach,2017-10-26,23451,TESLA,Free,36.9050547,-76.0702417,public,336
+ELEC,PRESS wine bar - Tesla Destination,2301 Red Tide Rd,2022-10-06,Public,VA,Virginia Beach,2018-02-26,23451,TESLA,Free,36.9114672,-76.0742967,public,337
+ELEC,"Beach Spa Bed & Breakfast,a Select Registry Property - Tesla Destination",2420 Arctic Ave,2022-10-06,Public,VA,Virginia Beach,2016-11-18,23451,TESLA,Free,36.852647,-75.979855,public,338
+ELEC,First Landing State Park - Tesla Destination,2500 Shore Dr,2022-10-06,Public,VA,Virginia Beach,2018-06-22,23451,J1772 TESLA,Free,36.9182,-76.053356,public,339
+ELEC,Il Giardino Ristorante 2 - Tesla Destination,2500 Tournament Dr,2022-10-06,Public,VA,Virginia Beach,2018-06-14,23456,TESLA,Free,36.7592861,-76.0747554,public,340
+ELEC,Hyatt House Virginia Beach Oceanfront - Tesla Destination,2705 Atlantic Ave,2022-10-06,Public,VA,Virginia Beach,2017-06-19,23451,J1772 TESLA,Free,36.855897,-75.97682,public,341
+ELEC,Atrium Resort - Tesla Destination,315 21st St,2022-10-06,Public,VA,Virginia Beach,2016-02-16,23451,TESLA,Free,36.849186,-75.977964,public,342
+ELEC,The Cavalier Virginia Beach - Tesla Destination,4200 Atlantic Ave,2022-10-06,Public,VA,Virginia Beach,2018-06-13,23451,J1772 TESLA,Free,36.86894,-75.9844534,public,343
+ELEC,Mermaid Winery - Tesla Destination,4401 Shore Dr,2022-10-06,Public,VA,Virginia Beach,2018-02-26,23455,J1772 TESLA,Free,36.904677,-76.123094,public,344
+ELEC,Pembroke Mall - Tesla Destination,4554 Virginia Beach Blvd,2022-10-06,Public,VA,Virginia Beach,2017-11-30,23462,J1772 TESLA,Free,36.84446,-76.134411,public,345
+ELEC,Founders Inn and Spa - Tesla Destination,5641 Indian River Rd,2022-10-06,Public,VA,Virginia Beach,2015-08-18,23464,TESLA,Free,36.802211,-76.190142,public,346
+ELEC,CROC'S 19th Street Bistro - Tesla Destination,620 19th St,2022-10-06,Public,VA,Virginia Beach,2015-10-13,23451,J1772 TESLA,Free,36.845576,-75.983128,public,347
+ELEC,Il Giardino Ristorante Atlantic Ave - Tesla Destination,910 Atlantic Ave,2022-10-06,Public,VA,Virginia Beach,2018-02-08,23451,TESLA,Free,36.8384299,-75.9727317,public,348
+ELEC,Poplar Springs Inn & Spa - Tesla Destination,5025 Casanova Rd,2022-10-06,Public,VA,Warrenton,2017-06-22,20187,TESLA,Free,38.651111,-77.713847,public,349
+ELEC,Foster Harris House - Tesla Destination,189 Main St,2022-10-06,Public,VA,Washington,2015-12-07,22747,TESLA,Free,38.710569,-78.161097,public,350
+ELEC,The Inn at Little Washington - Tesla Destination,309 Middle St,2022-10-06,Public,VA,Washington,2015-11-12,22747,J1772 TESLA,Free,38.713727,-78.159574,public,351
+ELEC,Iris Inn Bed & Breakfast - Tesla Destination,191 Chinquapin Dr,2022-10-06,Public,VA,Waynesboro,2015-03-31,22980,J1772 TESLA,Free,38.0440242,-78.9045217,public,352
+ELEC,New Quarter Park - Tesla Destination,1000 Lakeshead Dr,2022-10-06,Public,VA,Williamsburg,2018-03-28,23185,J1772 TESLA,Free,37.2938198,-76.6453494,public,353
+ELEC,DoubleTree by Hilton Williamsburg - Tesla Destination,50 Kingsmill Rd,2022-10-06,Public,VA,Williamsburg,2017-01-23,23185,TESLA,Free,37.243124,-76.659679,public,354
+ELEC,Riverwalk Landing Parking Deck - Tesla Destination,330 Water St,2022-10-06,Public,VA,Yorktown,2017-11-03,23690,TESLA,Free,37.238331,-76.509319,public,355
+ELEC,City of Danville - Farmers' Market,629 Craghead St,2022-11-10,Public,VA,Danville,2018-06-01,24541,J1772,Free,36.584304,-79.385308,public,357
+ELEC,Eastern Mennonite University - Hartzler Library,1160 Park Rd,2023-01-10,Public,VA,Harrisonburg,2019-01-01,22802,J1772,Free,38.469859,-78.87888,public,362
+ELEC,Crystal City Shops,2345 Crystal Dr,2023-07-11,Public,VA,Arlington,2014-12-31,22202,J1772,Free; parking fee,38.85334,-77.0493,public,365
+ELEC,Shenandoah University - Wilkins Athletics & Events Center Parking,1188 Ralph Shockey Dr,2024-02-12,Public,VA,Winchester,2018-07-10,22602,J1772 TESLA,Free,39.167803,-78.152172,public,368
+ELEC,Classic Kitchen and Bath,1930 Deyerle Ave,2023-01-10,Public,VA,Harrisonburg,2018-09-15,22801,J1772,Free,38.428265,-78.850296,public,372
+ELEC,Shenandoah University - Brandt Student Center,703 University Dr,2024-02-12,Public,VA,Winchester,2018-10-21,22601,J1772 TESLA,Free,39.167978,-78.157785,public,373
+ELEC,Tru by Hilton,120 Crossing Way,2023-01-10,Public,VA,Staunton,2018-12-11,24401,J1772 TESLA,Free for guests,38.131118,-79.036863,public,374
+ELEC,Richmond Spine Interventions,14404 Sommerville Ct,2024-01-09,Public,VA,Midlothian,2017-11-01,23113,J1772,Free,37.509413,-77.674511,public,376
+ELEC,The Row at GreenGate - Tesla Destination,12201 W Broad St,2022-10-06,Public,VA,Glen Allen,2018-10-10,23233,J1772 TESLA,Free,37.658065,-77.636195,public,386
+ELEC,Tysons Corner - Tesla Destination,1961 Chain Bridge Rd,2022-10-06,Public,VA,McClean,2018-04-12,22102,TESLA,Free,38.916486,-77.22108,public,387
+ELEC,Two Liberty Center - Tesla Destination,4075 Wilson Blvd,2022-10-06,Public,VA,Arlington,2019-05-13,22203,J1772 TESLA,Free,38.880383,-77.108511,public,394
+ELEC,Village at Leesburg,1503 Dodona Terrace SE,2023-01-10,Public - Call ahead,VA,Leesburg,2019-07-19,20175,J1772,Free,39.091422,-77.525656,public,395
+ELEC,1701 Duke Street - Tesla Destination,1701 Duke St,2022-10-06,Public,VA,Alexandria,2019-04-04,22314,J1772 TESLA,Free,38.805082,-77.0596,public,396
+ELEC,1320 N Courthouse Garage - Tesla Destination,1320 N Courthouse Rd,2022-10-06,Public,VA,Arlington,2019-04-12,22201,J1772 TESLA,Free,38.8887622,-77.0842467,public,397
+ELEC,Clarendon Square - Tesla Destination,3033 Wilson Blvd,2022-10-06,Public,VA,Arlington,2019-04-05,22201,J1772 TESLA,Free,38.8882,-77.094484,public,398
+ELEC,Tabb Library,100 Long Green Blvd,2023-01-10,Public,VA,Yorktown,2019-08-01,23693,J1772,Free,37.113565,-76.445837,public,399
+ELEC,Nokes Plaza,21305 Windmill Parc Drive,2024-10-08,Public,VA,Sterling,2016-04-26,20166,J1772,"$1.00/Hr Parking Fee , $0.25/kWh Energy Fee",39.0264789,-77.4179548,public,412
+ELEC,Atlantic Corporate Park,45600 Woodland Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Sterling,2019-07-03,20166,J1772,FREE,39.0209863,-77.4240542,public,413
+ELEC,One Courthouse Metro,2200 Wilson Blvd,2024-10-08,Public,VA,Arlington,2016-04-01,22201,J1772,FREE,38.89117283483909,-77.08604128807558,public,414
+ELEC,Reston Town Center - Purple Garage,11951 Freedom Drive,2024-10-08,Public,VA,Reston,2015-12-02,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.95972241,-77.3594275,public,415
+ELEC,Reston Town Center - Orange Garage,11955 Democracy Drive,2024-10-08,Public,VA,Reston,2015-04-11,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9573635,-77.35888735,public,416
+ELEC,Signature,11850 Freedom Drive,2024-10-08,Public,VA,Reston,2018-03-07,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9589315,-77.3556958,public,417
+ELEC,Electrify America Reston Site,2003 Edmund Halley Drive,2024-10-08,Public,VA,Reston,2017-09-08,20191,J1772,$0.00-$1.80/Hr Variable Parking Fee,38.9513071,-77.3593733,public,418
+ELEC,531701  Valo Park,7950 Jones Branch Drive,2024-10-08,Public,VA,McLean,2018-05-18,22107,J1772,$0.00-$5.00/Hr Variable Parking Fee,38.9316133,-77.2192237,public,419
+ELEC,6862 Elm St Offices and Signet Condos Garage,6900 Fleetwood Road,2024-10-08,Public,VA,McLean,2018-08-08,22101,J1772,FREE,38.9379928,-77.1809713,public,420
+ELEC,8150 Leesburg Pike,"8150 Leesburg Pike, Suite 1100",2024-10-08,Public,VA,Vienna,2014-07-18,22182,J1772,$0.50-$1.00/Hr Variable Parking Fee,38.9164397,-77.2267097,public,421
+ELEC,"Walgreens - Vienna, VA #13589",225 Maple Avenue,2024-10-08,Public,VA,Vienna,2019-05-24,22180,J1772,$2.00/Hr Parking Fee,38.903723,-77.261365,public,422
+ELEC,"Walgreens - Fairfax, VA #11927",3050-A Nutley Street,2024-10-08,Public,VA,Fairfax,2011-11-21,22031,J1772,$2.00/Hr Parking Fee,38.8715587,-77.2634002,public,423
+ELEC,Halstead Square,2750 Gallows Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Vienna,2011-07-21,22180,J1772,FREE,38.8786822,-77.228186,public,424
+ELEC,Homewood Suites Arlington Rosslyn Key Bridge,1900 N Quinn St,2024-10-08,Public,VA,Arlington,2016-03-19,22209,J1772,FREE,38.8970405,-77.078841,public,425
+ELEC,Westview at Ballston Metro,1001 N. Vermont Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2016-03-21,22201,J1772,FREE,38.8828742,-77.1143324,public,426
+ELEC,531703  4100 N Fairfax,4100 Fairfax Drive,2024-10-08,Public,VA,Arlington,2018-05-18,22203,J1772,FREE,38.8820376,-77.1097729,public,427
+ELEC,"ML Jefferson Garage, LLC c/o LPC",1401 South Clark Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2014-05-28,22202,J1772,FREE,38.8609965,-77.0508501,public,428
+ELEC,Canal Center Plaza,44 Canal Center Plaza,2024-10-08,Public,VA,Alexandria,2016-05-23,22315,J1772,FREE,38.814272,-77.038576,public,429
+ELEC,The Kingsley,500 Madison ST,2024-10-08,Public,VA,Alexandria,2016-04-04,22314,J1772,FREE,38.8124511,-77.043643,public,430
+ELEC,The Oronoco Condominium,601 North Fairfax Street,2024-10-08,Public,VA,Alexandria,2018-09-27,22314,J1772,$0.12/kWh Energy Fee,38.8108276,-77.0407047,public,431
+ELEC,The Thornton,751 Thornton Way,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Alexandria,2017-12-04,22314,J1772,FREE,38.792609,-77.0506936,public,432
+ELEC,Beacon Hill Apartments,3100 Southgate Drive,2024-10-08,Public,VA,Alexandria,2015-10-02,22306,J1772,$1.50/Hr Parking Fee,38.7748131,-77.0849061,public,433
+ELEC,Crest Condo,6107 Fairview Farm Dr,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Alexandria,2018-11-06,22315,J1772,"$0.00-$1.00/Hr Variable Parking Fee, $0.25/kWh Energy Fee",38.7575167,-77.1312586,public,434
+ELEC,"Walgreens - Alexandria, VA #10233",7629 Richmond Highway,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Alexandria,2011-11-19,22306,J1772,$2.00/Hr Parking Fee,38.750221,-77.082531,public,435
+ELEC,City of Williamsburg,401 Lafayette St,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Williamsburg,2015-04-20,23185,J1772,FREE,37.2758523,-76.7093882,public,436
+ELEC,City Center Mariners Row Garage,761 Mariners Row,2024-10-08,Public,VA,Newport News,2014-03-31,23606,J1772,FREE,37.0862236,-76.4710503,public,437
+ELEC,Central Place Residences - B1 - Orange Section,1800 N. Lynn Street,2024-10-08,Public,VA,Arlington,2019-12-11,22209,J1772,Free,38.8969,-77.071308,public,444
+ELEC,Central Place Residences - B2 - Orange Section,1800 N. Lynn Street,2024-10-08,Public,VA,Arlington,2019-12-12,22209,J1772,Free,38.8969,-77.071119,public,445
+ELEC,York Street Garage - Tesla Destination,215 West York St,2022-10-06,Public,VA,Norfolk,2019-08-21,23510,J1772 TESLA,Free,36.853232,-76.291144,public,448
+ELEC,Fountain Park Garage - Tesla Destination,130 Bank St,2022-10-06,Public,VA,Norfolk,2019-08-28,23510,J1772 TESLA,Free,36.846568,-76.289277,public,449
+ELEC,Garage at The Main Hotel - Tesla Destination,100 E Main St,2022-10-06,Public,VA,Norfolk,2019-07-08,23510,J1772 TESLA,Free,36.846457,-76.292117,public,450
+ELEC,The Omni Homestead Resort - Tesla Destination,7696 Sam Snead Hwy,2022-10-06,Public,VA,Hot Springs,2019-07-25,24445,TESLA,Free,37.997323,-79.830561,public,451
+ELEC,"Off the Grid  -  Cafe, Market, Farm - Tesla Destination",11692 Lee Hwy,2022-10-06,Public,VA,Sperryville,2019-04-10,22740,TESLA,Free,38.650846,-78.255126,public,452
+ELEC,Brydgeworks Glass - Tesla Destination,3315 Harpine Hwy,2022-10-06,Public,VA,Harrisonburg,2019-04-24,22802,TESLA,Free,38.503166,-78.871503,public,453
+ELEC,Prince George Street Parking Garage - Tesla Destination,230 N Henry St,2022-10-06,Public,VA,Williamsburg,2019-04-25,23185,TESLA,Free,37.2728516,-76.7068241,public,454
+ELEC,Quarterpath Park Rec Center - Tesla Destination,202 Quarterpath Rd,2022-10-06,Public,VA,Williamsburg,2019-04-15,23185,J1772 TESLA,Free,37.2638377,-76.6829495,public,455
+ELEC,Kiwanis Park - Tesla Destination,125 Longhill Park,2022-10-06,Public,VA,Williamsburg,2019-04-16,23185,J1772 TESLA,Free,37.2921264,-76.7288787,public,456
+ELEC,Town Point Garage - Tesla Destination,110 W Main St,2022-10-06,Public,VA,Norfolk,2019-03-27,23510,J1772 TESLA,Free,36.846994,-76.2929053,public,457
+ELEC,Bank Street Garage - Tesla Destination,440 Monticello Ave,2022-10-06,Public,VA,Norfolk,2019-03-27,23510,J1772 TESLA,Free,36.8512853,-76.2877562,public,458
+ELEC,Oakhurst Inn - Tesla Destination,100 Oakhurst Cir,2022-10-06,Public,VA,Charlottesville,2019-06-10,22903,TESLA,Free,38.031897,-78.506854,public,459
+ELEC,MacArthur Center South Garage - Tesla Destination,500 City Hall Ave,2022-10-06,Public,VA,Norfolk,2019-03-27,23510,J1772 TESLA,Free,36.848262,-76.287787,public,460
+ELEC,Waterside Garage - Tesla Destination,50 Martins Ln,2022-10-06,Public,VA,Norfolk,2019-04-01,23510,J1772 TESLA,Free,36.845252,-76.2908056,public,461
+ELEC,Central Place Office - B1 - Gray Section,1800 N. Lynn Street,2024-10-08,Public,VA,Arlington,2019-12-27,22209,J1772,Free,38.895493,-77.071236,public,462
+ELEC,"Smith Point Marina, Inc",989 Smith Point Rd,2023-10-12,Public,VA,Reedville,2020-01-03,22539,NEMA1450,$10 per session,37.88372527108362,-76.2512256772461,public,483
+ELEC,Pentagon Row,1101 S Joyce Street,2024-10-08,Public,VA,Arlington,2020-01-29,22202,J1772,Free,38.864189,-77.063009,public,484
+ELEC,Whole Foods - Richmond,2024 West Broad Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Richmond,2020-01-29,23220,J1772,Free,37.558165,-77.461716,public,485
+ELEC,Best Western Richmond City Gateway,4303 Commerce Rd,2024-10-08,Public,VA,Richmond,2019-09-18,23234,J1772,$2.00/kWh Energy Fee,37.4661401,-77.4290942,public,491
+ELEC,Northwest Federal Credit Union,220 Spring St,2024-10-08,Public,VA,Herndon,2020-07-16,20170,J1772,Free,38.960833,-77.374444,public,509
+ELEC,Saul Centers,750 N Glebe Rd,2024-10-08,Public,VA,Arlington,2020-03-23,22203,J1772,Free,38.8794,-77.1146,public,513
+ELEC,JBG - Central Place Office Tower - P4,1201 Wilson Boulevard,2024-10-08,Public,VA,Arlington,2020-01-02,22209,J1772,Free,38.895418,-77.071232,public,526
+ELEC,JBG - Central Place Office Tower - P5,1201 Wilson Boulevard,2024-10-08,Public,VA,Arlington,2020-01-03,22209,J1772,Free,38.895331,-77.071225,public,527
+ELEC,Fenwyck Manor,1805 Kerwyck Pl,2024-10-08,Public,VA,Chesapeake,2020-09-22,23320,J1772,FREE,36.787583,-76.216407,public,528
+ELEC,Audi Richmond,12592 Broad St Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Richmond,2020-09-25,23233,J1772,Free,37.664416,-77.653313,public,531
+ELEC,Best Western Plus Inn At Valley View - Tesla Destination,5050 Valley View Blvd NW,2022-10-06,Public,VA,Roanoke,2017-12-05,24012,J1772 TESLA,Free,37.309133,-79.97091,public,546
+ELEC,Captain George's Seafood Restaurant - Tesla Destination,1956 Laskin Rd,2022-10-06,Public,VA,Virginia Beach,2017-05-01,23454,TESLA,Free,36.847635,-76.035971,public,547
+ELEC,Peninsula Town Center - Tesla Destination,1600 Merchant Lane,2022-10-06,Public,VA,Hampton,2018-10-12,23666,J1772 TESLA,Free,37.045567,-76.393371,public,548
+ELEC,Thatch Winery - Tesla Destination,1650 Harris Creek Rd,2022-10-06,Public,VA,Charlottesville,2019-10-04,22902,TESLA,Free,37.892855,-78.556809,public,549
+ELEC,Discovery Square Apartments,13720 Atlantis St,2024-10-08,Public,VA,Herndon,2020-11-20,20121,J1772,FREE,38.9179052,-77.420465,public,550
+ELEC,Cedar Run Brewery,12801 Hazelwood Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Nokesville,2020-11-11,20181,J1772,"$1.50/Hr Parking Fee , $0.25/kWh Energy Fee",38.6452523,-77.5769484,public,552
+ELEC,City of Fairfax Old Town Hall,3999 University Drive,2024-10-08,Public,VA,Fairfax,2020-05-26,22030,J1772,FREE,38.8461467,-77.3051157,public,555
+ELEC,City of Fairfax City Hall,10455 Armstrong Street,2024-10-08,Public,VA,Fairfax,2020-05-26,22030,J1772,FREE,38.8407875,-77.3082469,public,556
+ELEC,"Downtown Parking Lot - Woodstock, VA",118 S Church St,2022-12-13,Public,VA,Woodstock,2020-12-21,22664,J1772 TESLA,Free,38.881153,-78.504715,public,564
+ELEC,Regatta Point YC,137 Neptune Lane,2024-10-08,Public,VA,Deltaville,2020-12-14,23043,J1772,"$0.90-$1.75/Hr Variable Parking Fee, $0.20/kWh Energy Fee",37.5595246,-76.3123021,public,565
+ELEC,Ramada Strasburg,21 Signal Knob Dr,2024-10-08,Public,VA,Strasburg,2021-01-09,22657,J1772,Free,39.00027084,-78.34512329,public,568
+ELEC,Monroe Gates Apartments,200 South Mallory Street,2024-10-08,Public,VA,Hampton,2020-09-11,23669,J1772,$0.00-$5.00/Hr Variable Parking Fee,37.0177916,-76.3235373,public,571
+ELEC,Tysons II,1650 Tysons Boulevard,2024-10-08,Public,VA,Tysons Corner,2021-01-27,22102,J1772,Free,38.926252,-77.22387,public,635
+ELEC,Publix #1588,3535 Ellwood Ave,2022-04-06,Public,VA,Richmond,2020-12-09,23221,J1772,"Free, only while shopping in Publix",37.5569,-77.48806,public,638
+ELEC,OAKTON,White Granite Dr and Chain Bridge Rd,2024-01-10,Private - Government only,VA,Oakton,2021-01-15,22124,J1772,Free,38.874505,-77.305996,private,641
+ELEC,VIENNA MO,145 Church St NW,2024-01-10,Private - Government only,VA,Vienna,2021-01-15,22180,J1772,Free,38.90083,-77.268148,private,642
+ELEC,PTO,551 John Carlyle St,2024-01-10,Private - Government only,VA,Alexandria,2021-01-15,22314,NEMA515,Free,38.801445,-77.062383,private,656
+ELEC,FHWA - Turner Fairbanks Highway Research Center,6300 Georgetown Pike,2024-01-10,Private - Government only,VA,McLean,2021-01-15,22101,NEMA515,Free,38.946159,-77.157015,private,657
+ELEC,Building 201 parking lot - Richmond VA,G Rd,2024-01-10,Private - Government only,VA,Richmond,2021-01-15,99354,NEMA515,$0.13 per kWh,37.41422,-77.44757,private,658
+ELEC,Building 32 - Richmond VA,G Rd,2021-02-22,Private - Government only,VA,Richmond,2021-01-15,99354,NEMA515,$0.13 per kWh,37.41422,-77.44749,private,659
+ELEC,Building 85 - Richmond VA,G Rd,2024-01-10,Private - Government only,VA,Richmond,2021-01-15,99354,NEMA515,$0.13 per kWh,37.41422,-77.44747,private,660
+ELEC,VISN 6/SALEM VAMC,1970 Roanoke Blvd,2024-01-10,Private - Government only,VA,Salem,2021-01-15,24153,NEMA515,$0.13 per kWh,37.276102,-80.023684,private,661
+ELEC,Building 80 - Richmond VA,G Rd,2024-01-10,Private - Government only,VA,Richmond,2021-01-15,99354,NEMA515,$0.13 per kWh,37.41422,-77.44747,private,668
+ELEC,Langley Research Center,11 Wythe Creek Rd,2024-01-10,Private - Government only,VA,Hampton,2021-01-15,23666,NEMA515,Free,37.095012,-76.392614,private,669
+ELEC,NNS Norfolk Naval Shipyard,59 Warrenton St,2024-01-10,Private - Government only,VA,Portsmouth,2021-01-15,23709,NEMA515,Free,38.713452,-77.795271,private,670
+ELEC,NAVSTA Norfolk,3rd Ave,2024-01-10,Private - Government only,VA,Norfolk,2021-01-15,23511,NEMA515,Free,36.94416,-76.299292,private,671
+ELEC,The Point at Dunn Loring,2677 Avenir Place,2024-10-08,Public,VA,Vienna,2012-01-10,22180,J1772,FREE,38.8812448,-77.2292084,public,694
+ELEC,1812 N Moore,1812 N Moore Street,2024-10-08,Public,VA,Arlington,2019-11-21,22209,J1772,FREE,38.8963347,-77.0721839,public,700
+ELEC,Virginia Museum of Transportation,303 Norfolk Avenue SW,2024-10-08,Public,VA,Roanoke,2021-05-03,24016,J1772,Free,37.27289,-79.946207,public,707
+ELEC,Hilton Crystal City at Washington Reagan National Airport,2399 Jefferson Davis Highway,2024-10-08,Public,VA,Arlington,2021-06-16,22202,J1772,Free,38.852599,-77.052326,public,724
+ELEC,Livingston Apartments Flats,15560 Cosby Road,2024-10-08,Public,VA,Chesterfield,2021-07-01,23832,J1772,Free,37.402023,-77.710973,public,733
+ELEC,Bayside Ford,16057 James Madison Pkwy,2024-10-08,Public,VA,King George,2021-07-09,22485,J1772,Free,38.193263,-77.180332,public,738
+ELEC,11480 Commerce Park DR,11480 Commerce Park Drive,2024-10-08,Public,VA,Reston,2015-07-06,20191,J1772,FREE,38.9470139,-77.3425824,public,739
+ELEC,3101 Wilson BLVD,3101 Wilson Boulevard,2024-10-08,Public,VA,Arlington,2012-02-02,22201,J1772,FREE,38.8876531,-77.0954574,public,740
+ELEC,Valo Park,7950 Jones Branch Drive,2024-10-08,Public,VA,McLean,2021-09-02,22107,J1772,$0.00-$5.00/Hr Variable Parking Fee,38.9323022,-77.2189651,public,747
+ELEC,Fairfield Crossing Apartments,7703 Lee Highway,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Falls Church,2021-09-02,22042,J1772,$1.50/Hr Parking Fee,38.8746418,-77.2100421,public,748
+ELEC,Union on Queen Garage,1515 N Queen St,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2016-01-29,22209,J1772,FREE,38.8915,-77.0766826,public,749
+ELEC,The View,4000 Wilson Blvd.,2024-10-08,Public,VA,Arlington,2021-09-02,22203,J1772,FREE,38.8794876,-77.107941,public,750
+ELEC,Heritage Center,7619 Little River Turnpike,2024-10-08,Public,VA,Annandale,2017-08-09,22003,J1772,FREE,38.8315179,-77.2098419,public,751
+ELEC,Riverside Clubhouse,14120 Big Crest Lane,2024-10-08,Public,VA,Woodbridge,2020-05-14,22191,J1772,$1.00/Hr Parking Fee,38.6109724,-77.2572672,public,752
+ELEC,GLTC Transfer Center,800 Kemper Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Lynchburg,2014-04-21,24501,J1772,$0.86/kWh Energy Fee,37.407649,-79.15706999999998,public,753
+ELEC,Two Discovery Square,12012 Sunset Hills Road,2024-10-08,Public,VA,Reston,2019-03-29,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9560719,-77.3578354,public,756
+ELEC,Overlook One and Overlook Two,12011 Sunset Hills Road,2024-10-08,Public,VA,Reston,2020-03-19,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9544612,-77.3574295,public,757
+ELEC,Asurion,22894 Pacific Boulevard,2024-10-08,Public,VA,Sterling,2018-10-31,20166,J1772,FREE,38.9820621,-77.4340704,public,758
+ELEC,Mom's Organic Market - Alexandria,3131 Mount Vernon Avenue,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Alexandria,2014-11-20,22305,J1772,FREE,38.8340242,-77.0598434,public,759
+ELEC,City Center Merchants Walk Garage,11860 Merchants Walk,2024-10-08,Public,VA,Newport News,2014-03-31,23606,J1772,FREE,37.087066,-76.475128,public,760
+ELEC,One Discovery Square,12010 Sunset Hills Road,2024-10-08,Public,VA,Reston,2021-09-06,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9560074,-77.3563771,public,761
+ELEC,Reston Corner 1,12001 Sunrise Valley Dr,2024-10-08,Public,VA,Reston,2019-02-25,20191,J1772,"$0.00-$4.00/Hr Variable Parking Fee, $0.00-$0.15/kWh Variable Energy Fee",38.9457189,-77.360576,public,762
+ELEC,1908 Reston Metro Plaza,1908 Reston Metro Plaza,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Reston,2019-03-19,20190,J1772,FREE,38.9487968,-77.3390828,public,763
+ELEC,Washington Lee Apts,12202 2nd Street North,2024-10-08,Public,VA,Arlington,2020-11-25,22201,J1772,"$0.00-$4.00/Hr Variable Parking Fee, $0.25/kWh Energy Fee",38.876188,-77.0922779,public,764
+ELEC,City Center Fountain Way Garage,11805 Fountain Way,2024-10-08,Public,VA,Newport News,2012-02-16,23606,J1772,FREE,37.0853249,-76.4729336,public,765
+ELEC,Riverfront Plaza,901 East Byrd Street,2024-10-08,Public,VA,Richmond,2018-01-24,23219,J1772,FREE,37.5353599,-77.4387881,public,766
+ELEC,Reston Town Center - Green Garage,11922 Freedom Drive,2024-10-08,Public,VA,Reston,2020-12-28,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9599591,-77.3576877,public,767
+ELEC,"R.E. Lee Properties, LLC",30 South Main Street,2024-10-08,Public,VA,Lexington,2014-05-14,24450,J1772,$3.00-$10.00/Hr Variable Parking Fee,37.784295,-79.442237,public,768
+ELEC,Premier Tech Center,2810 North Parham Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Richmond,2014-05-16,23294,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.10-$0.12/kWh Variable Energy Fee",37.6276096,-77.5499941,public,769
+ELEC,Arboretum III,"300 Arboretum Place, Suite 330",2024-10-08,Public,VA,Richmond,2014-06-23,23236,J1772,$0.00-$3.00/Hr Variable Parking Fee,37.4934172,-77.5657692,public,770
+ELEC,Nouvelle,7911 Westpark DR,2024-10-08,Public,VA,McLean,2014-01-09,22102,J1772,FREE,38.9244763,-77.2189972,public,771
+ELEC,The Concord,2600 Crystal Drive,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2019-11-15,22202,J1772,$0.00-$0.50/Hr Variable Parking Fee,38.8493185,-77.0509999,public,772
+ELEC,Ferguson Center Parking Deck,1 Avenue of the Arts,2024-10-08,Public,VA,Newport News,2018-06-06,23606,J1772,FREE,37.0642505,-76.4936074,public,773
+ELEC,Merck & Co Inc,2778 S E Side Hwy,2021-11-04,Private,VA,Elkton,2021-08-14,22827,J1772,FREE,38.3836100469871,-78.6560538310034,private,775
+ELEC,2300 Wilson Blvd - 93613,2300 Wilson Boulevard,2024-10-08,Public,VA,Arlington,2019-01-09,22201,J1772,FREE,38.8904702,-77.0872272,public,783
+ELEC,The Jamestown Apartment Flats,500 W 14th Street,2024-10-08,Public,VA,Richmond,2021-09-28,23224,J1772,Free,37.52423677,-77.4499194,public,785
+ELEC,Parking Level One,1011 Sunsethills Road,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Reston,2019-07-22,20190,J1772,FREE,38.9518328,-77.3423065,public,793
+ELEC,Arlington Mill,909 South Dinwiddie Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2018-07-03,22204,J1772,FREE,38.856241,-77.1121554,public,794
+ELEC,Hampton Inn,40 Payne Ln,2023-11-09,Public,VA,Staunton,2021-10-27,22902,J1772,Free,38.123999,-79.066945,public,802
+ELEC,Tru by Hilton,6524 Dominion Raceway Ave,2023-11-09,Public,VA,Woodford,2021-10-27,22580,J1772,Free,38.1364453,-77.5076236,public,804
+ELEC,New Warren Memorial,351 Valley Health Way,2023-11-09,Public,VA,Front Royal,2021-10-27,22630,J1772,Free,38.9190842,-78.15435,public,805
+ELEC,Creekside Commons Pocket Park,1 S Broad St,2023-12-13,Public,VA,Luray,2021-10-27,22835,J1772,Free,38.665525,-78.459898,public,807
+ELEC,Terry Subaru,19134 Forest Rd,2023-11-09,Public,VA,Lynchburg,2021-10-27,24502,J1772,Free,37.391187,-79.237737,public,808
+ELEC,Best Western,599 N Main St,2023-11-09,Public,VA,Kilmarnock,2021-10-27,22482,J1772 NEMA1450,Free,37.726251,-76.389633,public,809
+ELEC,Bay Diesel & Generator Chesapeake,3736 Cook Blvd,2023-11-09,Public,VA,Chesapeake,2021-10-27,23323,J1772,Free,36.784827,-76.369096,public,810
+ELEC,Delta Hotels by Marriott,2800 Shore Dr,2023-12-13,Public,VA,Virginia Beach,2021-10-27,23451,J1772,Free,36.91287,-76.068129,public,811
+ELEC,Anthem - North Garage,1511 USAA Dr,2024-01-09,Private,VA,Norfolk,2021-10-27,23502,J1772,Free,36.874828,-76.208022,private,812
+ELEC,Avid Hotels Staunton,42 Sangers Ln,2023-11-09,Public,VA,Staunton,2021-10-27,24401,J1772,Free,38.127481,-79.031861,public,813
+ELEC,Acclaim at Belmont Bay,13875 Clear Lake Cir,2023-11-09,Public,VA,Woodbridge,2021-10-27,22191,J1772,Free,38.652064,-77.237398,public,814
+ELEC,General RV Center,12500 Harley Club Dr,2023-10-12,Public,VA,Ashland,2021-10-27,23005,J1772,FREE,37.730137,-77.453043,public,816
+ELEC,The Westin Alexandria Old Town,400 Courthouse Sq,2023-10-12,Public,VA,Alexandria,2021-10-27,22314,TESLA,Free,38.803059,-77.065217,public,817
+ELEC,Quantico MCB Commissary East,3400 Russell Rd,2023-10-12,Private,VA,Quantico,2021-10-27,22134,J1772,FREE,38.517452,-77.33851,private,818
+ELEC,The Farmhouse at Veritas,72 Saddleback Farm,2023-10-12,Public,VA,Afton,2021-10-27,22920,NEMA1450,FREE,38.014996,-78.840875,public,819
+ELEC,Deltek Inc,2291 Wood Oak Dr,2023-10-12,Private,VA,Herndon,2021-10-27,20171,J1772,$0.50/hour,38.952116,-77.399267,private,820
+ELEC,Camden Potomac Yard Parking,3535 S Ball St,2023-12-13,Public,VA,Arlington,2021-10-27,22202,J1772,Free,38.843534,-77.050772,public,821
+ELEC,Enterprise Court,15100 Enterprise Ct,2023-12-13,Public,VA,Chantilly,2021-10-27,20151,J1772 TESLA,Free,38.907017,-77.468696,public,822
+ELEC,455 AT TINNER HILL - RESIDENTIAL GARAGE LEVEL,455 S. MAPLE AVENUE,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,FALLS CHURCH,2014-08-20,22046,J1772,FREE,38.8805911,-77.1765308,public,829
+ELEC,P4 (to right of elevator entrance),1001 19th Street North,2024-10-08,Public,VA,Arlington,2021-09-20,22209,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.8972908,-77.0692631,public,842
+ELEC,Hampton Inn - Danville,1098 Riverside Drive,2024-10-08,Public,VA,Danville,2021-05-11,24540,J1772,Free,36.597403,-79.403276,public,844
+ELEC,1310 N. Courthouse,1310 North Courthouse Road,2024-10-08,Public,VA,Arlington,2018-07-31,22201,J1772,FREE,38.8886807,-77.0837947,public,873
+ELEC,Premier Corporate Center,3701 Pender Drive,2024-10-08,Public,VA,Fairfax,2021-09-07,22030,J1772,"$1.50/Hr Parking Fee , $1.50/kWh Energy Fee",38.8621752,-77.3310515,public,874
+ELEC,Courthouse Tower,1515 North Courthouse Road,2024-10-08,Public,VA,Arlington,2018-03-23,22201,J1772,FREE,38.8912482,-77.0831477,public,875
+ELEC,Shirlington Tower Garage,2901 South Randolph Street,2024-10-08,Public,VA,Arlington,2019-07-11,22206,J1772,FREE,38.8400326,-77.0882832,public,876
+ELEC,Reston Station,1900 Reston Station Boulevard,2024-10-08,Public,VA,Reston,2019-03-12,20190,J1772,FREE,38.9484462,-77.337535,public,902
+ELEC,Hampton Inn & Suites,1150 Motel Drive,2024-10-08,Public,VA,Woodstock,2022-02-10,22664,J1772,Free,38.868347,-78.52863,public,908
+ELEC,Founders Row Parking Garage,110 Founders Ave,2024-10-08,Public,VA,Falls Church,2021-03-22,22046,J1772,"$0.00-$2.00/Hr Variable Parking Fee, $0.25-$2.00/kWh Variable Energy Fee",38.8861125,-77.1772737,public,916
+ELEC,JBG - 800 Glebe,800 N. Glebe Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2022-03-15,22203,J1772,Free,38.880241,-77.114669,public,922
+ELEC,Westminster Canterbury,3100 Shore Drive,2024-10-08,Public,VA,Virginia Beach,2021-02-08,23451,J1772,"$1.00/Hr Parking Fee , $0.07/kWh Energy Fee",36.9109468,-76.0799365,public,938
+ELEC,Residence Inn Arlington - Ballston,650 N Quincy Street,2024-10-08,Public,VA,Arlington,2012-02-07,22203,J1772,$1.00/Hr Parking Fee,38.8793867,-77.10758190000001,public,945
+ELEC,Super 8 Christiansburg,55 Laurel St NE,2024-10-08,Public,VA,Christiansburg,2022-04-04,24073,J1772,Free,37.162246,-80.422517,public,952
+ELEC,New Town Commercial Association,4935 Courthouse St,2024-10-08,Public,VA,Williamsburg,2022-04-14,23188,J1772,Free,37.279645,-76.740153,public,966
+ELEC,Leeward Ventures,2330 Bowdens Ferry Rd,2024-10-08,Public,VA,Norfolk,2022-04-29,23508,J1772,Free,36.876028,-76.304565,public,970
+ELEC,NVCC Annandale Campus Parking Garage,8440 Center Drive,2024-10-08,Public,VA,Annandale,2022-02-16,22003,J1772,$0.00-$5.00/Hr Variable Parking Fee,38.83323201,-77.2381193,public,971
+ELEC,"Virginia Hospital Center, Purple Garage",5110 19th Street North,2024-10-08,Public,VA,Arlington,2021-04-07,22207,J1772,FREE,38.892103,-77.1280218,public,972
+ELEC,Prosperity Ave,2677 Prosperity Avenue,2024-10-08,Public,VA,Fairfax,2022-03-25,22031,J1772,FREE,38.8806769,-77.2332406,public,974
+ELEC,Marina Bay Hotel & Suites,3801 Main Street,2024-10-08,Public,VA,Chincoteague,2022-05-10,23336,J1772,Free,37.930555,-75.382965,public,975
+ELEC,Super 8,1007 Millwood Pike,2024-10-08,Public,VA,Winchester,2022-05-25,22602,J1772,Free,39.159957,-78.151635,public,979
+ELEC,The Ritz Carlton Garage,1750 Tysons Boulevard,2024-10-08,Public,VA,Tysons,2021-01-27,22102,J1772,Free,38.924175,-77.222436,public,981
+ELEC,Reston Corner 2,12005 Sunrise Valley Drive,2024-10-08,Public,VA,Reston,2019-02-25,20191,J1772,"$0.00-$4.00/Hr Variable Parking Fee, $0.00-$0.15/kWh Variable Energy Fee",38.9462306,-77.3617829,public,984
+ELEC,29 Central at Stonefield,2150 Bond Street Ste 90,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Charlottesville,2021-08-13,22901,J1772,FREE,38.0664666,-78.4942131,public,986
+ELEC,Berglund Ford Buick GMC,1415 Boxwood Terrace,2024-10-08,Public,VA,Bedford,2022-06-24,24523,J1772,Free,37.325438,-79.500595,public,989
+ELEC,Backside of West Wing of the Building,150 Kings Manor Drive,2024-10-08,Public,VA,Williamsburg,2022-06-25,23185,J1772,"$5.00/Hr Parking Fee , $0.20/kWh Energy Fee",37.2868967,-76.7262669,public,990
+ELEC,High Street View - Phase II,150 Kings Manor Dr,2024-10-08,Public,VA,Williamsburg,2022-06-25,23185,J1772,"$5.00/Hr Parking Fee , $0.20/kWh Energy Fee",37.2868967,-76.7262669,public,991
+ELEC,Dairy Market,946 Grady Ave,2022-07-12,Public,VA,Charlottesville,2021-04-16,22903,NEMA515,$1.80/hr,38.038041,-78.491176,public,997
+ELEC,Microtel Inn & Suites,85 Pleasant Valley Rd,2024-10-08,Public,VA,Harrisonburg,2022-07-18,22801,J1772,Free,38.4053949,-78.90639,public,998
+ELEC,Sleep Inn Chesapeake,3280 Western Branch Blvd,2024-10-08,Public,VA,Chesapeake,2022-07-22,23321,J1772,Free,36.86618327,-76.41113913,public,999
+ELEC,The Clifton Hotel,1296 Clifton Inn Dr,2024-10-08,Public,VA,Charlottesville,2022-07-26,22911,J1772,Free,38.0070971484,-78.397143071,public,1000
+ELEC,Reston Town Center - Underground Garage,1818 Library Street,2024-10-08,Public,VA,Reston,2022-03-29,20190,J1772,FREE,38.9585299,-77.3601232,public,1003
+ELEC,Reston Town Center - Red Garage,12025 Town Square Street,2024-10-08,Public,VA,Reston,2022-04-18,20190,J1772,"$0.00-$5.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9575693,-77.3612446,public,1004
+ELEC,Monument III,12930 Worldgate Drive,2024-10-08,Public,VA,Herndon,2015-01-13,20170,J1772,FREE,38.9563917,-77.397156,public,1005
+ELEC,American Center,8300 Boone Boulevard,2024-10-08,Public,VA,Vienna,2017-01-31,22182,J1772,$0.07/kWh Energy Fee,38.9171387,-77.2318533,public,1006
+ELEC,Potomac Overlook Regional Park,2845 Marcey Rd,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2011-02-15,22207,J1772,FREE,38.913048,-77.1078129,public,1007
+ELEC,"The Motley Fool, 2000 Duke Street",2000 Duke Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Alexandria,2014-11-13,22314,J1772,FREE,38.804281,-77.0641827,public,1008
+ELEC,1940 Duke Street PH,1940 Duke Street - PH,2024-10-08,Public,VA,Alexandria,2022-05-21,22314,J1772,FREE,38.8041324,-77.0630253,public,1009
+ELEC,"USGBF TSA, LLC.",6595 Springfield Center Drive,2024-10-08,Public,VA,Springfield,2019-12-12,22150,J1772,FREE,38.7662151,-77.1730536,public,1010
+ELEC,58502,7770 Backlick Road,2024-10-08,Public,VA,Springfield,2016-09-02,22150,J1772,FREE,38.747266,-77.1876418,public,1011
+ELEC,Liberty University (Hancock Welcome Center),Carter Glass Drive,2024-10-08,Public,VA,Lynchburg,2022-06-14,24502,J1772,FREE,37.353361864102,-79.177294883728,public,1012
+ELEC,Upper Lofts,10 South 20th Street,2024-10-08,Public,VA,Richmond,2022-06-20,23223,J1772,FREE,37.5312943,-77.4266928,public,1015
+ELEC,Blacksburg Town Hall,300 S Main St,2024-10-08,Public,VA,Blacksburg,2022-08-30,24060,J1772,Free,37.227325,-80.412419,public,1023
+ELEC,531712  City of Falls Church Community Center,223 Little Falls Street,2024-10-08,Public,VA,Falls Church,2018-12-26,22046,J1772,FREE,38.8862255,-77.1717924,public,1028
+ELEC,McLean Campus 3,7594 Colshire Drive,2024-10-08,Public,VA,McLean,2022-09-02,22102,J1772,"$0.00-$8.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",38.9234627,-77.2061718,public,1078
+ELEC,McLean Campus 4,7596 Colshire Drive,2024-10-08,Public,VA,McLean,2022-09-06,22102,J1772,"$0.00-$8.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",38.9231798,-77.2052155,public,1079
+ELEC,McLean Campus 2,7515 Colshire Drive,2024-10-08,Public,VA,McLean,2022-09-02,22102,J1772,"$0.00-$8.00/Hr Variable Parking Fee, $0.20/kWh Energy Fee",38.9221966,-77.2050359,public,1080
+ELEC,Tysons Commerce Center,8219 Leesburg Pike,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Vienna,2014-12-10,22182,J1772,FREE,38.9267426,-77.2442422,public,1087
+ELEC,Canal Center Plaza,11 Canal Center Plaza,2024-10-08,Public,VA,Alexandria,2017-08-16,22314,J1772,FREE,38.8148442,-77.037826,public,1106
+ELEC,Reagan National Airport - B/C Terminal Parking,2400 Ronald Reagan Washington National Airport Access Rd,2023-07-11,Public,VA,Arlington,2022-11-03,22202,J1772,Free,38.85235,-77.04417,public,1110
+ELEC,Tellus Apartments,2009 14th Street N,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Arlington,2016-06-27,22201,J1772,FREE,38.8899206,-77.0824158,public,1117
+ELEC,2000 Duke LLC,2000 Duke Street,2024-10-08,TEMPORARILY UNAVAILABLE (Public),VA,Alexandria,2014-11-13,22314,J1772,FREE,38.8042448,-77.0640466,public,1119
+ELEC,The Maxwell,4200 North Carlin Springs Road,2024-10-08,Public,VA,Arlington,2022-09-24,22203,J1772,FREE,38.8774643,-77.1118524,public,1139
+ELEC,Reston Town Center - Silver Garage P2,11850 Freedom Drive,2024-10-08,Public,VA,Reston,2022-09-27,20190,J1772,"$0.00-$95.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",38.9597425,-77.3556184,public,1140
+ELEC,Reston Summit II,2002 Edmund Halley Drive,2024-10-08,Public,VA,Reston,2022-09-18,20191,J1772,$0.00-$10.00/Hr Variable Parking Fee,38.951368,-77.363094,public,1141
+ELEC,Riverside,5860 Cameron Run Terrace,2024-10-08,Public,VA,Alexandria,2022-09-23,22303,J1772,$0.20/kWh Energy Fee,38.792205,-77.0627874,public,1144
+ELEC,Quality Inn & Suites - Big Stone Gap,4609 Aerial Way,2024-10-08,Public,VA,Big Stone Gap,2022-06-25,24219,J1772,Free,36.859256,-82.752495,public,1151
+ELEC,X Corp Solutions,1010 Corporate Drive #310,2024-10-08,Public,VA,Stafford,2022-08-20,22554,J1772,Free,38.5150824,-77.374229,public,1152
+ELEC,Innovations Hospitality,1884 Evelyn Byrd Ave,2024-10-08,Public,VA,Harrisonburg,2022-12-15,22802,J1772,Free,38.431761,-78.848973,public,1153
+ELEC,Quest Diagnostics - Chantilly,14225 Newbrook Drive,2024-10-08,Public,VA,Chantilly,2022-11-29,20153,J1772,Free,38.875547,-77.439203,public,1154
+ELEC,First and Market Parking - Tesla Destination,104 First St N,2022-10-06,Public,VA,Charlottesville,2014-06-16,22901,TESLA,Free,38.031111,-78.480905,public,1162
+ELEC,iFLY Virginia Beach Indoor Skydiving - Tesla Destination,2412 Pacific Ave,2022-10-06,Public,VA,Virginia Beach,2022-03-24,23451,TESLA,Free,36.852937,-75.9779682,public,1163
+ELEC,Mj's Tavern - Tesla Destination,4019 Granby Street,2022-10-06,Public,VA,Norfolk,2022-03-28,23504,TESLA,Free,36.8837186,-76.2816422,public,1164
+ELEC,Glass Light Hotel Autograph Collection - Tesla Destination,201 Granby St,2022-10-06,Public,VA,Norfolk,2021-06-21,23510,TESLA,Free,36.84824,-76.29136,public,1165
+ELEC,Main St. Parking Lot - Tesla Destination,40 N. Third St,2022-10-06,Public,VA,Warrenton,2021-06-22,20186,TESLA,Free,38.71409,-77.79304,public,1166
+ELEC,Ourisman Chevrolet Buick GMC of Alexandria,1800 Old Richmond Hwy,2024-10-08,Public,VA,Alexandria,2022-10-12,22303,J1772COMBO,Free,38.7916087462736,-77.06183262193628,public,1209
+ELEC,"Harry F. Byrd, Sr. Visitor Center",259 Big Meadows Visitor Rd,2023-05-03,Public,VA,Madison,2023-04-18,22851,J1772,Free,38.53108,-78.43637,public,1267
+ELEC,The Building LLC,850 W Market St,2023-06-12,Public,VA,Harrisonburg,2023-01-23,22802,J1772,$0.10 per kWh,38.45199782055858,-78.88220675182579,public,1287
+ELEC,Autel - Williamsburg Chrysler Dodge Jeep RAM,3012 Richmond Rd B,2023-11-09,Public - Credit card at all times,VA,Williamsburg,2023-10-19,23185,J1772COMBO,$0.40 per kWh,37.3035695609959,-76.7288149821195,public,1553
+ELEC,The Market at Massanutten Station,1850 Meadow Vista Ln,2023-11-09,Public,VA,McGaheysville,2023-10-23,22840,J1772,Free,38.40597,-78.71542,public,1556
+ELEC,Quality Inn Danville,2130 Riverside Dr,2024-09-12,Public,VA,Danville,2024-05-23,24540,J1772,$3.50 per hour,36.59604,-79.40562,public,1640
+ELEC,Embassy Suites - Tesla Destination,8100 Loisdale Rd,2024-05-09,Public,VA,Springfield,2024-04-18,22150,J1772 TESLA,Free,38.7401461744427,-77.1881093408793,public,1708
+ELEC,Residence Inn Tysons - Tesla Destination,8400 Old Courthouse Rd,2024-05-09,Public,VA,Vienna,2024-04-25,22182,J1772 TESLA,Free,38.9157971525256,-77.2358029089071,public,1711
+ELEC,Post Office St. Parking Lot,Post Office St,2024-08-15,Public,VA,Chincoteague,2024-04-25,23336,J1772,$0.45 per kWh + $1.50 per event,37.93373,-75.37558,public,1749
+ELEC,Queen St. Parking Lot,Queen St Parking Lot,2024-06-13,Public,VA,Onancock,2024-04-25,23417,J1772,Free,37.71138,-75.7494,public,1750
+ELEC,Cape Charles Visitor Center,21275 Cooperative Way,2024-09-12,Public,VA,Tasley,2024-04-25,23441,J1772,"$0.55 per kWh, $1.50 per event",37.26697,-76.01728,public,1751
+ELEC,Vine Cottage Inn B&B,7402 Sam Snead Hwy,2024-07-11,Public - Call ahead,VA,Hot Springs,2024-06-04,24445,J1772,Free,37.9941657,-79.8321488,public,1753
+ELEC,GridPoint,5305 Valleypark Dr,2024-07-11,Public - Credit card at all times,VA,Roanoke,2022-08-29,24019,J1772,$0.45 per kWh,37.3313,-79.99069,public,1756
+ELEC,Fairfax County Solid Waste,6910 Allen Park Rd,2024-07-11,Public - Credit card at all times,VA,Alexandria,2023-03-21,22315,J1772,$100 per kWh,38.73854,-77.18049,public,1757
+ELEC,Kajeet,7901 Jones Branch Dr,2024-07-11,Public - Credit card at all times,VA,McLean,2023-06-08,22102,J1772,$0.35 per kWh,38.92636,-77.21936,public,1758
+ELEC,The EV Superstore,2300 N Lombardy St,2024-08-15,Public,VA,Richmond,2024-06-27,23220,J1772,$0.45 per kWh,37.5638900806243,-77.4477805134612,public,1773
+ELEC,Balfield Marketplace Shopping Center - Tesla Supercharger,216 Market Dr,2024-08-15,Public,VA,Emporia,2024-07-11,23847,TESLA,$0.35 per kWh,36.70499,-77.542673,public,1783
+ELEC,G&C Juice Bar,14008 Willard Rd,2024-09-12,Public,VA,Chantilly,2024-07-30,20151,J1772,Free,38.88692,-77.4316,public,1814
+ELEC,Chik-fil-A - Tesla Supercharger,22 Hotel Dr,2024-09-12,Public,VA,Lexington,2024-08-09,24450,TESLA,$0.36 per kWh,37.798465,-79.417362,public,1819
+ELEC,Royal Farms - Tesla Supercharger,401 Temple Ave,2024-09-12,Public,VA,Colonial Heights,2024-08-19,23834,TESLA,$0.33 per kWh,37.258588,-77.405757,public,1820
+ELEC,Royal Farms - Tesla Supercharger,5350 E Virginia Beach Blvd,2024-09-12,Public,VA,Norfolk,2024-07-24,23502,TESLA,$0.31 per kWh,36.856517,-76.219525,public,1821
+ELEC,Wawa - Tesla Supercharger,7316 Forest Hill Ave,2024-09-12,Public,VA,Richmond,2024-07-25,23225,TESLA,$0.31 per kWh,37.53734,-77.531678,public,1822
