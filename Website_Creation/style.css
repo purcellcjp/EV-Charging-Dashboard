@@ -1,12 +1,43 @@
-/* Remove the default margin and padding from the body. */
 body {
-  padding: 0;
   margin: 0;
+  font-family: Arial, sans-serif;
 }
 
-/* Set map, body, and html to 100% of the screen size. */
-#map,
-body,
-html {
-  height: 100%;
+.container {
+  padding: 20px;
+}
+
+.visualization-container {
+  display: flex;
+}
+
+.graph-container {
+  flex: 1; 
+  margin-right: 20px; 
+}
+
+.chart-container {
+  flex: 1; 
+  border-left: 1px solid #ccc;
+  padding-left: 20px;
+}
+
+.map-button-container {
+  margin-bottom: 20px; 
+}
+
+select {
+  margin: 10px 0;
+  padding: 5px;
+}
+
+#bar-chart1,
+#bar-chart2 {
+  margin-top: 20px;
+}
+
+#bar-chart1 svg,
+#bar-chart2 svg {
+  width: 100%;
+  height: 200px;
 }
