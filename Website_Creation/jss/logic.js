@@ -6,16 +6,16 @@ document.addEventListener("DOMContentLoaded", function () {
       .then(response => response.json())
       .then(data => {
           globalData = data;
-          populateStateDropdown(); // Populate the state dropdown
-          populateCityDropdown();  // Populate the city dropdown based on the initial state
-          setDefaultCity("Hanover"); // Set Hanover as the default city and load the charts
+          populateStateDropdown();
+          populateCityDropdown();  
+          setDefaultCity("Hanover"); 
       });
 
-  // Function to populate the state dropdown menu
+//function to fill state dropdown
   function populateStateDropdown() {
       const stateSet = new Set();
 
-      // Extract unique state names from the data
+//extract unique names from GeoJSON
       globalData.features.forEach(feature => {
           const state = feature.properties.State;
           if (state) {
@@ -24,15 +24,15 @@ document.addEventListener("DOMContentLoaded", function () {
       });
 
       const stateDropdown = document.getElementById("dropdown-state");
-      stateDropdown.innerHTML = ""; // Clear any existing options
+      stateDropdown.innerHTML = "";
 
-      // Add a default option
+//adds default option
       const defaultOption = document.createElement("option");
       defaultOption.text = "Select a State";
       defaultOption.value = "";
       stateDropdown.appendChild(defaultOption);
 
-      // Add state options to the dropdown
+//append state options to dropdown
       stateSet.forEach(state => {
           const option = document.createElement("option");
           option.text = state;
@@ -41,12 +41,12 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   }
 
-  // Function to populate the city dropdown menu based on the selected state
+//function to populate city dropdown
   function populateCityDropdown() {
       const citySet = new Set();
       const selectedState = document.getElementById("dropdown-state").value;
 
-      // Extract unique city names for the selected state from the data
+//extract the city names per state
       globalData.features.forEach(feature => {
           const city = feature.properties.City;
           const state = feature.properties.State;
@@ -56,15 +56,15 @@ document.addEventListener("DOMContentLoaded", function () {
       });
 
       const cityDropdown = document.getElementById("dropdown-city");
-      cityDropdown.innerHTML = ""; // Clear any existing options
+      cityDropdown.innerHTML = "";
 
-      // Add a default option
+//adds default option
       const defaultOption = document.createElement("option");
       defaultOption.text = "Select a City";
       defaultOption.value = "";
       cityDropdown.appendChild(defaultOption);
 
-      // Add city options to the dropdown
+//appends city option to dropdown
       citySet.forEach(city => {
           const option = document.createElement("option");
           option.text = city;
@@ -73,14 +73,14 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   }
 
-  // Function to set the default city and load its charts
+//function to show default city charts
   function setDefaultCity(cityName) {
       const cityDropdown = document.getElementById("dropdown-city");
       cityDropdown.value = cityName;
       drawPlotlyCharts(cityName);
   }
 
-  // Function to calculate sums for charging stations in a city
+//function to calculate charging type sums
   function calculateStationSums(cityName) {
       let dcFastSum = 0;
       let level1Sum = 0;
@@ -94,13 +94,13 @@ document.addEventListener("DOMContentLoaded", function () {
               level1Sum += parseFloat(properties.Level1_Charging) || 0;
               level2Sum += parseFloat(properties.Level2_Charging) || 0;
 
-              // Count vendors
+//count vendors
               const owner = properties.Owner;
               vendorCounts[owner] = (vendorCounts[owner] || 0) + 1;
           }
       });
 
-      // Get top 4 vendors
+//get top 4 vendors
       const topVendors = Object.entries(vendorCounts)
           .sort((a, b) => b[1] - a[1])
           .slice(0, 4);
@@ -113,19 +113,19 @@ document.addEventListener("DOMContentLoaded", function () {
       };
   }
 
-  // Function to draw bar charts with Plotly
+//plotly section
   function drawPlotlyCharts(cityName) {
       if (!cityName || cityName === "Select a City") {
-          return; // Do nothing if no valid city is selected
+          return;
       }
 
       const { dcFastSum, level1Sum, level2Sum, topVendors } = calculateStationSums(cityName);
 
-      // Clear previous charts
+//clear previous charts
       Plotly.purge('bar-chart1');
       Plotly.purge('bar-chart2');
 
-      // Charging stations bar chart
+//charging stations bar chart
       const data1 = [
           {
               x: ['DC Fast', 'Level 1', 'Level 2'],
@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", function () {
       };
       Plotly.newPlot('bar-chart1', data1, layout1);
 
-      // Top vendors bar chart
+//vendors bar chart
       const data2 = [
           {
               x: topVendors.map(v => v[0]),
@@ -158,12 +158,12 @@ document.addEventListener("DOMContentLoaded", function () {
       Plotly.newPlot('bar-chart2', data2, layout2);
   }
 
-  // Event listener for the state dropdown
+//event listener for the state dropdown
   document.getElementById("dropdown-state").addEventListener("change", () => {
       populateCityDropdown(); // Update city dropdown based on the selected state
   });
 
-  // Event listener for the city dropdown
+//event listener for the city dropdown
   document.getElementById("dropdown-city").addEventListener("change", (event) => {
       const cityName = event.target.value;
       drawPlotlyCharts(cityName);

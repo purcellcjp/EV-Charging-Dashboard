@@ -107,16 +107,16 @@
         // Update the heatmap layer with the heatData
         heatLayer.setLatLngs(heatData);
 
-        // Listen for layeradd and layerremove events to toggle markers
+        //event listener
         myMap.on('overlayadd', function(eventLayer) {
           if (eventLayer.name === 'Heatmap') {
-            myMap.removeLayer(markerLayerGroup); // Remove markers when heatmap is added
+            myMap.removeLayer(markerLayerGroup);
           }
         });
 
         myMap.on('overlayremove', function(eventLayer) {
           if (eventLayer.name === 'Heatmap') {
-            myMap.addLayer(markerLayerGroup); // Add markers back when heatmap is removed
+            myMap.addLayer(markerLayerGroup);
           }
         });
       })
