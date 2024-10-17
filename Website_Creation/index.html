@@ -1,66 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Data Visualizations</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualizations</title>
 
-  <!-- Leaflet CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-    crossorigin="" />
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin="" />
 
-  <!-- D3.js Library for visualizations -->
-  <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- D3.js Library for visualizations -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 
-  <!-- Leaflet JavaScript -->
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-    crossorigin=""></script>
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+          crossorigin=""></script>
 
-  <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="jss/style.css"> <!-- Path remains the same -->
 </head>
-
 <body>
-  <div class="container">
-    <h1>Data Visualizations</h1>
+    <div class="container">
+        <div class="header-container">
+            <h2>EV-Charging Stations In The DMV</h2>
+            <button id="open-map" onclick="openMap()">Open Map</button>
+        </div>
 
-    <!-- Button to Open the Map -->
-    <div class="map-button-container">
-      <button id="open-map" onclick="openMap()">Open Map</button>
+        <div class="visualization-container">
+            <div class="left-column">
+                <!-- Paragraph Box -->
+                <div class="paragraph-box">
+                    <p>
+                        Our webpage is designed to show the different types of charging stations within the DMV and
+                        depict the trends of how many charging stations are added per year. Click the open map button above
+                        to open a new webpage showing map with all the different charging stations in the DMV area!
+                    </p>
+                </div>
+
+                <!-- Static Line Graph -->
+                <div class="graph-container">
+                    <h3>EV-Charging Stations added by year</h3>
+                    <div id="line-graph">
+                        <img src="images/line_graph.png" alt="Line Graph" style="width: 100%; height: auto;">
+                    </div>
+                </div>
+            </div>
+
+            <div class="right-column">
+                <!-- Dropdowns and Bar Charts -->
+                <div class="chart-container">
+                    <div class="dropdown-container">
+                        <select id="dropdown-state">
+                            <option value="">Select a State</option>
+                            <!-- Populate with states -->
+                        </select>
+                        <select id="dropdown-city">
+                            <option value="">Select a City</option>
+                            <!-- Populate with cities -->
+                        </select>
+                    </div>
+                    <div class="bar-charts">
+                        <div id="bar-chart1" class="plotly-chart"></div>
+                        <div id="bar-chart2" class="plotly-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <div class="visualization-container">
-      <!-- Static Line Graph -->
-      <div class="graph-container">
-        <h2>Static Line Graph</h2>
-        <div id="line-graph"></div>
-      </div>
+    <script src="jss/logic.js"></script> <!-- Path remains the same -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-      <!-- Dropdown for both Bar Charts -->
-      <div class="chart-container">
-        <h2>Dynamic Bar Charts</h2>
-        <select id="dropdown">
-          <option value="option1">Option 1</option>
-          <option value="option2">Option 2</option>
-        </select>
-        <div id="bar-chart1"></div>
-        <div id="bar-chart2"></div>
-      </div>
-    </div>
-  </div>
-
-  <script src="logic.js"></script>
-  <script src="visualizations.js"></script>
-  
-  <script>
-//open the map in a new tab
-    function openMap() {
-      window.open('map.html', '_blank');
-    }
-  </script>
+    <script>
+        function openMap() {
+            window.open('map.html', '_blank');
+        }
+    </script>
 </body>
-
 </html>
