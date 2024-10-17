@@ -21,14 +21,14 @@ The National Renewable Energy Laboratory (NREL) and DOE Alterntive Fuels Data Ce
 
 
 ## DataBase
-A PostgreSQL database was created using [`ev_charging_db_schema.sql`](/postgresql/ev_charging_db_schema.sql) and the CSV files in `Data/` to hold the charging station data along with the reference data.
+A PostgreSQL database was created using [`ev_charging_db_schema.sql`](postgresql/ev_charging_db_schema.sql) and the CSV files in `Data/` to hold the charging station data along with the reference data.
 
 Steps to Use:
-1. Run the `CREATE TABLE` and `ALTER TABLE` queries from [`ev_charging_db_schema.sql`](/postgresql/ev_charging_db_schema.sql).
+1. Run the `CREATE TABLE` and `ALTER TABLE` queries from [`ev_charging_db_schema.sql`](postgresql/ev_charging_db_schema.sql).
 2. In pgadmin, use the import tool to import the csv files to the correct table
 3. Run the test `SELECT` queries at the bottom of the sql file.
 
-![Database Diagram](/postgresql/EVChargingDashboardERD.png)
+![Database Diagram](postgresql/EVChargingDashboardERD.png)
 
 ## Flask API
 A Flask API was created to showcase retrieving our data from an API. Github pages only runs for static pages so Python and Flask can't be used directly with our website.
