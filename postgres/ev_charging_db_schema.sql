@@ -3,7 +3,7 @@
 -- Database: Employees_db
 --------------------------------------------------
 --------------------------------------------------
-DROP DATABASE IF EXISTS "Crowdfunding_db";
+DROP DATABASE IF EXISTS "EV_Charging_db";
 
 CREATE DATABASE "EV_Charging_db"
     WITH
@@ -36,14 +36,14 @@ DROP TABLE IF EXISTS ev_connector_types;
 --------------------------------------------------
 CREATE TABLE access_code 
 (
- access_code		CHAR(10)		PRIMARY KEY,
- access_descp		VARCHAR(20)		NOT NULL
+ access_code		    CHAR(10)		PRIMARY KEY,
+ access_descp		    VARCHAR(20)		NOT NULL
 );
 
 /*
-Value 	Description
-public 	Public
-private 	Private
+Value 	    Description
+public 	    Public
+private     Private
 */
 
 --------------------------------------------------
@@ -56,40 +56,53 @@ CREATE TABLE ev_connector_types
 );
 
 /*
-Value 	Description
+Value 	    Description
 NEMA1450 	NEMA 14-50
 NEMA515 	NEMA 5-15
 NEMA520 	NEMA 5-20
-J1772 	J1772
+J1772 	    J1772
 J1772COMBO 	CCS
 CHADEMO 	CHAdeMO
-TESLA 	J3400
+TESLA 	    J3400
 */
+
+
+
 
 --------------------------------------------------
 -- Create table fuel_stations
 --------------------------------------------------
 CREATE TABLE fuel_stations 
 (
- id				    SERIAL 			PRIMARY KEY,
- station_name	    VARCHAR(50)		NOT NULL,
- access_code        VARCHAR(50)	NOT NULL,
- owner      		VARCHAR(75)		NOT NULL,
- last_used			DATE            NOT NULL,
- open_date			DATA            NOT NULL,
+ id				    INT 			PRIMARY KEY,
+ station_name	    VARCHAR(255)	NOT NULL,
+ access_code        VARCHAR(50)	    NOT NULL,
+ owner      		VARCHAR(75)		NULL,
+ last_used			DATE            NULL,
+ open_date			DATE            NULL,
  ev_dc_fast			INT		        NOT NULL,
- level1_charging	CHAR(1)			NULL,
- level2_charging	CHAR(1)			NULL,
- street_address		VARCHAR(50)		NOT NULL,
+ level1_charging	INT			    NOT NULL,
+ level2_charging	INT			    NOT NULL,
+ street_address		VARCHAR(255)	NULL,
  city		        VARCHAR(50)	    NOT NULL,
- state              CHAR(2)        NOT NULL,
+ state              CHAR(2)         NOT NULL,
  zipcode			CHAR(5)		    NOT NULL,
  latitude		    DECIMAL(18,4)	NOT NULL,
  longitude		    DECIMAL(18,4)	NOT NULL,
- pricing            VARCHAR(50)    NOT NULL,
- connector_type     VARCHAR    	NOT NULL
+ pricing            VARCHAR(255)    NULL,
+ connector_type     VARCHAR    	    NOT NULL
 );
 
+
+--------------------------------------------------
+-- Create table fuel_stations_connector_type
+--------------------------------------------------
+CREATE TABLE fuel_stations_connector_type
+(
+ fuel_station_id        INT		        NOT NULL,
+ connector_type_code   	VARCHAR(50)		NOT NULL,
+ PRIMARY KEY (fuel_station_id, connector_type_code)
+);
 
 
 
@@ -99,17 +112,22 @@ CREATE TABLE fuel_stations
 --------------------------------------------------
 --------------------------------------------------
 COPY access_code
-FROM 'C:\Users\purce\Documents\GitHub\Crowdfunding_ETL\Resources\category.csv'
+FROM 'C:\Users\purce\Documents\GitHub\EV-Charging-Dashboard\Data\access_code.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY ev_connector_types
-FROM 'C:\Users\purce\Documents\GitHub\Crowdfunding_ETL\Resources\subcategory.csv'
+FROM 'C:\Users\purce\Documents\GitHub\EV-Charging-Dashboard\Data\ev_connector_types.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY ev_connector_types
+FROM 'C:\Users\purce\Documents\GitHub\EV-Charging-Dashboard\Data\fuel_stations_connector_type.csv'
 DELIMITER ','
 CSV HEADER;
 
 COPY fuel_stations
-FROM 'C:\Users\purce\Documents\GitHub\Crowdfunding_ETL\Resources\contacts.csv'
+FROM 'C:\Users\purce\Documents\GitHub\EV-Charging-Dashboard\Data\DMV_Merge.csv'
 DELIMITER ','
 CSV HEADER;
 
@@ -122,9 +140,9 @@ CSV HEADER;
 --------------------------------------------------
 --------------------------------------------------
 ALTER TABLE fuel_stations
-ADD CONSTRAINT fk_contacts_contact_id
-FOREIGN KEY(contact_id)
-REFERENCES contacts(contact_id)
+ADD CONSTRAINT fk_access_code
+FOREIGN KEY(access_code)
+REFERENCES access_code(access_code)
 ON DELETE CASCADE;
 
 		
@@ -133,13 +151,7 @@ ADD CONSTRAINT fk_category_id
 FOREIGN KEY(category_id)
 REFERENCES category(category_id)
 ON DELETE CASCADE;
-
- 
-ALTER TABLE campaign
-ADD CONSTRAINT fk_subcategory_id
-FOREIGN KEY(subcategory_id)
-REFERENCES subcategory(subcategory_id)
-ON DELETE CASCADE;		
+	
 
 
 --------------------------------------------------
@@ -149,10 +161,10 @@ ON DELETE CASCADE;
 --------------------------------------------------
 -- Only needed if tables need to be repopulated
 /*
-ALTER TABLE salaries
+ALTER TABLE fuel_stations
 DROP CONSTRAINT fk_salaries_emp_no;
 		
-ALTER TABLE dept_manager
+ALTER TABLE fuel_stations
 DROP CONSTRAINT fk_dept_manager_dept_no;
   
 ALTER TABLE dept_manager
@@ -165,8 +177,7 @@ DROP CONSTRAINT fk_dept_manager_emp_no;
 --------------------------------------------------
 --------------------------------------------------
 /* Needed in case import needs to be re-executed
-TRUNCATE TABLE category;
-TRUNCATE TABLE subcategory;
-TRUNCATE TABLE campaign;
-TRUNCATE TABLE contacts;
+TRUNCATE TABLE access_code;
+TRUNCATE TABLE connector_types;
+TRUNCATE TABLE fuel_stations;
 */
