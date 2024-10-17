@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let globalData;
 
   // Fetch the GeoJSON data
-  fetch('NREL_GeoJSON.geojson')
+  fetch('./Website_Creation/NREL_GeoJSON.geojson')
       .then(response => response.json())
       .then(data => {
           globalData = data;
